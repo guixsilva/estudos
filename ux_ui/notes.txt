@@ -1,0 +1,5 @@
+Curso de UX e UI do Lucas Assis.
+
+Módulo 02
+    - UI (User Interface): Parte técnica, tangível, visual do sistema (layout, elementos visuais, design system)
+    - UX (User EXperience): Emocional, Intangível, experiência do usuário no sistema. Objetividade, público alvo do aplicativo.
