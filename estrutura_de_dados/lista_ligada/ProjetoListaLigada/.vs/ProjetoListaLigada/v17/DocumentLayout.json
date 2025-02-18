@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\lista_ligada\\ProjetoListaLigada\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0C5CE8-4406-493D-8B4F-7404F4714705}|ProjetoListaLigada.csproj|c:\\users\\u23519\\documents\\github\\estudos\\estrutura_de_dados\\lista_ligada\\projetolistaligada\\nolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0C5CE8-4406-493D-8B4F-7404F4714705}|ProjetoListaLigada.csproj|solutionrelative:nolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0C5CE8-4406-493D-8B4F-7404F4714705}|ProjetoListaLigada.csproj|c:\\users\\u23519\\documents\\github\\estudos\\estrutura_de_dados\\lista_ligada\\projetolistaligada\\listaligada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0C5CE8-4406-493D-8B4F-7404F4714705}|ProjetoListaLigada.csproj|solutionrelative:listaligada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NoLista.cs",
+              "DocumentMoniker": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\lista_ligada\\ProjetoListaLigada\\NoLista.cs",
+              "RelativeDocumentMoniker": "NoLista.cs",
+              "ToolTip": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\lista_ligada\\ProjetoListaLigada\\NoLista.cs",
+              "RelativeToolTip": "NoLista.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T00:15:26.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListaLigada.cs",
+              "DocumentMoniker": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\lista_ligada\\ProjetoListaLigada\\ListaLigada.cs",
+              "RelativeDocumentMoniker": "ListaLigada.cs",
+              "ToolTip": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\lista_ligada\\ProjetoListaLigada\\ListaLigada.cs",
+              "RelativeToolTip": "ListaLigada.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T00:15:14.598Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
