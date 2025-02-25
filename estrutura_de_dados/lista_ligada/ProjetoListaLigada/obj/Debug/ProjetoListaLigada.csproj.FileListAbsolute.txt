@@ -1,0 +1,7 @@
+C:\Users\u23519\Documents\GitHub\estudos\estrutura_de_dados\lista_ligada\ProjetoListaLigada\bin\Debug\ProjetoListaLigada.exe.config
+C:\Users\u23519\Documents\GitHub\estudos\estrutura_de_dados\lista_ligada\ProjetoListaLigada\bin\Debug\ProjetoListaLigada.exe
+C:\Users\u23519\Documents\GitHub\estudos\estrutura_de_dados\lista_ligada\ProjetoListaLigada\bin\Debug\ProjetoListaLigada.pdb
+C:\Users\u23519\Documents\GitHub\estudos\estrutura_de_dados\lista_ligada\ProjetoListaLigada\obj\Debug\ProjetoListaLigada.csproj.AssemblyReference.cache
+C:\Users\u23519\Documents\GitHub\estudos\estrutura_de_dados\lista_ligada\ProjetoListaLigada\obj\Debug\ProjetoListaLigada.csproj.CoreCompileInputs.cache
+C:\Users\u23519\Documents\GitHub\estudos\estrutura_de_dados\lista_ligada\ProjetoListaLigada\obj\Debug\ProjetoListaLigada.exe
+C:\Users\u23519\Documents\GitHub\estudos\estrutura_de_dados\lista_ligada\ProjetoListaLigada\obj\Debug\ProjetoListaLigada.pdb

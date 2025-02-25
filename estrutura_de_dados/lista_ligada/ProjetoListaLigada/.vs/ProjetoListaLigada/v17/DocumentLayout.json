@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\lista_ligada\\ProjetoListaLigada\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9C0C5CE8-4406-493D-8B4F-7404F4714705}|ProjetoListaLigada.csproj|C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\lista_ligada\\ProjetoListaLigada\\listaligada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0C5CE8-4406-493D-8B4F-7404F4714705}|ProjetoListaLigada.csproj|solutionrelative:listaligada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9C0C5CE8-4406-493D-8B4F-7404F4714705}|ProjetoListaLigada.csproj|c:\\users\\u23519\\documents\\github\\estudos\\estrutura_de_dados\\lista_ligada\\projetolistaligada\\nolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C0C5CE8-4406-493D-8B4F-7404F4714705}|ProjetoListaLigada.csproj|solutionrelative:nolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C0C5CE8-4406-493D-8B4F-7404F4714705}|ProjetoListaLigada.csproj|c:\\users\\u23519\\documents\\github\\estudos\\estrutura_de_dados\\lista_ligada\\projetolistaligada\\listaligada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C0C5CE8-4406-493D-8B4F-7404F4714705}|ProjetoListaLigada.csproj|solutionrelative:listaligada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C0C5CE8-4406-493D-8B4F-7404F4714705}|ProjetoListaLigada.csproj|c:\\users\\u23519\\documents\\github\\estudos\\estrutura_de_dados\\lista_ligada\\projetolistaligada\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0C5CE8-4406-493D-8B4F-7404F4714705}|ProjetoListaLigada.csproj|solutionrelative:aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0C5CE8-4406-493D-8B4F-7404F4714705}|ProjetoListaLigada.csproj|c:\\users\\u23519\\documents\\github\\estudos\\estrutura_de_dados\\lista_ligada\\projetolistaligada\\manteralunos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0C5CE8-4406-493D-8B4F-7404F4714705}|ProjetoListaLigada.csproj|solutionrelative:manteralunos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\lista_ligada\\ProjetoListaLigada\\Aluno.cs",
+              "RelativeDocumentMoniker": "Aluno.cs",
+              "ToolTip": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\lista_ligada\\ProjetoListaLigada\\Aluno.cs",
+              "RelativeToolTip": "Aluno.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAswEMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T22:36:37.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManterAlunos.cs",
+              "DocumentMoniker": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\lista_ligada\\ProjetoListaLigada\\ManterAlunos.cs",
+              "RelativeDocumentMoniker": "ManterAlunos.cs",
+              "ToolTip": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\lista_ligada\\ProjetoListaLigada\\ManterAlunos.cs",
+              "RelativeToolTip": "ManterAlunos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T22:33:55.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "NoLista.cs",
               "DocumentMoniker": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\lista_ligada\\ProjetoListaLigada\\NoLista.cs",
               "RelativeDocumentMoniker": "NoLista.cs",
               "ToolTip": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\lista_ligada\\ProjetoListaLigada\\NoLista.cs",
               "RelativeToolTip": "NoLista.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA+AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T00:15:26.571Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ListaLigada.cs",
               "DocumentMoniker": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\lista_ligada\\ProjetoListaLigada\\ListaLigada.cs",
               "RelativeDocumentMoniker": "ListaLigada.cs",
               "ToolTip": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\lista_ligada\\ProjetoListaLigada\\ListaLigada.cs",
               "RelativeToolTip": "ListaLigada.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAADIAAAAAAAAAAAAIwEIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T00:15:14.598Z",
               "EditorCaption": ""
