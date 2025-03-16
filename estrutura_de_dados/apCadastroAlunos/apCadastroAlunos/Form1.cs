@@ -47,5 +47,104 @@ namespace apCadastroAlunos
                 arquivo.Close();
             }
         }
+
+        private void btnIncluir_Click(object sender, EventArgs e)
+        {
+            string linha = $"{txtRA.Text.PadLeft(5, '0')}{txtNome.Text.PadRight(30, ' ')}{txtNota.Text.PadLeft(4, '0')}";
+            Aluno novoAluno = new Aluno(linha);
+            lista1.InserirAposFim(novoAluno);
+
+            txtRA.Text = "";
+            txtNome.Text = "";
+            txtNota.Text = "";
+
+            IncluiNoArquivo(novoAluno, lsb1);
+            lista1.Listar(lsb1);
+
+        }
+
+        private void IncluiNoArquivo(Aluno aluno, ListBox qualListBox)
+        {
+            if (dlgAbrir.FileName != "")
+            {
+                try
+                {
+                    using(StreamWriter writer = new StreamWriter(dlgAbrir.FileName, append: true))
+                    {
+                        writer.WriteLine(
+                            aluno.ToString()
+                        );
+                    }
+                }catch(Exception ex)
+                {
+                    MessageBox.Show("Ocorreu um erro: " +  ex.Message );
+                }
+                    
+            }
+            else
+            {
+                MessageBox.Show("Primeiro, escaneie um arquivo .txt");
+            }
+        }
+
+        private void btnProcurar_Click(object sender, EventArgs e)
+        {
+            NoLista<Aluno> alunoencontrado = null;
+            var atual = lista1.Primeiro;
+
+            if(dlgAbrir.FileName != "")
+            {
+            if(txtRA.Text != null)
+            {
+                while (atual != null)
+                {
+                    if(atual.Info.Ra == txtRA.Text)
+                    {
+                        alunoencontrado = atual;
+                        break;
+                    }
+
+                    atual = atual.Prox;
+                }
+
+                if(alunoencontrado != null)
+                {
+                    MessageBox.Show("Encontrado");
+                }
+            }
+            }
+            else
+            {
+                MessageBox.Show("Primeiro, escaneie um arquivo .txt");
+            }
+
+
+        }
+
+        private void btnContar_Click(object sender, EventArgs e)
+        {
+            if (dlgAbrir.FileName != "")
+            {
+                int numerodenos = lista1.ContarNos();
+                labelNos.Text = $"Qntd Nós: {numerodenos.ToString()}";
+            }
+            else
+            {
+                MessageBox.Show("Primeiro, escaneie um arquivo .txt");
+            }
+        }
+
+        private void Inverter_Click(object sender, EventArgs e)
+        {
+            if (dlgAbrir.FileName != "")
+            {
+                lista1.Inverter();
+                lista1.Listar(lsb4);
+            }
+            else
+            {
+                MessageBox.Show("Primeiro, escaneie um arquivo .txt");
+            }
+        }
     }
 }

@@ -47,7 +47,7 @@
             this.btnProcurar = new System.Windows.Forms.Button();
             this.btnExcluir = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.label4 = new System.Windows.Forms.Label();
+            this.labelNos = new System.Windows.Forms.Label();
             this.btnContar = new System.Windows.Forms.Button();
             this.lsb1 = new System.Windows.Forms.ListBox();
             this.lsb2 = new System.Windows.Forms.ListBox();
@@ -131,6 +131,7 @@
             this.Inverter.TabIndex = 0;
             this.Inverter.Text = "4. Inverter";
             this.Inverter.UseVisualStyleBackColor = true;
+            this.Inverter.Click += new System.EventHandler(this.Inverter_Click);
             // 
             // groupBox3
             // 
@@ -234,7 +235,6 @@
             // 
             this.txtNota.Dock = System.Windows.Forms.DockStyle.Left;
             this.txtNota.Location = new System.Drawing.Point(76, 71);
-            this.txtNota.Mask = "000,00";
             this.txtNota.Name = "txtNota";
             this.txtNota.Size = new System.Drawing.Size(133, 26);
             this.txtNota.TabIndex = 5;
@@ -248,6 +248,7 @@
             this.btnIncluir.TabIndex = 6;
             this.btnIncluir.Text = "Incluir";
             this.btnIncluir.UseVisualStyleBackColor = true;
+            this.btnIncluir.Click += new System.EventHandler(this.btnIncluir_Click);
             // 
             // btnProcurar
             // 
@@ -258,6 +259,7 @@
             this.btnProcurar.TabIndex = 7;
             this.btnProcurar.Text = "Procurar";
             this.btnProcurar.UseVisualStyleBackColor = true;
+            this.btnProcurar.Click += new System.EventHandler(this.btnProcurar_Click);
             // 
             // btnExcluir
             // 
@@ -271,7 +273,7 @@
             // 
             // groupBox1
             // 
-            this.groupBox1.Controls.Add(this.label4);
+            this.groupBox1.Controls.Add(this.labelNos);
             this.groupBox1.Controls.Add(this.btnContar);
             this.groupBox1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.groupBox1.Location = new System.Drawing.Point(403, 147);
@@ -281,14 +283,14 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Exercicio 1";
             // 
-            // label4
+            // labelNos
             // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(99, 40);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(90, 19);
-            this.label4.TabIndex = 11;
-            this.label4.Text = "Qntd Nós:";
+            this.labelNos.AutoSize = true;
+            this.labelNos.Location = new System.Drawing.Point(99, 40);
+            this.labelNos.Name = "labelNos";
+            this.labelNos.Size = new System.Drawing.Size(90, 19);
+            this.labelNos.TabIndex = 11;
+            this.labelNos.Text = "Qntd Nós:";
             // 
             // btnContar
             // 
@@ -298,6 +300,7 @@
             this.btnContar.TabIndex = 10;
             this.btnContar.Text = "1. Contar";
             this.btnContar.UseVisualStyleBackColor = true;
+            this.btnContar.Click += new System.EventHandler(this.btnContar_Click);
             // 
             // lsb1
             // 
@@ -409,7 +412,7 @@
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.GroupBox groupBox2;
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Label labelNos;
         private System.Windows.Forms.ListBox lsb1;
         private System.Windows.Forms.ListBox lsb2;
         private System.Windows.Forms.ListBox lsb3;

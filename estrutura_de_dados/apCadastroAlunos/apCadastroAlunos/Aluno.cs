@@ -36,7 +36,7 @@ namespace apCadastroAlunos
             set
             {
                 if (value != "")
-                    nome = value.Substring(0, tamanhoRA).PadLeft(tamanhoNome, ' ');
+                    nome = value.Substring(0, value.Length > tamanhoNome ? tamanhoNome : value.Length).PadRight(tamanhoNome, ' ');
                 else
                     throw new Exception("Nome vazio é inválido");
             }
