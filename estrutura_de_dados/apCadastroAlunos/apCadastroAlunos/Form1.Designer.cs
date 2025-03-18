@@ -242,6 +242,8 @@
             // btnIncluir
             // 
             this.btnIncluir.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.btnIncluir.FlatAppearance.BorderColor = System.Drawing.Color.Black;
+            this.btnIncluir.FlatAppearance.BorderSize = 2;
             this.btnIncluir.Location = new System.Drawing.Point(403, 3);
             this.btnIncluir.Name = "btnIncluir";
             this.btnIncluir.Size = new System.Drawing.Size(244, 28);
