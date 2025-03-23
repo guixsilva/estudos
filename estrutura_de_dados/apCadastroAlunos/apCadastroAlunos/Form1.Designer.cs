@@ -34,7 +34,7 @@
             this.Inverter = new System.Windows.Forms.Button();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
             this.button3 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
+            this.btnArquivo2 = new System.Windows.Forms.Button();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.button1 = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
@@ -55,6 +55,7 @@
             this.lsb4 = new System.Windows.Forms.ListBox();
             this.btnArquivo1 = new System.Windows.Forms.Button();
             this.dlgAbrir = new System.Windows.Forms.OpenFileDialog();
+            this.dlgAbrir2 = new System.Windows.Forms.OpenFileDialog();
             this.tableLayoutPanel1.SuspendLayout();
             this.groupBox4.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -136,7 +137,7 @@
             // groupBox3
             // 
             this.groupBox3.Controls.Add(this.button3);
-            this.groupBox3.Controls.Add(this.button2);
+            this.groupBox3.Controls.Add(this.btnArquivo2);
             this.groupBox3.Dock = System.Windows.Forms.DockStyle.Fill;
             this.groupBox3.Location = new System.Drawing.Point(403, 330);
             this.groupBox3.Name = "groupBox3";
@@ -153,15 +154,17 @@
             this.button3.TabIndex = 1;
             this.button3.Text = "Juntar";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
-            // button2
+            // btnArquivo2
             // 
-            this.button2.Location = new System.Drawing.Point(6, 25);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(118, 48);
-            this.button2.TabIndex = 0;
-            this.button2.Text = "Ler Arquivo 2";
-            this.button2.UseVisualStyleBackColor = true;
+            this.btnArquivo2.Location = new System.Drawing.Point(6, 25);
+            this.btnArquivo2.Name = "btnArquivo2";
+            this.btnArquivo2.Size = new System.Drawing.Size(118, 48);
+            this.btnArquivo2.TabIndex = 0;
+            this.btnArquivo2.Text = "Ler Arquivo 2";
+            this.btnArquivo2.UseVisualStyleBackColor = true;
+            this.btnArquivo2.Click += new System.EventHandler(this.btnArquivo2_Click);
             // 
             // groupBox2
             // 
@@ -182,6 +185,7 @@
             this.button1.TabIndex = 10;
             this.button1.Text = "2. Separar";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // label1
             // 
@@ -366,6 +370,10 @@
             this.dlgAbrir.InitialDirectory = "c:\\temp";
             this.dlgAbrir.Title = "Selecione o arquivo a ser aberto...";
             // 
+            // dlgAbrir2
+            // 
+            this.dlgAbrir2.FileName = "dlgAbrir2";
+            // 
             // FrmCadastro
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 19F);
@@ -411,7 +419,7 @@
         private System.Windows.Forms.Button btnContar;
         private System.Windows.Forms.GroupBox groupBox3;
         private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button btnArquivo2;
         private System.Windows.Forms.GroupBox groupBox2;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Label labelNos;
@@ -422,6 +430,7 @@
         private System.Windows.Forms.GroupBox groupBox4;
         private System.Windows.Forms.Button Inverter;
         private System.Windows.Forms.OpenFileDialog dlgAbrir;
+        private System.Windows.Forms.OpenFileDialog dlgAbrir2;
     }
 }
 

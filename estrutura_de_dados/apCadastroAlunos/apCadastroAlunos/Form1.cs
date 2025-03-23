@@ -16,6 +16,10 @@ namespace apCadastroAlunos
 
         ListaSimples<Aluno> lista1;
 
+        ListaSimples<int> lista2;
+
+        ListaSimples<int> lista3;
+
         public FrmCadastro()
         {
             InitializeComponent();
@@ -24,6 +28,19 @@ namespace apCadastroAlunos
         private void FrmCadastro_Load(object sender, EventArgs e)
         {
             lista1 = new ListaSimples<Aluno>();
+            lista2 = new ListaSimples<int>();
+            lista3 = new ListaSimples<int>();
+            lista2.InserirAposFim(1);
+            lista2.InserirAposFim(2);
+            lista2.InserirAposFim(3);
+            lista2.InserirAposFim(4);
+            lista2.InserirAposFim(5);
+            lista2.InserirAposFim(6);
+            lista2.InserirAposFim(7);
+            lista2.InserirAposFim(8);
+            lista2.InserirAposFim(9);
+            lista2.InserirAposFim(10);
+            lista2.Listar(lsb2);
         }
 
         private void btnArquivo1_Click(object sender, EventArgs e)
@@ -145,6 +162,41 @@ namespace apCadastroAlunos
             {
                 MessageBox.Show("Primeiro, escaneie um arquivo .txt");
             }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void FazerLeitura2(ListaSimples<int> novaLista, ListBox qualListBox)
+        {
+            novaLista = new ListaSimples<int>();
+            if (dlgAbrir2.ShowDialog() == DialogResult.OK)
+            {
+                StreamReader arquivo2 = new StreamReader(dlgAbrir2.FileName);
+                while (!arquivo2.EndOfStream)
+                {
+                    string linha = arquivo2.ReadLine();
+                    if (int.TryParse(linha, out int valor))
+                    {
+                        novaLista.InserirAposFim(valor);
+                    }
+                }
+                novaLista.Listar(qualListBox);
+                arquivo2.Close();
+            }
+        }
+
+        private void btnArquivo2_Click(object sender, EventArgs e)
+        {
+            FazerLeitura2(lista3, lsb3);
+        }
+
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
