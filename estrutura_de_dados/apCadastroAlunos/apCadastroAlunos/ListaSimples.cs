@@ -106,6 +106,21 @@ public class ListaSimples<Dado> where Dado : IComparable<Dado>
         primeiro = anterior;
     }
 
+    public bool Buscar(Dado DadoProcurado)
+    {
+        atual = primeiro;
+        while(atual != null)
+        {
+            if (atual.Info.Equals(DadoProcurado)){
+                atual = atual.Prox;
+                return true;
+            }
+            atual = atual.Prox;
+        }
+
+        return false;
+    }
+
     public void SeparaImparesEPares()
     {
         atual = primeiro;
@@ -127,33 +142,6 @@ public class ListaSimples<Dado> where Dado : IComparable<Dado>
             atual = atual.Prox;
         }
 
-    }
-
-    private ListaSimples<int> JuntarListas(ListaSimples<int> listaPam2)
-    {
-        atual = primeiro;
-        ListaSimples<int> listaNova = new ListaSimples<int>();
-        ListaSimples<int> listaRepetidos = new ListaSimples<int>();
-        NoLista<int> atual2 = listaPam2.primeiro;
-
-        while(atual != null || atual2 != null)
-        {
-            if (atual.Info is int valor)
-            {
-                if (atual == null)
-                {
-                    listaNova.InserirAposFim(atual2.Info);
-                    atual2 = atual2.Prox;
-                }
-                else if (atual2 == null)
-                {
-                    listaNova.InserirAposFim(atual.Info);
-                    atual = atual.Prox;
-                }
-            }
-        }
-
-        return null;
     }
 
     public void Excluir(Dado dado)

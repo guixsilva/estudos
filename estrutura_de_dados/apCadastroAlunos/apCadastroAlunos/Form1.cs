@@ -169,7 +169,7 @@ namespace apCadastroAlunos
 
         }
 
-        private void FazerLeitura2(ListaSimples<int> novaLista, ListBox qualListBox)
+        private void FazerLeitura2(ref ListaSimples<int> novaLista, ListBox qualListBox)
         {
             novaLista = new ListaSimples<int>();
             if (dlgAbrir2.ShowDialog() == DialogResult.OK)
@@ -190,13 +190,42 @@ namespace apCadastroAlunos
 
         private void btnArquivo2_Click(object sender, EventArgs e)
         {
-            FazerLeitura2(lista3, lsb3);
+            FazerLeitura2(ref lista3, lsb3);
+        }
+
+        private ListaSimples<int> JuntarListas(ListaSimples<int> param1, ListaSimples<int> param2)
+        {
+            NoLista<int> atual1 = param1.Primeiro;
+            NoLista<int> atual2 = param2.Primeiro;
+            ListaSimples<int> listaConcatenada = new  ListaSimples<int>();
+
+            while (atual1 != null)
+            {
+                if (listaConcatenada.Buscar(atual1.Info) == false)
+                {
+                    listaConcatenada.InserirAposFim(atual1.Info);
+                }
+                atual1 = atual1.Prox;
+            }
+
+            while (atual2 != null)
+            {
+                if (listaConcatenada.Buscar(atual2.Info) == false)
+                {
+                    listaConcatenada.InserirAposFim(atual2.Info);
+                }
+                atual2 = atual2.Prox;
+            }
+
+            return listaConcatenada;
         }
 
 
         private void button3_Click(object sender, EventArgs e)
         {
-
+            ListaSimples<int> listaJuntada = JuntarListas(lista2, lista3);
+            lsb3.Items.Clear();
+            listaJuntada.Listar(lsb3);
         }
     }
 }
