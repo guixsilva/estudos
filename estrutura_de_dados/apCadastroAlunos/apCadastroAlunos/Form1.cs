@@ -1,12 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
 using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace apCadastroAlunos
@@ -16,9 +9,9 @@ namespace apCadastroAlunos
 
         ListaSimples<Aluno> lista1;
 
-        ListaSimples<int> lista2;
+        ListaSimples<Aluno> lista2;
 
-        ListaSimples<int> lista3;
+        ListaSimples<Aluno> lista3;
 
         public FrmCadastro()
         {
@@ -28,19 +21,8 @@ namespace apCadastroAlunos
         private void FrmCadastro_Load(object sender, EventArgs e)
         {
             lista1 = new ListaSimples<Aluno>();
-            lista2 = new ListaSimples<int>();
-            lista3 = new ListaSimples<int>();
-            lista2.InserirAposFim(1);
-            lista2.InserirAposFim(2);
-            lista2.InserirAposFim(3);
-            lista2.InserirAposFim(4);
-            lista2.InserirAposFim(5);
-            lista2.InserirAposFim(6);
-            lista2.InserirAposFim(7);
-            lista2.InserirAposFim(8);
-            lista2.InserirAposFim(9);
-            lista2.InserirAposFim(10);
-            lista2.Listar(lsb2);
+            lista2 = new ListaSimples<Aluno>();
+            lista3 = new ListaSimples<Aluno>();
         }
 
         private void btnArquivo1_Click(object sender, EventArgs e)
@@ -164,68 +146,25 @@ namespace apCadastroAlunos
             }
         }
 
+
         private void button1_Click(object sender, EventArgs e)
         {
-
-        }
-
-        private void FazerLeitura2(ref ListaSimples<int> novaLista, ListBox qualListBox)
-        {
-            novaLista = new ListaSimples<int>();
-            if (dlgAbrir2.ShowDialog() == DialogResult.OK)
-            {
-                StreamReader arquivo2 = new StreamReader(dlgAbrir2.FileName);
-                while (!arquivo2.EndOfStream)
-                {
-                    string linha = arquivo2.ReadLine();
-                    if (int.TryParse(linha, out int valor))
-                    {
-                        novaLista.InserirAposFim(valor);
-                    }
-                }
-                novaLista.Listar(qualListBox);
-                arquivo2.Close();
-            }
+            lista1.Listar(lsb1);
+            ListaSimples<Aluno> pares=null, impares = null;
+            lista1.SepararListas(ref pares, ref impares);
+            pares.Listar(lsb2);
+            impares.Listar(lsb3);
         }
 
         private void btnArquivo2_Click(object sender, EventArgs e)
         {
-            FazerLeitura2(ref lista3, lsb3);
+            FazerLeitura(ref lista2, lsb2);
         }
-
-        private ListaSimples<int> JuntarListas(ListaSimples<int> param1, ListaSimples<int> param2)
-        {
-            NoLista<int> atual1 = param1.Primeiro;
-            NoLista<int> atual2 = param2.Primeiro;
-            ListaSimples<int> listaConcatenada = new  ListaSimples<int>();
-
-            while (atual1 != null)
-            {
-                if (listaConcatenada.Buscar(atual1.Info) == false)
-                {
-                    listaConcatenada.InserirAposFim(atual1.Info);
-                }
-                atual1 = atual1.Prox;
-            }
-
-            while (atual2 != null)
-            {
-                if (listaConcatenada.Buscar(atual2.Info) == false)
-                {
-                    listaConcatenada.InserirAposFim(atual2.Info);
-                }
-                atual2 = atual2.Prox;
-            }
-
-            return listaConcatenada;
-        }
-
 
         private void button3_Click(object sender, EventArgs e)
         {
-            ListaSimples<int> listaJuntada = JuntarListas(lista2, lista3);
-            lsb3.Items.Clear();
-            listaJuntada.Listar(lsb3);
+            var lista3 = lista1.Juntar(lista2);
+            lista3.Listar(lsb3);
         }
     }
 }

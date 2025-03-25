@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace apCadastroAlunos
 {
-    public class Aluno : IComparable<Aluno>
+    public class Aluno : IComparable<Aluno>, IcriterioDeSeparacao
     {
         const int tamanhoRA = 5;
         const int tamanhoNome = 30;
@@ -75,6 +75,12 @@ namespace apCadastroAlunos
         public override string ToString()
         {
             return ra + " " + nome + " " + nota;
+        }
+
+        public bool DeveSeparar()
+        {
+            int raInteiro = Convert.ToInt32(ra);
+            return raInteiro % 2 == 0;
         }
     }
 }
