@@ -74,7 +74,7 @@ namespace apCadastroAlunos
         }
         public override string ToString()
         {
-            return ra + " " + nome + " " + nota;
+            return ra + nome + nota;
         }
 
         public bool DeveSeparar()

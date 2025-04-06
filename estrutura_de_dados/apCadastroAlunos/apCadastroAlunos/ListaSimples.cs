@@ -1,5 +1,6 @@
 using apCadastroAlunos;
 using System;
+using System.IO;
 using System.Windows.Forms;
 
 public class ListaSimples<Dado> where Dado : IComparable<Dado>, IcriterioDeSeparacao
@@ -125,17 +126,61 @@ public class ListaSimples<Dado> where Dado : IComparable<Dado>, IcriterioDeSepar
         }
     }
 
-    public bool Buscar(Dado DadoProcurado)
-    {
-        atual = primeiro;
-        while (atual != null)
+    public Boolean Buscar(Dado dadoprocurado)
+    {        
+        
+        bool elemento_encontrado = false;
+        bool fim = false;
+
+        if (EstaVazia || primeiro.Prox == null)
         {
-            if (atual.Info.Equals(DadoProcurado))
-                return true;
-            atual = atual.Prox;
+            return fim;
         }
-        return false;
+
+        if(dadoprocurado.CompareTo(ultimo.Info) < 0)
+        {
+            return fim;
+        }
+
+        if (dadoprocurado.CompareTo(primeiro.Info) > 0)
+        {
+            return fim;
+        }
+
+        anterior = null;
+        atual = primeiro;
+
+        do
+        {
+            if(atual == null)
+            {
+                fim = true;
+            }
+            else
+            {
+                if(dadoprocurado.CompareTo(atual.Info) == 0)
+                {
+                    elemento_encontrado = true;
+                }
+                else
+                {
+                    if(dadoprocurado.CompareTo(atual.Info) > 0)
+                    {
+                        fim = true;
+                    }
+                    else
+                    {
+                        anterior = atual;
+                        atual = atual.Prox;
+                    }
+                    return elemento_encontrado;
+                }
+            }
+            return fim;
+        } while (!elemento_encontrado || !fim);
     }
+
+
 
     public ListaSimples<Dado> Juntar(ListaSimples<Dado> aOutra)
     {
@@ -202,8 +247,65 @@ public class ListaSimples<Dado> where Dado : IComparable<Dado>, IcriterioDeSepar
         impar.ultimo.Prox = null;
     }
 
+    public void Ordenar()
+    {
+        if (EstaVazia || primeiro.Prox == null)
+        {
+            return;
+        }
+
+        bool trocado;
+
+        do
+        {
+            trocado = false;
+            NoLista<Dado> atual = primeiro;
+            NoLista<Dado> proximo = atual.Prox;
+
+            while (proximo != null)
+            {
+                if (atual.Info.CompareTo(proximo.Info) > 0)
+                {
+                    Dado backup = atual.Info;
+                    atual.Info = proximo.Info;
+                    proximo.Info = backup;
+
+                    trocado = true;
+                }
+
+                atual = proximo;
+                proximo = proximo.Prox;
+            }
+        } while (trocado);
+    }
+
     public void Excluir(Dado dado)
     {
         // Implementação pendente
     }
+
+    public void GravarEmArquivo(string nomeArquivo)
+    {
+        try
+        {
+            using (StreamWriter escritor = new StreamWriter(nomeArquivo))
+            {
+                NoLista<Dado> atual = primeiro;
+                while (atual != null)
+                {
+                    if (atual.Info != null)
+                    {
+                        escritor.WriteLine(atual.Info.ToString());
+                    }
+                    atual = atual.Prox;
+                }
+            }
+            Console.WriteLine($"Dados gravados com sucesso em {nomeArquivo}");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Erro ao gravar no arquivo: {ex.Message}");
+        }
+    }
+
 }

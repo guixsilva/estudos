@@ -28,6 +28,7 @@ namespace apCadastroAlunos
         private void btnArquivo1_Click(object sender, EventArgs e)
         {
             FazerLeitura(ref lista1,lsb1);
+
         }
 
         private void FazerLeitura(ref ListaSimples<Aluno> qualLista, ListBox qualListBox)
@@ -42,8 +43,11 @@ namespace apCadastroAlunos
                     linha = arquivo.ReadLine();
                     qualLista.InserirAposFim(new Aluno(linha));
                 }
+                qualLista.Ordenar();
+                qualLista.ExibirNaTela();
                 qualLista.Listar(qualListBox);
                 arquivo.Close();
+                qualLista.GravarEmArquivo(dlgAbrir.FileName);
             }
         }
 
@@ -88,36 +92,12 @@ namespace apCadastroAlunos
 
         private void btnProcurar_Click(object sender, EventArgs e)
         {
-            NoLista<Aluno> alunoencontrado = null;
-            var atual = lista1.Primeiro;
-
-            if(dlgAbrir.FileName != "")
-            {
-            if(txtRA.Text != null)
-            {
-                while (atual != null)
+               Aluno aluno = new Aluno(txtRA.Text);
+               Boolean retorno = lista1.Buscar(aluno);
+                if (retorno)
                 {
-                    if(atual.Info.Ra == txtRA.Text)
-                    {
-                        alunoencontrado = atual;
-                        break;
-                    }
-
-                    atual = atual.Prox;
-                }
-
-                if(alunoencontrado != null)
-                {
-                    MessageBox.Show("Encontrado");
-                }
-            }
-            }
-            else
-            {
-                MessageBox.Show("Primeiro, escaneie um arquivo .txt");
-            }
-
-
+                MessageBox.Show("Encontrado");
+                } 
         }
 
         private void btnContar_Click(object sender, EventArgs e)
