@@ -33,6 +33,19 @@
           "SelectedChildIndex": 16,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apCadastroAlunos\\apCadastroAlunos\\Form1.cs",
+              "RelativeDocumentMoniker": "apCadastroAlunos\\Form1.cs",
+              "ToolTip": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apCadastroAlunos\\apCadastroAlunos\\Form1.cs",
+              "RelativeToolTip": "apCadastroAlunos\\Form1.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAUwF4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T23:43:22.635Z",
+              "IsPinned": true
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
@@ -94,20 +107,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apCadastroAlunos\\apCadastroAlunos\\Form1.cs",
-              "RelativeDocumentMoniker": "apCadastroAlunos\\Form1.cs",
-              "ToolTip": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apCadastroAlunos\\apCadastroAlunos\\Form1.cs",
-              "RelativeToolTip": "apCadastroAlunos\\Form1.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAUwF4AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T23:43:22.635Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Aluno.cs",
               "DocumentMoniker": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apCadastroAlunos\\apCadastroAlunos\\Aluno.cs",
@@ -129,8 +128,7 @@
               "RelativeToolTip": "apCadastroAlunos\\NoLista.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T02:14:58.618Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-06T02:14:58.618Z"
             },
             {
               "$type": "Document",
@@ -141,8 +139,7 @@
               "ToolTip": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apCadastroAlunos\\apCadastroAlunos\\Form1.cs [Design]",
               "RelativeToolTip": "apCadastroAlunos\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T02:13:04.442Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-06T02:13:04.442Z"
             },
             {
               "$type": "Document",
@@ -154,8 +151,7 @@
               "RelativeToolTip": "apCadastroAlunos\\ListaSimples.cs",
               "ViewState": "AgIAABQBAAAAAAAAAADwvzQBAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T00:03:19.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T00:03:19.844Z"
             }
           ]
         }
