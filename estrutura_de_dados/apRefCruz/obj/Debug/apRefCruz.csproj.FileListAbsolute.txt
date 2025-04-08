@@ -1,0 +1,10 @@
+P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\correcoes\Listas Ligadas\apRefCruz\obj\Debug\apRefCruz.csproj.AssemblyReference.cache
+P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\correcoes\Listas Ligadas\apRefCruz\obj\Debug\apRefCruz.FrmRefCruzada.resources
+P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\correcoes\Listas Ligadas\apRefCruz\obj\Debug\apRefCruz.Properties.Resources.resources
+P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\correcoes\Listas Ligadas\apRefCruz\obj\Debug\apRefCruz.csproj.GenerateResource.cache
+P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\correcoes\Listas Ligadas\apRefCruz\obj\Debug\apRefCruz.csproj.CoreCompileInputs.cache
+P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\correcoes\Listas Ligadas\apRefCruz\bin\Debug\apRefCruz.exe.config
+P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\correcoes\Listas Ligadas\apRefCruz\bin\Debug\apRefCruz.exe
+P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\correcoes\Listas Ligadas\apRefCruz\bin\Debug\apRefCruz.pdb
+P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\correcoes\Listas Ligadas\apRefCruz\obj\Debug\apRefCruz.exe
+P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\correcoes\Listas Ligadas\apRefCruz\obj\Debug\apRefCruz.pdb

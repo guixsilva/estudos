@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\correcoes\\Listas Ligadas\\apRefCruz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C397EE5D-5D1B-4411-960B-ADD3943C1F4F}|apRefCruz.csproj|p:\\59-desenvsistemas\\2025\\2o ano\\ti221-estruturas de dados\\correcoes\\listas ligadas\\aprefcruz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C397EE5D-5D1B-4411-960B-ADD3943C1F4F}|apRefCruz.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C397EE5D-5D1B-4411-960B-ADD3943C1F4F}|apRefCruz.csproj|p:\\59-desenvsistemas\\2025\\2o ano\\ti221-estruturas de dados\\correcoes\\listas ligadas\\aprefcruz\\linha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C397EE5D-5D1B-4411-960B-ADD3943C1F4F}|apRefCruz.csproj|solutionrelative:linha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C397EE5D-5D1B-4411-960B-ADD3943C1F4F}|apRefCruz.csproj|p:\\59-desenvsistemas\\2025\\2o ano\\ti221-estruturas de dados\\correcoes\\listas ligadas\\aprefcruz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C397EE5D-5D1B-4411-960B-ADD3943C1F4F}|apRefCruz.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C397EE5D-5D1B-4411-960B-ADD3943C1F4F}|apRefCruz.csproj|p:\\59-desenvsistemas\\2025\\2o ano\\ti221-estruturas de dados\\correcoes\\listas ligadas\\aprefcruz\\listasimples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C397EE5D-5D1B-4411-960B-ADD3943C1F4F}|apRefCruz.csproj|solutionrelative:listasimples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C397EE5D-5D1B-4411-960B-ADD3943C1F4F}|apRefCruz.csproj|p:\\59-desenvsistemas\\2025\\2o ano\\ti221-estruturas de dados\\correcoes\\listas ligadas\\aprefcruz\\referencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C397EE5D-5D1B-4411-960B-ADD3943C1F4F}|apRefCruz.csproj|solutionrelative:referencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C397EE5D-5D1B-4411-960B-ADD3943C1F4F}|apRefCruz.csproj|p:\\59-desenvsistemas\\2025\\2o ano\\ti221-estruturas de dados\\correcoes\\listas ligadas\\aprefcruz\\nolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C397EE5D-5D1B-4411-960B-ADD3943C1F4F}|apRefCruz.csproj|solutionrelative:nolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C397EE5D-5D1B-4411-960B-ADD3943C1F4F}|apRefCruz.csproj|p:\\59-desenvsistemas\\2025\\2o ano\\ti221-estruturas de dados\\correcoes\\listas ligadas\\aprefcruz\\iregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C397EE5D-5D1B-4411-960B-ADD3943C1F4F}|apRefCruz.csproj|solutionrelative:iregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{80c411e8-fd5e-4b16-914b-0d9d84172cc1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\correcoes\\Listas Ligadas\\apRefCruz\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\correcoes\\Listas Ligadas\\apRefCruz\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAvwEAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:29:16.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Linha.cs",
+              "DocumentMoniker": "P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\correcoes\\Listas Ligadas\\apRefCruz\\Linha.cs",
+              "RelativeDocumentMoniker": "Linha.cs",
+              "ToolTip": "P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\correcoes\\Listas Ligadas\\apRefCruz\\Linha.cs",
+              "RelativeToolTip": "Linha.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAEwAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:24:36.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRegistro.cs",
+              "DocumentMoniker": "P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\correcoes\\Listas Ligadas\\apRefCruz\\IRegistro.cs",
+              "RelativeDocumentMoniker": "IRegistro.cs",
+              "ToolTip": "P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\correcoes\\Listas Ligadas\\apRefCruz\\IRegistro.cs",
+              "RelativeToolTip": "IRegistro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:22:36.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NoLista.cs",
+              "DocumentMoniker": "P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\correcoes\\Listas Ligadas\\apRefCruz\\NoLista.cs",
+              "RelativeDocumentMoniker": "NoLista.cs",
+              "ToolTip": "P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\correcoes\\Listas Ligadas\\apRefCruz\\NoLista.cs",
+              "RelativeToolTip": "NoLista.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:20:25.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Referencia.cs",
+              "DocumentMoniker": "P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\correcoes\\Listas Ligadas\\apRefCruz\\Referencia.cs",
+              "RelativeDocumentMoniker": "Referencia.cs",
+              "ToolTip": "P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\correcoes\\Listas Ligadas\\apRefCruz\\Referencia.cs",
+              "RelativeToolTip": "Referencia.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:19:48.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListaSimples.cs",
+              "DocumentMoniker": "P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\correcoes\\Listas Ligadas\\apRefCruz\\ListaSimples.cs",
+              "RelativeDocumentMoniker": "ListaSimples.cs",
+              "ToolTip": "P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\correcoes\\Listas Ligadas\\apRefCruz\\ListaSimples.cs",
+              "RelativeToolTip": "ListaSimples.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAcwCEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:17:50.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\correcoes\\Listas Ligadas\\apRefCruz\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\correcoes\\Listas Ligadas\\apRefCruz\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:15:35.237Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
