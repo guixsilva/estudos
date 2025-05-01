@@ -4,8 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-
-    class DicionarioForca :IComparable<DicionarioForca>, IRegistro
+// GUILHERME DA SILVA PEREIRA - 23519
+// MARIA EDUARDA CARVALHO PAES - 23619
+class DicionarioForca :IComparable<DicionarioForca>, IRegistro
     {
         const int tamanhoPalavra = 30;
         const int inicioPalavra = 0;

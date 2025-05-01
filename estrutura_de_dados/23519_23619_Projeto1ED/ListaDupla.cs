@@ -5,6 +5,9 @@ using System.Windows.Forms;
 
 public enum Direcao { paraFrente, paraTras };
 
+// GUILHERME DA SILVA PEREIRA - 23519
+// MARIA EDUARDA CARVALHO PAES - 23619
+
 public class ListaDupla<Dado> 
              where Dado : IComparable<Dado>, IRegistro
 {
@@ -71,6 +74,23 @@ public class ListaDupla<Dado>
 
   public void PosicionarEm(int indice)
   {
+        numeroDoNoAtual = 0;
+        if(indice >= 0 && indice < quantosNos)
+        {
+            atual = primeiro;
+            while(atual.Prox != null)
+            {
+                if(numeroDoNoAtual == indice)
+                {
+                    return;
+                }
+                else
+                {
+                    atual = atual.Prox;
+                    numeroDoNoAtual++;
+                }
+            }
+        }
     // fica para vocês fazerem
 
     // verificar se indice é válido ( >= 0 && < quantosNos)

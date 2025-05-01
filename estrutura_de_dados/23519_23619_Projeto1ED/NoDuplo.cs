@@ -1,5 +1,7 @@
 ﻿using System;
 
+// GUILHERME DA SILVA PEREIRA - 23519
+// MARIA EDUARDA CARVALHO PAES - 23619
 public class NoDuplo<Dado> where Dado : IComparable<Dado>, IRegistro                                      
 {
   NoDuplo<Dado> ant;
