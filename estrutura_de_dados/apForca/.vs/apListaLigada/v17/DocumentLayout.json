@@ -1,38 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\Projetos\\Projeto I - Forca\\Listas Duplamente Ligadas\\apForca\\",
+  "WorkspaceRootPath": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apForca\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2BFB39FF-63A8-4EBA-BED7-CA5A08AA9F55}|apListaLigada.csproj|p:\\59-desenvsistemas\\2025\\2o ano\\ti221-estruturas de dados\\projetos\\projeto i - forca\\listas duplamente ligadas\\apforca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2BFB39FF-63A8-4EBA-BED7-CA5A08AA9F55}|apListaLigada.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BFB39FF-63A8-4EBA-BED7-CA5A08AA9F55}|apListaLigada.csproj|P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\Projetos\\Projeto I - Forca\\Listas Duplamente Ligadas\\apForca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2BFB39FF-63A8-4EBA-BED7-CA5A08AA9F55}|apListaLigada.csproj|C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apForca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2BFB39FF-63A8-4EBA-BED7-CA5A08AA9F55}|apListaLigada.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BFB39FF-63A8-4EBA-BED7-CA5A08AA9F55}|apListaLigada.csproj|P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\Projetos\\Projeto I - Forca\\Listas Duplamente Ligadas\\apForca\\listadupla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2BFB39FF-63A8-4EBA-BED7-CA5A08AA9F55}|apListaLigada.csproj|C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apForca\\listadupla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2BFB39FF-63A8-4EBA-BED7-CA5A08AA9F55}|apListaLigada.csproj|solutionrelative:listadupla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BFB39FF-63A8-4EBA-BED7-CA5A08AA9F55}|apListaLigada.csproj|P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\Projetos\\Projeto I - Forca\\Listas Duplamente Ligadas\\apForca\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BFB39FF-63A8-4EBA-BED7-CA5A08AA9F55}|apListaLigada.csproj|solutionrelative:aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BFB39FF-63A8-4EBA-BED7-CA5A08AA9F55}|apListaLigada.csproj|P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\Projetos\\Projeto I - Forca\\Listas Duplamente Ligadas\\apForca\\noduplo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2BFB39FF-63A8-4EBA-BED7-CA5A08AA9F55}|apListaLigada.csproj|c:\\users\\guiesilva\\documents\\github\\estudos\\estrutura_de_dados\\apforca\\noduplo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2BFB39FF-63A8-4EBA-BED7-CA5A08AA9F55}|apListaLigada.csproj|solutionrelative:noduplo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BFB39FF-63A8-4EBA-BED7-CA5A08AA9F55}|apListaLigada.csproj|P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\Projetos\\Projeto I - Forca\\Listas Duplamente Ligadas\\apForca\\iregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BFB39FF-63A8-4EBA-BED7-CA5A08AA9F55}|apListaLigada.csproj|solutionrelative:iregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2BFB39FF-63A8-4EBA-BED7-CA5A08AA9F55}|apListaLigada.csproj|c:\\users\\guiesilva\\documents\\github\\estudos\\estrutura_de_dados\\apforca\\forca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFB39FF-63A8-4EBA-BED7-CA5A08AA9F55}|apListaLigada.csproj|solutionrelative:forca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\Projetos\\Projeto I - Forca\\Listas Duplamente Ligadas\\apForca\\dadosAlunos.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dadosAlunos.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BFB39FF-63A8-4EBA-BED7-CA5A08AA9F55}|apListaLigada.csproj|P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\Projetos\\Projeto I - Forca\\Listas Duplamente Ligadas\\apForca\\icriteriodeseparacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BFB39FF-63A8-4EBA-BED7-CA5A08AA9F55}|apListaLigada.csproj|solutionrelative:icriteriodeseparacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2BFB39FF-63A8-4EBA-BED7-CA5A08AA9F55}|apListaLigada.csproj|c:\\users\\guiesilva\\documents\\github\\estudos\\estrutura_de_dados\\apforca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2BFB39FF-63A8-4EBA-BED7-CA5A08AA9F55}|apListaLigada.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,8 +30,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 22,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apForca\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apForca\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAmwH0AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T13:07:56.216Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Forca.cs",
+              "DocumentMoniker": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apForca\\Forca.cs",
+              "RelativeDocumentMoniker": "Forca.cs",
+              "ToolTip": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apForca\\Forca.cs",
+              "RelativeToolTip": "Forca.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T15:17:36.713Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -63,10 +79,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{80c411e8-fd5e-4b16-914b-0d9d84172cc1}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Bookmark",
@@ -110,100 +122,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "dadosAlunos.txt",
-              "DocumentMoniker": "P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\Projetos\\Projeto I - Forca\\Listas Duplamente Ligadas\\apForca\\dadosAlunos.txt",
-              "RelativeDocumentMoniker": "dadosAlunos.txt",
-              "ToolTip": "P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\Projetos\\Projeto I - Forca\\Listas Duplamente Ligadas\\apForca\\dadosAlunos.txt",
-              "RelativeToolTip": "dadosAlunos.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-03-19T14:45:55.352Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ICriterioDeSeparacao.cs",
-              "DocumentMoniker": "P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\Projetos\\Projeto I - Forca\\Listas Duplamente Ligadas\\apForca\\ICriterioDeSeparacao.cs",
-              "RelativeDocumentMoniker": "ICriterioDeSeparacao.cs",
-              "ToolTip": "P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\Projetos\\Projeto I - Forca\\Listas Duplamente Ligadas\\apForca\\ICriterioDeSeparacao.cs",
-              "RelativeToolTip": "ICriterioDeSeparacao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "NoDuplo.cs",
+              "DocumentMoniker": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apForca\\NoDuplo.cs",
+              "RelativeDocumentMoniker": "NoDuplo.cs",
+              "ToolTip": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apForca\\NoDuplo.cs",
+              "RelativeToolTip": "NoDuplo.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwA8AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T13:07:55.822Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Aluno.cs",
-              "DocumentMoniker": "P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\Projetos\\Projeto I - Forca\\Listas Duplamente Ligadas\\apForca\\Aluno.cs",
-              "RelativeDocumentMoniker": "Aluno.cs",
-              "ToolTip": "P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\Projetos\\Projeto I - Forca\\Listas Duplamente Ligadas\\apForca\\Aluno.cs",
-              "RelativeToolTip": "Aluno.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAawFEAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T13:07:55.879Z"
+              "WhenOpened": "2025-05-01T17:17:06.656Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\Projetos\\Projeto I - Forca\\Listas Duplamente Ligadas\\apForca\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\Projetos\\Projeto I - Forca\\Listas Duplamente Ligadas\\apForca\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAIIAAAAAAAAAAAAQwJEAAAAGAAAA",
+              "Title": "ListaDupla.cs",
+              "DocumentMoniker": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apForca\\ListaDupla.cs",
+              "RelativeDocumentMoniker": "ListaDupla.cs",
+              "ToolTip": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apForca\\ListaDupla.cs",
+              "RelativeToolTip": "ListaDupla.cs",
+              "ViewState": "AgIAAEsBAAAAAAAAAAAUwGoBAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T13:07:56.216Z",
+              "WhenOpened": "2025-03-12T13:07:56.46Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "NoDuplo.cs",
-              "DocumentMoniker": "P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\Projetos\\Projeto I - Forca\\Listas Duplamente Ligadas\\apForca\\NoDuplo.cs",
-              "RelativeDocumentMoniker": "NoDuplo.cs",
-              "ToolTip": "P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\Projetos\\Projeto I - Forca\\Listas Duplamente Ligadas\\apForca\\NoDuplo.cs",
-              "RelativeToolTip": "NoDuplo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T13:07:56.444Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ListaDupla.cs",
-              "DocumentMoniker": "P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\Projetos\\Projeto I - Forca\\Listas Duplamente Ligadas\\apForca\\ListaDupla.cs",
-              "RelativeDocumentMoniker": "ListaDupla.cs",
-              "ToolTip": "P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\Projetos\\Projeto I - Forca\\Listas Duplamente Ligadas\\apForca\\ListaDupla.cs",
-              "RelativeToolTip": "ListaDupla.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T13:07:56.46Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\Projetos\\Projeto I - Forca\\Listas Duplamente Ligadas\\apForca\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apForca\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\Projetos\\Projeto I - Forca\\Listas Duplamente Ligadas\\apForca\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apForca\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T13:07:56.46Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IRegistro.cs",
-              "DocumentMoniker": "P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\Projetos\\Projeto I - Forca\\Listas Duplamente Ligadas\\apForca\\IRegistro.cs",
-              "RelativeDocumentMoniker": "IRegistro.cs",
-              "ToolTip": "P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\Projetos\\Projeto I - Forca\\Listas Duplamente Ligadas\\apForca\\IRegistro.cs",
-              "RelativeToolTip": "IRegistro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T14:48:40.94Z"
             }
           ]
         }

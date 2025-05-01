@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Windows.Forms;
 
 public enum Direcao { paraFrente, paraTras };
 
@@ -16,23 +17,57 @@ public class ListaDupla<Dado>
 
   public void PosicionarNoInicio()
   {
-    //  codificar
-  }
+        if (EstaVazia)
+        {
+            throw new Exception("lISTA VAZIA");
+        }
+        else
+        {
+            atual = primeiro;
+            NumeroDoNoAtual = 1;
+        }
+    }
 
   public void PosicionarNoFinal()
   {
-    //  codificar
-  }
+        if (EstaVazia)
+        {
+            throw new Exception("lISTA VAZIA");
+        }
+        else
+        {
+            atual = ultimo;
+            NumeroDoNoAtual = quantosNos;
+        }
+    }
 
   public void Avancar()
   {
-    //  codificar
+        if (EstaVazia)
+        {
+            throw new Exception("lISTA VAZIA");
+        }
+        if(atual.Prox != null)
+        {
+            atual = atual.Prox;
+            NumeroDoNoAtual++;
+        }
   }
 
-  public void Retroceder()
+  public NoDuplo<Dado> Retroceder()
   {
-    //  codificar
-  }
+        if (EstaVazia)
+        {
+            throw new Exception("lISTA VAZIA");
+        }
+        if (atual.Ant != null)
+        {
+            atual = atual.Ant;
+            NumeroDoNoAtual = numeroDoNoAtual - 1;
+        }
+
+        return atual;
+    }
 
   public void PosicionarEm(int indice)
   {
@@ -121,101 +156,111 @@ public class ListaDupla<Dado>
 
   public void InserirAposFim(Dado novoDado)
   {
-    var novoNo = new NoDuplo<Dado>(novoDado);
-
-    if (EstaVazia)
-      primeiro = novoNo;
-    else
-      ultimo.Prox = novoNo;
-
-    ultimo = novoNo;
-    quantosNos++;
-  }
+        if (Existe(novoDado))
+        {
+            throw new Exception("Dado já existente na lista");
+        }
+        else
+        {
+            var novoNo = new NoDuplo<Dado>(novoDado);
+            if (novoNo != null)
+            {
+                if (EstaVazia)
+                {
+                    primeiro = novoNo;
+                    ultimo = novoNo;
+                    novoNo.Ant = null;
+                }
+                else
+                {
+                    ultimo.Prox = novoNo;
+                    novoNo.Ant = ultimo;
+                    ultimo = novoNo;
+                }
+                novoNo.Prox = null;
+                quantosNos++;
+            }
+        }
+         
+    }
 
   public void InserirAposFim(NoDuplo<Dado> noExistente)
-  {
-    if (noExistente != null)
     {
-      if (EstaVazia)
-        primeiro = noExistente;
-      else
-        ultimo.Prox = noExistente;
-
-      ultimo = noExistente;
-      noExistente.Prox = null;
-      quantosNos++;
-    }
-  }
-
-  public bool Existe(Dado outroProcurado)
-  {
-    //anterior = null;
-    atual = primeiro;
-
-    //	Em seguida, é verificado se a lista está vazia. Caso esteja, é
-    //	retornado false ao local de chamada, indicando que a chave não foi
-    //	encontrada, e atual e anterior ficam valendo null
-    if (EstaVazia)
-       return false;
- 
-    // a lista não está vazia, possui nós
-    // dado procurado é menor que o primeiro dado da lista:
-    // portanto, dado procurado não existe
-    if (outroProcurado.CompareTo(primeiro.Info) < 0)
-       return false;
-
-    // dado procurado é maior que o último dado da lista:
-    // portanto, dado procurado não existe
-    if (outroProcurado.CompareTo(ultimo.Info) > 0)
-    {
-      // anterior = ultimo;
-      atual = null;
-      return false;
-    }
-
-    //	caso não tenha sido definido que a chave está fora dos limites de 
-    //	chaves da lista, vamos procurar no seu interior
-    //	o apontador atual indica o primeiro nó da lista e consideraremos que
-    //	ainda não achou a chave procurada nem chegamos ao final da lista
-    bool achou = false;
-    bool fim = false;
-
-    //	repete os comandos abaixo enquanto não achou o RA nem chegou ao
-    //	final da pesquisa
-    while (!achou && !fim)
-      // se o apontador atual vale null, indica final físico da lista
-      if (atual == null)
-         fim = true;
-      // se não chegou ao final da lista, verifica o valor da chave atual
-      else
-        // verifica igualdade entre chave procurada e chave do nó atual
-        if (outroProcurado.CompareTo(atual.Info) == 0)
-           achou = true;
+        if (Existe(noExistente.Info))
+        {
+            throw new Exception("Dado já existente na lista");
+        }
         else
-          // se chave atual é maior que a procurada, significa que
-          // a chave procurada não existe na lista ordenada e, assim,
-          // termina a pesquisa indicando que não achou. Anterior
-          // aponta o nó anterior ao atual, que foi acessado na
-          // última repetição
-          if (atual.Info.CompareTo(outroProcurado) > 0)
-             fim = true;
-          else
-          {
-            // se não achou a chave procurada nem uma chave > que ela,
-            // então a pesquisa continua, de maneira que o apontador
-            // anterior deve apontar o nó atual e o apontador atual
-            // deve seguir para o nó seguinte
-        //    anterior = atual;
-            atual = atual.Prox;
-          }
+        {
+            if (noExistente != null)
+            {
+                if (EstaVazia)
+                {
+                    primeiro = noExistente;
+                    ultimo = noExistente;
+                    noExistente.Ant = null;
+                }
+                else
+                {
+                    ultimo.Prox = noExistente;
+                    noExistente.Ant = ultimo;
+                    ultimo = noExistente;
+                }
+                noExistente.Prox = null;
+                quantosNos++;
+            }
+        }
+    }
 
-    // por fim, caso a pesquisa tenha terminado, o apontador atual
-    // aponta o nó onde está a chave procurada, caso ela tenha sido
-    // encontrada, ou aponta o nó onde ela deveria estar para manter a
-    // ordenação da lista. O apontador anterior aponta o nó anterior
-    // ao atual
-    return achou;   // devolve o valor da variável achou, que indica
-  }
+    public bool Existe(Dado outroProcurado)
+    {
+        //anterior = null;
+        atual = primeiro;
+
+
+        //	Em seguida, é verificado se a lista está vazia. Caso esteja, é
+        //	retornado false ao local de chamada, indicando que a chave não foi
+        //	encontrada, e atual e anterior ficam valendo null
+        if (EstaVazia)
+            return false;
+
+        //	caso não tenha sido definido que a chave está fora dos limites de 
+        //	chaves da lista, vamos procurar no seu interior
+        //	o apontador atual indica o primeiro nó da lista e consideraremos que
+        //	ainda não achou a chave procurada nem chegamos ao final da lista
+        bool achou = false;
+        bool fim = false;
+
+        //	repete os comandos abaixo enquanto não achou o RA nem chegou ao
+        //	final da pesquisa
+        while (!achou && !fim)
+            // se o apontador atual vale null, indica final físico da lista
+            if (atual == null)
+                fim = true;
+            // se não chegou ao final da lista, verifica o valor da chave atual
+            else
+            // verifica igualdade entre chave procurada e chave do nó atual
+            if (outroProcurado.CompareTo(atual.Info) == 0)
+                achou = true;
+            else
+            {
+                // se não achou a chave procurada nem uma chave > que ela,
+                // então a pesquisa continua, de maneira que o apontador
+                // anterior deve apontar o nó atual e o apontador atual
+                // deve seguir para o nó seguinte
+                //    anterior = atual;
+                atual = atual.Prox;
+                numeroDoNoAtual++;
+
+                // por fim, caso a pesquisa tenha terminado, o apontador atual
+                // aponta o nó onde está a chave procurada, caso ela tenha sido
+                // encontrada, ou aponta o nó onde ela deveria estar para manter a
+                // ordenação da lista. O apontador anterior aponta o nó anterior
+                // ao atual
+                // devolve o valor da variável achou, que indica
+            }
+        return achou;
+    }
 
   public NoDuplo<Dado> Atual => atual;
 
@@ -290,7 +335,30 @@ public class ListaDupla<Dado>
     return true;
   }
 
-  public void GravarDados(string nomeArq)
+    public void Editar(Dado dadoModificado)
+    {
+        if (EstaVazia)
+        {
+            throw new Exception("Lista Vazia");
+        }
+        else if (dadoModificado == null)
+        {
+            throw new Exception("Dado Vazio");
+        }
+        else
+        {
+            if (Existe(dadoModificado))
+            {
+                    atual.Info = dadoModificado;
+            }
+            else
+            {
+                throw new Exception("Dado não encontrado na lista.");
+            }
+        }
+    }
+
+    public void GravarDados(string nomeArq)
   {
     var arquivo = new StreamWriter(nomeArq);
     atual = primeiro;
