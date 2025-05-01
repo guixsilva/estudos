@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apAlunos\\",
+  "WorkspaceRootPath": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apAlunos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{30B321C8-971E-4ACC-AF5A-FA3C1BB204F7}|apAlunos.csproj|c:\\users\\guiesilva\\documents\\github\\estudos\\estrutura_de_dados\\apalunos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30B321C8-971E-4ACC-AF5A-FA3C1BB204F7}|apAlunos.csproj|c:\\users\\u23519\\documents\\github\\estudos\\estrutura_de_dados\\apalunos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30B321C8-971E-4ACC-AF5A-FA3C1BB204F7}|apAlunos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30B321C8-971E-4ACC-AF5A-FA3C1BB204F7}|apAlunos.csproj|C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apAlunos\\NoLista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30B321C8-971E-4ACC-AF5A-FA3C1BB204F7}|apAlunos.csproj|C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apAlunos\\NoLista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30B321C8-971E-4ACC-AF5A-FA3C1BB204F7}|apAlunos.csproj|solutionrelative:NoLista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30B321C8-971E-4ACC-AF5A-FA3C1BB204F7}|apAlunos.csproj|C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apAlunos\\ListaSimples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30B321C8-971E-4ACC-AF5A-FA3C1BB204F7}|apAlunos.csproj|C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apAlunos\\ListaSimples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30B321C8-971E-4ACC-AF5A-FA3C1BB204F7}|apAlunos.csproj|solutionrelative:ListaSimples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30B321C8-971E-4ACC-AF5A-FA3C1BB204F7}|apAlunos.csproj|C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apAlunos\\Aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30B321C8-971E-4ACC-AF5A-FA3C1BB204F7}|apAlunos.csproj|C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apAlunos\\Aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30B321C8-971E-4ACC-AF5A-FA3C1BB204F7}|apAlunos.csproj|solutionrelative:Aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 19,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,6 +47,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{80c411e8-fd5e-4b16-914b-0d9d84172cc1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Bookmark",
@@ -92,9 +96,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "NoLista.cs",
-              "DocumentMoniker": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apAlunos\\NoLista.cs",
+              "DocumentMoniker": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apAlunos\\NoLista.cs",
               "RelativeDocumentMoniker": "NoLista.cs",
-              "ToolTip": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apAlunos\\NoLista.cs",
+              "ToolTip": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apAlunos\\NoLista.cs",
               "RelativeToolTip": "NoLista.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -104,9 +108,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ListaSimples.cs",
-              "DocumentMoniker": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apAlunos\\ListaSimples.cs",
+              "DocumentMoniker": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apAlunos\\ListaSimples.cs",
               "RelativeDocumentMoniker": "ListaSimples.cs",
-              "ToolTip": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apAlunos\\ListaSimples.cs",
+              "ToolTip": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apAlunos\\ListaSimples.cs",
               "RelativeToolTip": "ListaSimples.cs",
               "ViewState": "AQIAACwAAAAAAAAAAAAUwDwAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -116,9 +120,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Aluno.cs",
-              "DocumentMoniker": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apAlunos\\Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apAlunos\\Aluno.cs",
               "RelativeDocumentMoniker": "Aluno.cs",
-              "ToolTip": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apAlunos\\Aluno.cs",
+              "ToolTip": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apAlunos\\Aluno.cs",
               "RelativeToolTip": "Aluno.cs",
               "ViewState": "AQIAADMAAAAAAAAAAAAzwEAAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -128,11 +132,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apAlunos\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apAlunos\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apAlunos\\Program.cs",
+              "ToolTip": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apAlunos\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAwwE4AAAAiAAAAAAAAAA==",
+              "ViewState": "AQIAADgAAAAAAAAAAAAswE4AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T23:06:01.535Z",
               "EditorCaption": ""
