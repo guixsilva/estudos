@@ -1,0 +1,30 @@
+P:\19-Informática\2024\2oAno\TI221 - Estruturas de Dados\1o semestre\correcoes\Filas\apNaufragio_1\obj\Debug\apNaufragio_1.csproj.AssemblyReference.cache
+P:\19-Informática\2024\2oAno\TI221 - Estruturas de Dados\1o semestre\correcoes\Filas\apNaufragio_1\obj\Debug\apNaufragio_1.FrmTitanic.resources
+P:\19-Informática\2024\2oAno\TI221 - Estruturas de Dados\1o semestre\correcoes\Filas\apNaufragio_1\obj\Debug\apNaufragio_1.Properties.Resources.resources
+P:\19-Informática\2024\2oAno\TI221 - Estruturas de Dados\1o semestre\correcoes\Filas\apNaufragio_1\obj\Debug\apNaufragio_1.csproj.GenerateResource.cache
+P:\19-Informática\2024\2oAno\TI221 - Estruturas de Dados\1o semestre\correcoes\Filas\apNaufragio_1\obj\Debug\apNaufragio_1.csproj.CoreCompileInputs.cache
+P:\19-Informática\2024\2oAno\TI221 - Estruturas de Dados\1o semestre\correcoes\Filas\apNaufragio_1\bin\Debug\apNaufragio_1.exe.config
+P:\19-Informática\2024\2oAno\TI221 - Estruturas de Dados\1o semestre\correcoes\Filas\apNaufragio_1\bin\Debug\apNaufragio_1.exe
+P:\19-Informática\2024\2oAno\TI221 - Estruturas de Dados\1o semestre\correcoes\Filas\apNaufragio_1\bin\Debug\apNaufragio_1.pdb
+P:\19-Informática\2024\2oAno\TI221 - Estruturas de Dados\1o semestre\correcoes\Filas\apNaufragio_1\obj\Debug\apNaufragio_1.exe
+P:\19-Informática\2024\2oAno\TI221 - Estruturas de Dados\1o semestre\correcoes\Filas\apNaufragio_1\obj\Debug\apNaufragio_1.pdb
+P:\19-Informática\2025\2o Ano\TI221 - Estruturas de Dados\correções\Filas\apNaufragio_1\obj\Debug\apNaufragio_1.csproj.AssemblyReference.cache
+P:\19-Informática\2025\2o Ano\TI221 - Estruturas de Dados\correções\Filas\apNaufragio_1\obj\Debug\apNaufragio_1.FrmTitanic.resources
+P:\19-Informática\2025\2o Ano\TI221 - Estruturas de Dados\correções\Filas\apNaufragio_1\obj\Debug\apNaufragio_1.Properties.Resources.resources
+P:\19-Informática\2025\2o Ano\TI221 - Estruturas de Dados\correções\Filas\apNaufragio_1\obj\Debug\apNaufragio_1.csproj.GenerateResource.cache
+P:\19-Informática\2025\2o Ano\TI221 - Estruturas de Dados\correções\Filas\apNaufragio_1\obj\Debug\apNaufragio_1.csproj.CoreCompileInputs.cache
+P:\19-Informática\2025\2o Ano\TI221 - Estruturas de Dados\correções\Filas\apNaufragio_1\obj\Debug\apNaufragio_1.exe
+P:\19-Informática\2025\2o Ano\TI221 - Estruturas de Dados\correções\Filas\apNaufragio_1\obj\Debug\apNaufragio_1.pdb
+P:\19-Informática\2025\2o Ano\TI221 - Estruturas de Dados\correções\Filas\apNaufragio_1\bin\Debug\apNaufragio_1.exe.config
+P:\19-Informática\2025\2o Ano\TI221 - Estruturas de Dados\correções\Filas\apNaufragio_1\bin\Debug\apNaufragio_1.exe
+P:\19-Informática\2025\2o Ano\TI221 - Estruturas de Dados\correções\Filas\apNaufragio_1\bin\Debug\apNaufragio_1.pdb
+P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\correcoes\Filas\apNaufragio_1\bin\Debug\apNaufragio_1.exe.config
+P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\correcoes\Filas\apNaufragio_1\bin\Debug\apNaufragio_1.exe
+P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\correcoes\Filas\apNaufragio_1\bin\Debug\apNaufragio_1.pdb
+P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\correcoes\Filas\apNaufragio_1\obj\Debug\apNaufragio_1.csproj.AssemblyReference.cache
+P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\correcoes\Filas\apNaufragio_1\obj\Debug\apNaufragio_1.FrmTitanic.resources
+P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\correcoes\Filas\apNaufragio_1\obj\Debug\apNaufragio_1.Properties.Resources.resources
+P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\correcoes\Filas\apNaufragio_1\obj\Debug\apNaufragio_1.csproj.GenerateResource.cache
+P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\correcoes\Filas\apNaufragio_1\obj\Debug\apNaufragio_1.csproj.CoreCompileInputs.cache
+P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\correcoes\Filas\apNaufragio_1\obj\Debug\apNaufragio_1.exe
+P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\correcoes\Filas\apNaufragio_1\obj\Debug\apNaufragio_1.pdb
