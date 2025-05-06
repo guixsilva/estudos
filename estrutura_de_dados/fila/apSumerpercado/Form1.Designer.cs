@@ -29,11 +29,6 @@
     private void InitializeComponent()
     {
       this.dgvFilas = new System.Windows.Forms.DataGridView();
-      this.Fila1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-      this.fila2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-      this.fila3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-      this.fila4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-      this.fila5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
       this.lsbMensagens = new System.Windows.Forms.ListBox();
       this.btnSimular = new System.Windows.Forms.Button();
       this.lbValorSorteado = new System.Windows.Forms.Label();
@@ -41,6 +36,11 @@
       this.label2 = new System.Windows.Forms.Label();
       this.lbQuantosClientesAgora = new System.Windows.Forms.Label();
       this.lbSemClientes = new System.Windows.Forms.Label();
+      this.Fila1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+      this.fila2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+      this.fila3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+      this.fila4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+      this.fila5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
       ((System.ComponentModel.ISupportInitialize)(this.dgvFilas)).BeginInit();
       this.SuspendLayout();
       // 
@@ -58,51 +58,16 @@
       this.dgvFilas.Location = new System.Drawing.Point(3, 3);
       this.dgvFilas.Name = "dgvFilas";
       this.dgvFilas.ReadOnly = true;
-      this.dgvFilas.Size = new System.Drawing.Size(320, 324);
+      this.dgvFilas.Size = new System.Drawing.Size(351, 324);
       this.dgvFilas.TabIndex = 0;
-      // 
-      // Fila1
-      // 
-      this.Fila1.HeaderText = "1";
-      this.Fila1.Name = "Fila1";
-      this.Fila1.ReadOnly = true;
-      this.Fila1.Width = 50;
-      // 
-      // fila2
-      // 
-      this.fila2.HeaderText = "2";
-      this.fila2.Name = "fila2";
-      this.fila2.ReadOnly = true;
-      this.fila2.Width = 50;
-      // 
-      // fila3
-      // 
-      this.fila3.HeaderText = "3";
-      this.fila3.Name = "fila3";
-      this.fila3.ReadOnly = true;
-      this.fila3.Width = 50;
-      // 
-      // fila4
-      // 
-      this.fila4.HeaderText = "4";
-      this.fila4.Name = "fila4";
-      this.fila4.ReadOnly = true;
-      this.fila4.Width = 50;
-      // 
-      // fila5
-      // 
-      this.fila5.HeaderText = "5";
-      this.fila5.Name = "fila5";
-      this.fila5.ReadOnly = true;
-      this.fila5.Width = 50;
       // 
       // lsbMensagens
       // 
       this.lsbMensagens.FormattingEnabled = true;
       this.lsbMensagens.ItemHeight = 16;
-      this.lsbMensagens.Location = new System.Drawing.Point(329, 3);
+      this.lsbMensagens.Location = new System.Drawing.Point(360, 3);
       this.lsbMensagens.Name = "lsbMensagens";
-      this.lsbMensagens.Size = new System.Drawing.Size(278, 324);
+      this.lsbMensagens.Size = new System.Drawing.Size(247, 324);
       this.lsbMensagens.TabIndex = 1;
       // 
       // btnSimular
@@ -161,6 +126,41 @@
       this.lbSemClientes.Text = "Sem clientes:";
       this.lbSemClientes.Click += new System.EventHandler(this.lbSemClientes_Click);
       // 
+      // Fila1
+      // 
+      this.Fila1.HeaderText = "1";
+      this.Fila1.Name = "Fila1";
+      this.Fila1.ReadOnly = true;
+      this.Fila1.Width = 50;
+      // 
+      // fila2
+      // 
+      this.fila2.HeaderText = "2";
+      this.fila2.Name = "fila2";
+      this.fila2.ReadOnly = true;
+      this.fila2.Width = 50;
+      // 
+      // fila3
+      // 
+      this.fila3.HeaderText = "3";
+      this.fila3.Name = "fila3";
+      this.fila3.ReadOnly = true;
+      this.fila3.Width = 50;
+      // 
+      // fila4
+      // 
+      this.fila4.HeaderText = "4";
+      this.fila4.Name = "fila4";
+      this.fila4.ReadOnly = true;
+      this.fila4.Width = 50;
+      // 
+      // fila5
+      // 
+      this.fila5.HeaderText = "5";
+      this.fila5.Name = "fila5";
+      this.fila5.ReadOnly = true;
+      this.fila5.Width = 50;
+      // 
       // FrmSupermercado
       // 
       this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
@@ -188,16 +188,16 @@
     private System.Windows.Forms.DataGridView dgvFilas;
     private System.Windows.Forms.ListBox lsbMensagens;
     private System.Windows.Forms.Button btnSimular;
-    private System.Windows.Forms.DataGridViewTextBoxColumn Fila1;
-    private System.Windows.Forms.DataGridViewTextBoxColumn fila2;
-    private System.Windows.Forms.DataGridViewTextBoxColumn fila3;
-    private System.Windows.Forms.DataGridViewTextBoxColumn fila4;
-    private System.Windows.Forms.DataGridViewTextBoxColumn fila5;
     private System.Windows.Forms.Label lbValorSorteado;
     private System.Windows.Forms.Label label1;
     private System.Windows.Forms.Label label2;
     private System.Windows.Forms.Label lbQuantosClientesAgora;
     private System.Windows.Forms.Label lbSemClientes;
+    private System.Windows.Forms.DataGridViewTextBoxColumn Fila1;
+    private System.Windows.Forms.DataGridViewTextBoxColumn fila2;
+    private System.Windows.Forms.DataGridViewTextBoxColumn fila3;
+    private System.Windows.Forms.DataGridViewTextBoxColumn fila4;
+    private System.Windows.Forms.DataGridViewTextBoxColumn fila5;
   }
 }
 

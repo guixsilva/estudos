@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\fila\\apSumerpercado\\",
+  "WorkspaceRootPath": "P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\correcoes\\Filas\\apSumerpercado\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{02C2B8D0-A4A9-45F2-BDC4-D3CB4C65D6FE}|apSumerpercado.csproj|c:\\users\\u23519\\documents\\github\\estudos\\estrutura_de_dados\\fila\\apsumerpercado\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02C2B8D0-A4A9-45F2-BDC4-D3CB4C65D6FE}|apSumerpercado.csproj|p:\\59-desenvsistemas\\2025\\2o ano\\ti221-estruturas de dados\\correcoes\\filas\\apsumerpercado\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02C2B8D0-A4A9-45F2-BDC4-D3CB4C65D6FE}|apSumerpercado.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02C2B8D0-A4A9-45F2-BDC4-D3CB4C65D6FE}|apSumerpercado.csproj|C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\fila\\apSumerpercado\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{02C2B8D0-A4A9-45F2-BDC4-D3CB4C65D6FE}|apSumerpercado.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02C2B8D0-A4A9-45F2-BDC4-D3CB4C65D6FE}|apSumerpercado.csproj|C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\fila\\apSumerpercado\\filavetor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02C2B8D0-A4A9-45F2-BDC4-D3CB4C65D6FE}|apSumerpercado.csproj|P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\correcoes\\Filas\\apSumerpercado\\filavetor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02C2B8D0-A4A9-45F2-BDC4-D3CB4C65D6FE}|apSumerpercado.csproj|solutionrelative:filavetor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02C2B8D0-A4A9-45F2-BDC4-D3CB4C65D6FE}|apSumerpercado.csproj|C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\fila\\apSumerpercado\\filavaziaexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02C2B8D0-A4A9-45F2-BDC4-D3CB4C65D6FE}|apSumerpercado.csproj|P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\correcoes\\Filas\\apSumerpercado\\filavaziaexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02C2B8D0-A4A9-45F2-BDC4-D3CB4C65D6FE}|apSumerpercado.csproj|solutionrelative:filavaziaexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02C2B8D0-A4A9-45F2-BDC4-D3CB4C65D6FE}|apSumerpercado.csproj|C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\fila\\apSumerpercado\\filacheiaexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02C2B8D0-A4A9-45F2-BDC4-D3CB4C65D6FE}|apSumerpercado.csproj|P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\correcoes\\Filas\\apSumerpercado\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02C2B8D0-A4A9-45F2-BDC4-D3CB4C65D6FE}|apSumerpercado.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C2B8D0-A4A9-45F2-BDC4-D3CB4C65D6FE}|apSumerpercado.csproj|P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\correcoes\\Filas\\apSumerpercado\\filacheiaexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02C2B8D0-A4A9-45F2-BDC4-D3CB4C65D6FE}|apSumerpercado.csproj|solutionrelative:filacheiaexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02C2B8D0-A4A9-45F2-BDC4-D3CB4C65D6FE}|apSumerpercado.csproj|C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\fila\\apSumerpercado\\iqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02C2B8D0-A4A9-45F2-BDC4-D3CB4C65D6FE}|apSumerpercado.csproj|P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\correcoes\\Filas\\apSumerpercado\\iqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02C2B8D0-A4A9-45F2-BDC4-D3CB4C65D6FE}|apSumerpercado.csproj|solutionrelative:iqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Bookmark",
@@ -51,10 +51,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{80c411e8-fd5e-4b16-914b-0d9d84172cc1}"
             },
             {
               "$type": "Bookmark",
@@ -102,23 +98,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "FilaVaziaException.cs",
-              "DocumentMoniker": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\fila\\apSumerpercado\\FilaVaziaException.cs",
+              "DocumentMoniker": "P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\correcoes\\Filas\\apSumerpercado\\FilaVaziaException.cs",
               "RelativeDocumentMoniker": "FilaVaziaException.cs",
-              "ToolTip": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\fila\\apSumerpercado\\FilaVaziaException.cs",
+              "ToolTip": "P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\correcoes\\Filas\\apSumerpercado\\FilaVaziaException.cs",
               "RelativeToolTip": "FilaVaziaException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T14:01:01.11Z"
+              "WhenOpened": "2025-04-23T14:01:01.11Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "FilaCheiaException.cs",
-              "DocumentMoniker": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\fila\\apSumerpercado\\FilaCheiaException.cs",
+              "DocumentMoniker": "P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\correcoes\\Filas\\apSumerpercado\\FilaCheiaException.cs",
               "RelativeDocumentMoniker": "FilaCheiaException.cs",
-              "ToolTip": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\fila\\apSumerpercado\\FilaCheiaException.cs",
+              "ToolTip": "P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\correcoes\\Filas\\apSumerpercado\\FilaCheiaException.cs",
               "RelativeToolTip": "FilaCheiaException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -128,22 +125,22 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\fila\\apSumerpercado\\Form1.cs",
+              "DocumentMoniker": "P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\correcoes\\Filas\\apSumerpercado\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\fila\\apSumerpercado\\Form1.cs",
+              "ToolTip": "P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\correcoes\\Filas\\apSumerpercado\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAvwE8AAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-23T14:01:01.128Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\fila\\apSumerpercado\\Form1.cs",
+              "DocumentMoniker": "P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\correcoes\\Filas\\apSumerpercado\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\fila\\apSumerpercado\\Form1.cs [Design]",
+              "ToolTip": "P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\correcoes\\Filas\\apSumerpercado\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-23T14:01:01.139Z",
@@ -151,23 +148,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "FilaVetor.cs",
-              "DocumentMoniker": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\fila\\apSumerpercado\\FilaVetor.cs",
+              "DocumentMoniker": "P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\correcoes\\Filas\\apSumerpercado\\FilaVetor.cs",
               "RelativeDocumentMoniker": "FilaVetor.cs",
-              "ToolTip": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\fila\\apSumerpercado\\FilaVetor.cs",
+              "ToolTip": "P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\correcoes\\Filas\\apSumerpercado\\FilaVetor.cs",
               "RelativeToolTip": "FilaVetor.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAIAxwDkAAAA5AAAAAAAAAA==",
+              "ViewState": "AQIAACsAAAAAAAAAAAAvwDkAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T14:01:01.141Z"
+              "WhenOpened": "2025-04-23T14:01:01.141Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "IQueue.cs",
-              "DocumentMoniker": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\fila\\apSumerpercado\\IQueue.cs",
+              "DocumentMoniker": "P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\correcoes\\Filas\\apSumerpercado\\IQueue.cs",
               "RelativeDocumentMoniker": "IQueue.cs",
-              "ToolTip": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\fila\\apSumerpercado\\IQueue.cs",
+              "ToolTip": "P:\\59-DesenvSistemas\\2025\\2o Ano\\TI221-Estruturas de Dados\\correcoes\\Filas\\apSumerpercado\\IQueue.cs",
               "RelativeToolTip": "IQueue.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

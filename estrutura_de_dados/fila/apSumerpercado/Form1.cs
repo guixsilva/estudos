@@ -39,7 +39,7 @@ namespace apSumerpercado
     // retorna o índice de asFilas para a menor fila
     private int MenorFila()
     {
-      int filaMaisVazia = 0;  // supomos que é a fila 0
+      int filaMaisVazia = 0;  // supomos que a menor é a fila 0
       for (int indice = 1; indice < quantasFilas; indice++)
           if (asFilas[indice].Tamanho < asFilas[filaMaisVazia].Tamanho)
              filaMaisVazia = indice;
@@ -79,6 +79,7 @@ namespace apSumerpercado
       while (deveContinuar)
       {
         lbSemClientes.Text = "Sem clientes: " + rodadasSemClientes;
+
         // tratamos o evento de entrada de cliente
         double valorSorteado = sorteio.NextDouble();
         if ((valorSorteado < 0.8 && clienteAtual < 200) || // apareceu um cliente
@@ -100,7 +101,7 @@ namespace apSumerpercado
         valorSorteado = sorteio.NextDouble();
         if (valorSorteado < 0.51)  // um cliente deverá sair
         {
-          int qualCaixa = sorteio.Next(quantasFilas); // sorteamos o número do caixa - 0 a quantasFilas
+          int qualCaixa = sorteio.Next(quantasFilas); // sorteamos o número do caixa - 0 a quantasFilas-1
           try
           {
             int clienteSaindo = asFilas[qualCaixa].Retirar();
@@ -110,7 +111,7 @@ namespace apSumerpercado
           }
           catch
           {
-            lsbMensagens.Items.Add($"{qualCaixa} está vazio");
+            lsbMensagens.Items.Add($"Caixa {qualCaixa} está vazio!");
           }
         }
 

@@ -91,12 +91,14 @@
       // 
       // lsbOcorrencias
       // 
+      this.lsbOcorrencias.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
       this.lsbOcorrencias.FormattingEnabled = true;
       this.lsbOcorrencias.ItemHeight = 17;
       this.lsbOcorrencias.Location = new System.Drawing.Point(434, 30);
       this.lsbOcorrencias.Margin = new System.Windows.Forms.Padding(4);
       this.lsbOcorrencias.Name = "lsbOcorrencias";
-      this.lsbOcorrencias.Size = new System.Drawing.Size(423, 429);
+      this.lsbOcorrencias.Size = new System.Drawing.Size(482, 429);
       this.lsbOcorrencias.TabIndex = 4;
       // 
       // dlgAbrir
@@ -154,7 +156,7 @@
       // 
       this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 17F);
       this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-      this.ClientSize = new System.Drawing.Size(863, 525);
+      this.ClientSize = new System.Drawing.Size(922, 525);
       this.Controls.Add(this.gbxTipo);
       this.Controls.Add(this.btnIniciar);
       this.Controls.Add(this.label3);

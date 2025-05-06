@@ -90,10 +90,10 @@ namespace apEstacionamentoDoido
               lsbOcorrencias.Items.Add($"Carro de placa {placa} n�o foi achado no estacionamento.");
             else
             {
-              lsbOcorrencias.Items.Add($"Carro de placa {placa} saiu do estacionamento.");
+              var carroPartindo = vagas.Retirar();
+              lsbOcorrencias.Items.Add($"Carro de placa {placa} saiu do estacionamento após {carroPartindo.NumeroDeManobras} manobras.");
               Thread.Sleep(50);
               Application.DoEvents();
-              vagas.Retirar();  // remove o carro da fila de vagas e nela abre um espa�o
             }
 
             while (!manobra.EstaVazia)
