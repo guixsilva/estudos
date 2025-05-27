@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{A2B08F2F-E6DB-4506-B5F5-544408FB0122}|PilhaBalanceamento\\PilhaBalanceamento.csproj|solutionrelative:pilhabalanceamento\\nolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2B08F2F-E6DB-4506-B5F5-544408FB0122}|PilhaBalanceamento\\PilhaBalanceamento.csproj|c:\\users\\u23519\\documents\\github\\estudos\\estrutura_de_dados\\pilhabalanceamento\\pilhabalanceamento\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A2B08F2F-E6DB-4506-B5F5-544408FB0122}|PilhaBalanceamento\\PilhaBalanceamento.csproj|C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\PilhaBalanceamento\\pilhabalanceamento\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A2B08F2F-E6DB-4506-B5F5-544408FB0122}|PilhaBalanceamento\\PilhaBalanceamento.csproj|solutionrelative:pilhabalanceamento\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Bookmark",
@@ -97,10 +97,6 @@
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "NoLista.cs",
@@ -110,8 +106,7 @@
               "RelativeToolTip": "PilhaBalanceamento\\NoLista.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T00:03:44.412Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T00:03:44.412Z"
             },
             {
               "$type": "Document",
@@ -121,7 +116,7 @@
               "RelativeDocumentMoniker": "PilhaBalanceamento\\PilhaLista.cs",
               "ToolTip": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\PilhaBalanceamento\\PilhaBalanceamento\\PilhaLista.cs",
               "RelativeToolTip": "PilhaBalanceamento\\PilhaLista.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwB0AAAAFAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAA1wB0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T00:02:02.305Z",
               "EditorCaption": ""
@@ -149,8 +144,7 @@
               "RelativeToolTip": "PilhaBalanceamento\\Pilha.cs",
               "ViewState": "AQIAADUAAAAAAAAAAAAAwEUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T22:31:10.08Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T22:31:10.08Z"
             },
             {
               "$type": "Document",
@@ -162,8 +156,11 @@
               "RelativeToolTip": "PilhaBalanceamento\\iPilha.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T22:30:55.077Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T22:30:55.077Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
@@ -174,8 +171,7 @@
               "ToolTip": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\PilhaBalanceamento\\PilhaBalanceamento\\Form1.cs [Projeto]",
               "RelativeToolTip": "PilhaBalanceamento\\Form1.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T22:29:52.619Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2025-05-12T22:29:52.619Z"
             }
           ]
         }

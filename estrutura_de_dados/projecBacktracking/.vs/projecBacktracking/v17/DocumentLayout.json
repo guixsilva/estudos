@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{20EAE0EF-2DC4-4E5E-890A-886B06C8433B}|projecBacktracking\\projecBacktracking.csproj|solutionrelative:projecbacktracking\\frmcaminhos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20EAE0EF-2DC4-4E5E-890A-886B06C8433B}|projecBacktracking\\projecBacktracking.csproj|c:\\users\\u23519\\documents\\github\\estudos\\estrutura_de_dados\\projecbacktracking\\projecbacktracking\\frmcaminhos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{20EAE0EF-2DC4-4E5E-890A-886B06C8433B}|projecBacktracking\\projecBacktracking.csproj|C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\projecBacktracking\\projecbacktracking\\frmcaminhos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{20EAE0EF-2DC4-4E5E-890A-886B06C8433B}|projecBacktracking\\projecBacktracking.csproj|solutionrelative:projecbacktracking\\frmcaminhos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -102,8 +102,7 @@
               "RelativeToolTip": "projecBacktracking\\FrmCaminhos.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T23:36:09.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T23:36:09.635Z"
             },
             {
               "$type": "Document",
@@ -128,8 +127,7 @@
               "RelativeToolTip": "projecBacktracking\\GrafoBacktracking.cs",
               "ViewState": "AQIAACAAAAAAAAAAAAAYwDkAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T23:22:41.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T23:22:41.052Z"
             },
             {
               "$type": "Document",
@@ -152,8 +150,7 @@
               "ToolTip": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\projecBacktracking\\projecBacktracking\\FrmCaminhos.cs [Projeto]",
               "RelativeToolTip": "projecBacktracking\\FrmCaminhos.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T23:04:43.267Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2025-05-19T23:04:43.267Z"
             }
           ]
         },
