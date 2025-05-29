@@ -1,0 +1,10 @@
+CADEIRA 2      Assento com encosto
+COMPUTADOR     Máquina eletrônica para processar dados
+GUILHERME      Aluno de ADS
+Guizinho       
+JULIANO        TESTANDO
+Lógico         Teste
+MESA           Móvel com tampo e pernas para apoio
+Palavra X      Teste
+SOLA           Estrela central do sistema solar
+TESTE          DICA

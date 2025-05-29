@@ -1,24 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Proj3\\",
+  "WorkspaceRootPath": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Proj3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7672B29A-BD21-4646-B0AA-274BD2FA1CC1}|23519_23619_Proj3\\23519_23619_Proj3.csproj|c:\\users\\u23519\\documents\\github\\estudos\\estrutura_de_dados\\23519_23619_proj3\\23519_23619_proj3\\vetordicionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7672B29A-BD21-4646-B0AA-274BD2FA1CC1}|23519_23619_Proj3\\23519_23619_Proj3.csproj|solutionrelative:23519_23619_proj3\\vetordicionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7672B29A-BD21-4646-B0AA-274BD2FA1CC1}|23519_23619_Proj3\\23519_23619_Proj3.csproj|c:\\users\\guiesilva\\documents\\github\\estudos\\estrutura_de_dados\\23519_23619_proj3\\23519_23619_proj3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7672B29A-BD21-4646-B0AA-274BD2FA1CC1}|23519_23619_Proj3\\23519_23619_Proj3.csproj|solutionrelative:23519_23619_proj3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Projeto1ED\\ListaDupla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Projeto1ED\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7672B29A-BD21-4646-B0AA-274BD2FA1CC1}|23519_23619_Proj3\\23519_23619_Proj3.csproj|c:\\users\\u23519\\documents\\github\\estudos\\estrutura_de_dados\\23519_23619_proj3\\23519_23619_proj3\\dicionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7672B29A-BD21-4646-B0AA-274BD2FA1CC1}|23519_23619_Proj3\\23519_23619_Proj3.csproj|c:\\users\\guiesilva\\documents\\github\\estudos\\estrutura_de_dados\\23519_23619_proj3\\23519_23619_proj3\\dicionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7672B29A-BD21-4646-B0AA-274BD2FA1CC1}|23519_23619_Proj3\\23519_23619_Proj3.csproj|solutionrelative:23519_23619_proj3\\dicionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7672B29A-BD21-4646-B0AA-274BD2FA1CC1}|23519_23619_Proj3\\23519_23619_Proj3.csproj|c:\\users\\u23519\\documents\\github\\estudos\\estrutura_de_dados\\23519_23619_proj3\\23519_23619_proj3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7672B29A-BD21-4646-B0AA-274BD2FA1CC1}|23519_23619_Proj3\\23519_23619_Proj3.csproj|solutionrelative:23519_23619_proj3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{7672B29A-BD21-4646-B0AA-274BD2FA1CC1}|23519_23619_Proj3\\23519_23619_Proj3.csproj|c:\\users\\guiesilva\\documents\\github\\estudos\\estrutura_de_dados\\23519_23619_proj3\\23519_23619_proj3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7672B29A-BD21-4646-B0AA-274BD2FA1CC1}|23519_23619_Proj3\\23519_23619_Proj3.csproj|solutionrelative:23519_23619_proj3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7672B29A-BD21-4646-B0AA-274BD2FA1CC1}|23519_23619_Proj3\\23519_23619_Proj3.csproj|c:\\users\\guiesilva\\documents\\github\\estudos\\estrutura_de_dados\\23519_23619_proj3\\23519_23619_proj3\\vetordicionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7672B29A-BD21-4646-B0AA-274BD2FA1CC1}|23519_23619_Proj3\\23519_23619_Proj3.csproj|solutionrelative:23519_23619_proj3\\vetordicionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -49,10 +47,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{80c411e8-fd5e-4b16-914b-0d9d84172cc1}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Bookmark",
@@ -89,6 +83,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         },
@@ -100,65 +98,52 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Projeto1ED\\Form1.cs",
-              "RelativeDocumentMoniker": "..\\23519_23619_Projeto1ED\\Form1.cs",
-              "ToolTip": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Projeto1ED\\Form1.cs",
-              "RelativeToolTip": "..\\23519_23619_Projeto1ED\\Form1.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Proj3\\23519_23619_Proj3\\Form1.cs",
+              "RelativeDocumentMoniker": "23519_23619_Proj3\\Form1.cs",
+              "ToolTip": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Proj3\\23519_23619_Proj3\\Form1.cs",
+              "RelativeToolTip": "23519_23619_Proj3\\Form1.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAIwH8AAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T23:15:51.555Z",
+              "WhenOpened": "2025-05-28T17:53:43.027Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ListaDupla.cs",
-              "DocumentMoniker": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Projeto1ED\\ListaDupla.cs",
-              "RelativeDocumentMoniker": "..\\23519_23619_Projeto1ED\\ListaDupla.cs",
-              "ToolTip": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Projeto1ED\\ListaDupla.cs",
-              "RelativeToolTip": "..\\23519_23619_Projeto1ED\\ListaDupla.cs",
-              "ViewState": "AQIAAKUAAAAAAAAAAAAAALIAAAAAAAAA",
+              "Title": "Dicionario.cs",
+              "DocumentMoniker": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Proj3\\23519_23619_Proj3\\Dicionario.cs",
+              "RelativeDocumentMoniker": "23519_23619_Proj3\\Dicionario.cs",
+              "ToolTip": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Proj3\\23519_23619_Proj3\\Dicionario.cs",
+              "RelativeToolTip": "23519_23619_Proj3\\Dicionario.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAqwDwAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T23:12:48.523Z",
+              "WhenOpened": "2025-05-28T20:48:31.446Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "VetorDicionario.cs",
-              "DocumentMoniker": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Proj3\\23519_23619_Proj3\\VetorDicionario.cs",
-              "RelativeDocumentMoniker": "23519_23619_Proj3\\VetorDicionario.cs",
-              "ToolTip": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Proj3\\23519_23619_Proj3\\VetorDicionario.cs",
-              "RelativeToolTip": "23519_23619_Proj3\\VetorDicionario.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAIwE8AAAAJAAAA",
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Proj3\\23519_23619_Proj3\\Form1.cs",
+              "RelativeDocumentMoniker": "23519_23619_Proj3\\Form1.cs",
+              "ToolTip": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Proj3\\23519_23619_Proj3\\Form1.cs [Projeto]",
+              "RelativeToolTip": "23519_23619_Proj3\\Form1.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T22:31:18.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T20:04:46.311Z",
+              "EditorCaption": " [Projeto]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Dicionario.cs",
-              "DocumentMoniker": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Proj3\\23519_23619_Proj3\\Dicionario.cs",
-              "RelativeDocumentMoniker": "23519_23619_Proj3\\Dicionario.cs",
-              "ToolTip": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Proj3\\23519_23619_Proj3\\Dicionario.cs",
-              "RelativeToolTip": "23519_23619_Proj3\\Dicionario.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwDMAAAAFAAAA",
+              "Title": "VetorDicionario.cs",
+              "DocumentMoniker": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Proj3\\23519_23619_Proj3\\VetorDicionario.cs",
+              "RelativeDocumentMoniker": "23519_23619_Proj3\\VetorDicionario.cs",
+              "ToolTip": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Proj3\\23519_23619_Proj3\\VetorDicionario.cs",
+              "RelativeToolTip": "23519_23619_Proj3\\VetorDicionario.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAiwIoAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T22:31:03.157Z",
+              "WhenOpened": "2025-05-26T22:31:18.586Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form1.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Proj3\\23519_23619_Proj3\\Form1.cs",
-              "RelativeDocumentMoniker": "23519_23619_Proj3\\Form1.cs",
-              "ToolTip": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Proj3\\23519_23619_Proj3\\Form1.cs [Projeto]",
-              "RelativeToolTip": "23519_23619_Proj3\\Form1.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T22:29:43.05Z",
-              "EditorCaption": " [Projeto]"
             }
           ]
         }

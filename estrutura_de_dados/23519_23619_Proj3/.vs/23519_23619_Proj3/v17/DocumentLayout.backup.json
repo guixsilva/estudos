@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Proj3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7672B29A-BD21-4646-B0AA-274BD2FA1CC1}|23519_23619_Proj3\\23519_23619_Proj3.csproj|c:\\users\\guiesilva\\documents\\github\\estudos\\estrutura_de_dados\\23519_23619_proj3\\23519_23619_proj3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7672B29A-BD21-4646-B0AA-274BD2FA1CC1}|23519_23619_Proj3\\23519_23619_Proj3.csproj|solutionrelative:23519_23619_proj3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7672B29A-BD21-4646-B0AA-274BD2FA1CC1}|23519_23619_Proj3\\23519_23619_Proj3.csproj|c:\\users\\guiesilva\\documents\\github\\estudos\\estrutura_de_dados\\23519_23619_proj3\\23519_23619_proj3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7672B29A-BD21-4646-B0AA-274BD2FA1CC1}|23519_23619_Proj3\\23519_23619_Proj3.csproj|solutionrelative:23519_23619_proj3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7672B29A-BD21-4646-B0AA-274BD2FA1CC1}|23519_23619_Proj3\\23519_23619_Proj3.csproj|c:\\users\\guiesilva\\documents\\github\\estudos\\estrutura_de_dados\\23519_23619_proj3\\23519_23619_proj3\\dicionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7672B29A-BD21-4646-B0AA-274BD2FA1CC1}|23519_23619_Proj3\\23519_23619_Proj3.csproj|solutionrelative:23519_23619_proj3\\dicionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7672B29A-BD21-4646-B0AA-274BD2FA1CC1}|23519_23619_Proj3\\23519_23619_Proj3.csproj|c:\\users\\guiesilva\\documents\\github\\estudos\\estrutura_de_dados\\23519_23619_proj3\\23519_23619_proj3\\vetordicionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7672B29A-BD21-4646-B0AA-274BD2FA1CC1}|23519_23619_Proj3\\23519_23619_Proj3.csproj|solutionrelative:23519_23619_proj3\\vetordicionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 309,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{80c411e8-fd5e-4b16-914b-0d9d84172cc1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 76,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Proj3\\23519_23619_Proj3\\Form1.cs",
+              "RelativeDocumentMoniker": "23519_23619_Proj3\\Form1.cs",
+              "ToolTip": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Proj3\\23519_23619_Proj3\\Form1.cs",
+              "RelativeToolTip": "23519_23619_Proj3\\Form1.cs",
+              "ViewState": "AgIAANsAAAAAAAAAAAAiwOsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:53:43.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dicionario.cs",
+              "DocumentMoniker": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Proj3\\23519_23619_Proj3\\Dicionario.cs",
+              "RelativeDocumentMoniker": "23519_23619_Proj3\\Dicionario.cs",
+              "ToolTip": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Proj3\\23519_23619_Proj3\\Dicionario.cs",
+              "RelativeToolTip": "23519_23619_Proj3\\Dicionario.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAqwDwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T20:48:31.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Proj3\\23519_23619_Proj3\\Form1.cs",
+              "RelativeDocumentMoniker": "23519_23619_Proj3\\Form1.cs",
+              "ToolTip": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Proj3\\23519_23619_Proj3\\Form1.cs [Projeto]",
+              "RelativeToolTip": "23519_23619_Proj3\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T20:04:46.311Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VetorDicionario.cs",
+              "DocumentMoniker": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Proj3\\23519_23619_Proj3\\VetorDicionario.cs",
+              "RelativeDocumentMoniker": "23519_23619_Proj3\\VetorDicionario.cs",
+              "ToolTip": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Proj3\\23519_23619_Proj3\\VetorDicionario.cs",
+              "RelativeToolTip": "23519_23619_Proj3\\VetorDicionario.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAiwIoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T22:31:18.586Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

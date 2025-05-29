@@ -12,16 +12,27 @@ using System.Threading.Tasks;
     int qtosDados;
     int posicaoAtual;
     Dicionario atual;
-    bool estaVazia = true;
+    bool estaVazia;
 
     public Dicionario[] Dados { get => dados;}
-    public int QtosDados { get => qtosDados; set => qtosDados = value; }
+    public int QtosDados { get => qtosDados; 
+        set {
+            for(int i = 0; i < dados.Length; i++)
+            {
+                if(dados[i] != null)
+                {
+                    qtosDados++;
+                }
+            }
+
+        }
+    }
     public int PosicaoAtual { get => posicaoAtual; set => posicaoAtual = value; }
 
     public bool EstaVazia { 
         get => estaVazia;
         set{
-            if(dados != null)
+            if(dados[0] != null)
             {
                 estaVazia = false;
             }
@@ -42,49 +53,115 @@ using System.Threading.Tasks;
         {
             if (novoRegistro != null) // COLOCAR EM ORDEM ALFABÉTICA
             {
+                
                 if (EstaVazia)
                 {
                     dados[0] = novoRegistro;
                 }
                 else
                 {
-                    atual = dados[0];
+                    for (int i = 0; i < qtosDados; i++)
+                    {
+                        if (novoRegistro.CompareTo(dados[i]) < 0)
+                        {
+                            posicaoAtual = i;
+                            break;
+                        }
+                        posicaoAtual = i + 1;
+                    }
+                    
+                    for(int i = qtosDados; i > posicaoAtual; i--)
+                    {
+                        dados[i] = dados[i - 1];
+                    }
+                    dados[posicaoAtual] = novoRegistro;
                     
                 }
                 qtosDados++;
             }
+            else
+            {
+                throw new Exception("A palavra não pode ser inserida na lista.");
+            }
         }
 
     }
 
-    public void ExcluirPalavra(int Posicao)
+    public void ExcluirPalavra(Dicionario palavraParaRemover)
     {
-
+        if (EstaVazia)
+        {
+            throw new Exception("A lista está vazia");
+        }
+        if (!Existe(palavraParaRemover))
+        {
+            throw new Exception("Palavra não existe na lista");
+        }
+        else
+        {
+            for (int i = posicaoAtual; i < qtosDados - 1; i++)
+            {
+                dados[i] = dados[i + 1];
+            }
+            dados[qtosDados - 1] = default;
+            qtosDados--;
+        }
     }
 
     public bool Existe(Dicionario palavraBuscada)
     {
-        return false;
-    }
+        posicaoAtual = 0;
+        atual = dados[posicaoAtual];
+        bool achou = false;
+        bool fim = false;
 
-    public Dicionario BuscarPalavra(Dicionario palavraBuscada)
-    {
-        Dicionario palavraAchada;
-        for(int i = 0; i< dados.Length; i++)
+        while(!achou && !fim)
         {
-            if(dados[i].CompareTo(palavraBuscada) == 0)
+            if(atual == null)
             {
-                palavraAchada = palavraBuscada;
-                return palavraAchada;
+                fim = true;
+            }
+            else
+            {
+                if(atual.CompareTo(palavraBuscada) == 0)
+                {
+                    achou = true;
+                }
+                else
+                {
+                    posicaoAtual++;
+                    atual = dados[posicaoAtual];
+                }
             }
         }
-        return default;
+
+        return achou;
     }
 
-    public Dicionario EditarPalavra(string palavraEditada, string dicaEditada)
+
+    public void EditarPalavra(Dicionario palavraModificada)
     {
 
-        return default;
+        if (EstaVazia)
+        {
+            throw new Exception("Lista Vazia");
+        }
+        else if (palavraModificada == null)
+        {
+            throw new Exception("Dado Vazio");
+        }
+        else
+        {
+            int posicaoAtualBackup = posicaoAtual;
+            if (!Existe(palavraModificada))
+            {
+                dados[posicaoAtualBackup] = palavraModificada;
+            }
+            else
+            {
+                throw new Exception("Dado já existe na lista.");
+            }
+        }
     }
 
     public void PosicionarNoInicio()
@@ -95,8 +172,8 @@ using System.Threading.Tasks;
         }
         else
         {
-            atual = dados[0];
-            posicaoAtual = 1;
+            posicaoAtual = 0;
+            atual = dados[posicaoAtual];
         }
     }
 
@@ -108,7 +185,7 @@ using System.Threading.Tasks;
         }
         else
         {
-            posicaoAtual = dados.Length;
+            posicaoAtual = qtosDados -1;
             atual = dados[posicaoAtual];
         }
     }
@@ -124,6 +201,10 @@ using System.Threading.Tasks;
             atual = dados[posicaoAtual + 1];
             posicaoAtual++;
         }
+        else
+        {
+            PosicionarNoFinal();
+        }
     }
 
     public void Retroceder()
@@ -132,13 +213,50 @@ using System.Threading.Tasks;
         {
             throw new Exception("lISTA VAZIA");
         }
-        if (dados[posicaoAtual - 1] != null)
+        if (posicaoAtual > 0)
         {
             atual = dados[posicaoAtual - 1];
             posicaoAtual--;
         }
+        else
+        {
+            PosicionarNoInicio();
+        }
     }
 
+    public void GravarDados(string nomeArq)
+    {
+        try
+        {
+            using (var arquivo = new StreamWriter(nomeArq))
+            {
+                for (int i = 0; i < qtosDados; i++)
+                {
+                    if (dados[i] != null)
+                    {
+                        arquivo.WriteLine(dados[i].ToString());
+                    }
+                }
+            } 
+        }
+        catch
+        {
+            throw new Exception("Erro");
+        }
+    }
 
+    public List<Dicionario> Listagem()
+    {
+        var dadosEmLista = new List<Dicionario>();
+
+        for (int i = 0; i < qtosDados; i++)
+        {
+            if (dados[i] != null)
+            {
+                dadosEmLista.Add(dados[i]);
+            }
+        }
+        return dadosEmLista;
+    }
 }
 

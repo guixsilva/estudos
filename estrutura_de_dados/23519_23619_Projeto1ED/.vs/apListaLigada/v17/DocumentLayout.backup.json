@@ -1,18 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apForca\\",
+  "WorkspaceRootPath": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Projeto1ED\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2BFB39FF-63A8-4EBA-BED7-CA5A08AA9F55}|apListaLigada.csproj|C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apForca\\listadupla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2BFB39FF-63A8-4EBA-BED7-CA5A08AA9F55}|apListaLigada.csproj|c:\\users\\guiesilva\\documents\\github\\estudos\\estrutura_de_dados\\23519_23619_projeto1ed\\listadupla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2BFB39FF-63A8-4EBA-BED7-CA5A08AA9F55}|apListaLigada.csproj|solutionrelative:listadupla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BFB39FF-63A8-4EBA-BED7-CA5A08AA9F55}|apListaLigada.csproj|c:\\users\\guiesilva\\documents\\github\\estudos\\estrutura_de_dados\\apforca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2BFB39FF-63A8-4EBA-BED7-CA5A08AA9F55}|apListaLigada.csproj|C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Projeto1ED\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2BFB39FF-63A8-4EBA-BED7-CA5A08AA9F55}|apListaLigada.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFB39FF-63A8-4EBA-BED7-CA5A08AA9F55}|apListaLigada.csproj|C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Projeto1ED\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2BFB39FF-63A8-4EBA-BED7-CA5A08AA9F55}|apListaLigada.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BFB39FF-63A8-4EBA-BED7-CA5A08AA9F55}|apListaLigada.csproj|C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apForca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2BFB39FF-63A8-4EBA-BED7-CA5A08AA9F55}|apListaLigada.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2BFB39FF-63A8-4EBA-BED7-CA5A08AA9F55}|apListaLigada.csproj|C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Projeto1ED\\forca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFB39FF-63A8-4EBA-BED7-CA5A08AA9F55}|apListaLigada.csproj|solutionrelative:forca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFB39FF-63A8-4EBA-BED7-CA5A08AA9F55}|apListaLigada.csproj|C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Projeto1ED\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFB39FF-63A8-4EBA-BED7-CA5A08AA9F55}|apListaLigada.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFB39FF-63A8-4EBA-BED7-CA5A08AA9F55}|apListaLigada.csproj|C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Projeto1ED\\noduplo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFB39FF-63A8-4EBA-BED7-CA5A08AA9F55}|apListaLigada.csproj|solutionrelative:noduplo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,21 +34,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 19,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apForca\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Projeto1ED\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apForca\\Form1.cs",
+              "ToolTip": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Projeto1ED\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAALsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwI0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T13:07:56.216Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -100,28 +111,63 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Projeto1ED\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Projeto1ED\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T21:44:30.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NoDuplo.cs",
+              "DocumentMoniker": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Projeto1ED\\NoDuplo.cs",
+              "RelativeDocumentMoniker": "NoDuplo.cs",
+              "ToolTip": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Projeto1ED\\NoDuplo.cs",
+              "RelativeToolTip": "NoDuplo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T21:44:25.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Forca.cs",
+              "DocumentMoniker": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Projeto1ED\\Forca.cs",
+              "RelativeDocumentMoniker": "Forca.cs",
+              "ToolTip": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Projeto1ED\\Forca.cs",
+              "RelativeToolTip": "Forca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T21:44:13.07Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ListaDupla.cs",
-              "DocumentMoniker": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apForca\\ListaDupla.cs",
+              "DocumentMoniker": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Projeto1ED\\ListaDupla.cs",
               "RelativeDocumentMoniker": "ListaDupla.cs",
-              "ToolTip": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apForca\\ListaDupla.cs",
+              "ToolTip": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Projeto1ED\\ListaDupla.cs",
               "RelativeToolTip": "ListaDupla.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAwwCcAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAADkBAAAAAAAAAAAIwPoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T13:07:56.46Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apForca\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Projeto1ED\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\apForca\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Projeto1ED\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T13:07:56.46Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-12T13:07:56.46Z"
             }
           ]
         }

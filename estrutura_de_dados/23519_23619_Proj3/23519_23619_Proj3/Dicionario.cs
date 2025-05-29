@@ -17,7 +17,7 @@ using System.Threading.Tasks;
         {
             if(value != "")
             {
-                palavra = value.Substring(0, tamanhoPalavra).PadRight(tamanhoPalavra, ' ');
+                palavra = value.PadRight(tamanhoPalavra, ' ').Substring(0, tamanhoPalavra);
             }
             else
             {
@@ -28,14 +28,10 @@ using System.Threading.Tasks;
     public string Dica { 
         get => dica; 
         set{
-            if(value != "")
-            {
-                value = value.Substring(tamanhoPalavra);
-            }
-            else
-            {
-                throw new Exception("Dica não pode estar vazia.");
-            }
+                if (value != "")
+                {
+                    dica = value;
+                }
         }
     }
 
@@ -46,17 +42,18 @@ using System.Threading.Tasks;
 
     public Dicionario(string linhaDeDados)
     {
-        acertou[15] = false;
         Palavra = linhaDeDados.Substring(0, tamanhoPalavra);
         Dica = linhaDeDados.Substring(tamanhoPalavra);
+        acertou = new bool[tamanhoPalavra];
     }
 
     public Dicionario(string palavra, string dica)
     {
-        acertou[15] = false;
+        acertou = new bool[tamanhoPalavra];
         Palavra = palavra;
         Dica = dica;
     }
+
 
     public int CompareTo(Dicionario? other)
     {
@@ -65,7 +62,7 @@ using System.Threading.Tasks;
 
     public override string ToString()
     {
-        return palavra + " " + dica;
+        return $"{palavra}{dica}";
     }
 
     public string FormatoDeArquivo()
