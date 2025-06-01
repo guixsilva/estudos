@@ -8,7 +8,7 @@ using System.Threading.Tasks;
     {
 
     string palavra, dica;
-    int tamanhoPalavra = 15;
+    int tamanhoVetor = 15;
     bool[] acertou;
 
     public string Palavra { 
@@ -17,7 +17,7 @@ using System.Threading.Tasks;
         {
             if(value != "")
             {
-                palavra = value.PadRight(tamanhoPalavra, ' ').Substring(0, tamanhoPalavra);
+                palavra = value.PadRight(tamanhoVetor, ' ').Substring(0, tamanhoVetor);
             }
             else
             {
@@ -42,14 +42,14 @@ using System.Threading.Tasks;
 
     public Dicionario(string linhaDeDados)
     {
-        Palavra = linhaDeDados.Substring(0, tamanhoPalavra);
-        Dica = linhaDeDados.Substring(tamanhoPalavra);
-        acertou = new bool[tamanhoPalavra];
+        Palavra = linhaDeDados.Substring(0, tamanhoVetor);
+        Dica = linhaDeDados.Substring(tamanhoVetor);
+        acertou = new bool[tamanhoVetor];
     }
 
     public Dicionario(string palavra, string dica)
     {
-        acertou = new bool[tamanhoPalavra];
+        acertou = new bool[tamanhoVetor];
         Palavra = palavra;
         Dica = dica;
     }
@@ -72,10 +72,41 @@ using System.Threading.Tasks;
 
 
 
-    bool Tentativa(char letra)
+    public bool Tentativa(char letra)
     {
-        
-        return false;
+        bool tentativa = false;
+        char[] letras = Palavra.TrimEnd().ToCharArray();
+
+        for (int i = 0; i < letras.Length; i++)
+        {
+            if (letras[i] == letra)
+            {
+                tentativa = true;
+                Acertou[i] = true;
+            } 
+        }
+
+        return tentativa;
+    }
+
+    public bool FimDeGame()
+    {
+        int tamanhoPalavra = Palavra.TrimEnd().Length;
+
+        for (int i = 0; i < tamanhoPalavra; i++)
+        {
+            if (Acertou[i] == false)
+            {
+                return false;
+            }
+        }
+
+        for (int i = 0; i < acertou.Length; i++)
+        {
+            acertou[i] = false;
+        }
+
+        return true;
     }
 }
 
