@@ -1,1 +1,2 @@
-ANA            Mary
+ABECEDÁRIO     Grupo de caracteres.
+COMPUTADOR     Usamos para programar

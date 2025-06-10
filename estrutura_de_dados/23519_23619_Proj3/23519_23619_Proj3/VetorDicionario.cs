@@ -43,72 +43,88 @@ using System.Threading.Tasks;
         }
     }
 
-    public void InserirNovaPalavra(Dicionario novoRegistro)
+    //
+    //
+    // FUNÇÕES DE CRUD
+    //
+    //
+    public void InserirNovaPalavra(Dicionario novoRegistro) // insere uma nova palavra em ordem alfabética
     {
+        if (novoRegistro == null)
+        {
+            throw new Exception("A palavra não pode ser nula.");
+        }
+
         if (Existe(novoRegistro))
         {
             throw new Exception("Essa palavra já existe no dicionário.");
         }
-        else
+
+        int posicaoInsercao = 0;
+
+        while (posicaoInsercao < qtosDados &&
+               novoRegistro.CompareTo(dados[posicaoInsercao]) > 0)
         {
-            if (novoRegistro != null) // COLOCAR EM ORDEM ALFABÉTICA
-            {
-                
-                if (EstaVazia)
-                {
-                    dados[0] = novoRegistro;
-                }
-                else
-                {
-                    for (int i = 0; i < qtosDados; i++)
-                    {
-                        if (novoRegistro.CompareTo(dados[i]) < 0)
-                        {
-                            posicaoAtual = i;
-                            break;
-                        }
-                        posicaoAtual = i + 1;
-                    }
-                    
-                    for(int i = qtosDados; i > posicaoAtual; i--)
-                    {
-                        dados[i] = dados[i - 1];
-                    }
-                    dados[posicaoAtual] = novoRegistro;
-                    
-                }
-                qtosDados++;
-            }
-            else
-            {
-                throw new Exception("A palavra não pode ser inserida na lista.");
-            }
+            posicaoInsercao++;
         }
 
+        for (int i = qtosDados; i > posicaoInsercao; i--)
+        {
+            dados[i] = dados[i - 1];
+        }
+
+        dados[posicaoInsercao] = novoRegistro;
+        qtosDados++;
     }
 
-    public void ExcluirPalavra(Dicionario palavraParaRemover)
+    public void ExcluirPalavra(Dicionario palavraParaRemover) // Exclui palavras de dentro da lista ligada USANDO BUSCA BINÁRIA
     {
         if (EstaVazia)
         {
             throw new Exception("A lista está vazia");
         }
-        if (!Existe(palavraParaRemover))
+
+        int inicio = 0;
+        int fim = qtosDados - 1;
+        int meio = -1;
+        bool encontrado = false;
+
+        while (inicio <= fim) // busca binária
+        {
+            meio = (inicio + fim) / 2; // função que define o meio do dicionário
+            int comparacao = palavraParaRemover.CompareTo(dados[meio]); // compara a palavra com o meio
+
+            if (comparacao == 0) // encontrou
+            {
+                encontrado = true;
+                break;
+            }
+            else if (comparacao < 0) // palavra menor que o meio - anda para a esquerda
+            {
+                fim = meio - 1;
+            }
+            else // palavra maior que o meio - anda para a direita
+            {
+                inicio = meio + 1;
+            }
+        }
+
+        if (!encontrado)
         {
             throw new Exception("Palavra não existe na lista");
         }
-        else
+
+        for (int i = meio; i < qtosDados - 1; i++) // desloca tudo da direita para a esquerda
         {
-            for (int i = posicaoAtual; i < qtosDados - 1; i++)
-            {
-                dados[i] = dados[i + 1];
-            }
-            dados[qtosDados - 1] = default;
-            qtosDados--;
+            dados[i] = dados[i + 1];
         }
+
+        dados[qtosDados - 1] = default;
+        qtosDados--;
     }
 
-    public bool Existe(Dicionario palavraBuscada)
+
+    public bool Existe(Dicionario palavraBuscada) // verifica se existe uma palavra ESPECÍFICA no dicionário - sem usar busca binária
     {
         posicaoAtual = 0;
         atual = dados[posicaoAtual];
@@ -129,7 +145,7 @@ using System.Threading.Tasks;
                 }
                 else
                 {
-                    posicaoAtual++;
+                    posicaoAtual++; // define o ponteiro para o elemento encontrado
                     atual = dados[posicaoAtual];
                 }
             }
@@ -139,7 +155,7 @@ using System.Threading.Tasks;
     }
 
 
-    public void EditarPalavra(Dicionario palavraModificada)
+    public void EditarPalavra(Dicionario palavraModificada) // função que edita uma palavra dentro do dicionário 
     {
 
         if (EstaVazia)
@@ -153,7 +169,7 @@ using System.Threading.Tasks;
         else
         {
             int posicaoAtualBackup = posicaoAtual;
-            if (!Existe(palavraModificada))
+            if (!Existe(palavraModificada)) // função existe define o ponteiro no elemento encontrado
             {
                 dados[posicaoAtualBackup] = palavraModificada;
             }
@@ -164,6 +180,11 @@ using System.Threading.Tasks;
         }
     }
 
+    //
+    //
+    // FUNÇÕES PARA NAVEGAÇÃO DENTRO DA LISTA LIGADA
+    //
+    //
     public void PosicionarNoInicio()
     {
         if (EstaVazia)
@@ -224,6 +245,11 @@ using System.Threading.Tasks;
         }
     }
 
+    //
+    //
+    // FUNÇÕES PARA TRATAMENTO DE DADOS (LISTAGEM, GRAVAR DADOS)
+    //
+    //
     public void GravarDados(string nomeArq)
     {
         try

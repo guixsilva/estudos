@@ -72,7 +72,7 @@ using System.Threading.Tasks;
 
 
 
-    public bool Tentativa(char letra)
+    public bool Tentativa(char letra) // verifica se a letra escolhida pelo jogador existe dentro da palavra
     {
         bool tentativa = false;
         char[] letras = Palavra.TrimEnd().ToCharArray();
@@ -89,7 +89,7 @@ using System.Threading.Tasks;
         return tentativa;
     }
 
-    public bool FimDeGame()
+    public bool FimDeGame() // Verifica se o jogador já escolheu todas as letras da palavra.
     {
         int tamanhoPalavra = Palavra.TrimEnd().Length;
 
