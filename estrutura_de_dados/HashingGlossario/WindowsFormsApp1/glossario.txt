@@ -1,0 +1,8 @@
+﻿Somador,um circuito eletrônico que realiza uma operação de adição em valores binários
+endereçabilidade, o número de bits armazenados em cada localização endereçável da memória
+bit,abreviação de binary digit
+bloco,um grupo lógico de zero ou mais comandos de programa
+chamada,o ponto a partir do qual o computador começa a seguir as instruções em um subprograma
+compilador,um programa que traduz um programa de alto nível em código de máquina
+dados,informações em um formato que um computador pode utilizar
+banco de dados,um conjunto estruturado de dados
