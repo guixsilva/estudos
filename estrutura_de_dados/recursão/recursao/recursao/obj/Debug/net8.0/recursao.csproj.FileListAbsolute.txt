@@ -1,0 +1,15 @@
+C:\Users\u23519\Documents\GitHub\estudos\estrutura_de_dados\recursão\recursao\recursao\bin\Debug\net8.0\recursao.exe
+C:\Users\u23519\Documents\GitHub\estudos\estrutura_de_dados\recursão\recursao\recursao\bin\Debug\net8.0\recursao.deps.json
+C:\Users\u23519\Documents\GitHub\estudos\estrutura_de_dados\recursão\recursao\recursao\bin\Debug\net8.0\recursao.runtimeconfig.json
+C:\Users\u23519\Documents\GitHub\estudos\estrutura_de_dados\recursão\recursao\recursao\bin\Debug\net8.0\recursao.dll
+C:\Users\u23519\Documents\GitHub\estudos\estrutura_de_dados\recursão\recursao\recursao\bin\Debug\net8.0\recursao.pdb
+C:\Users\u23519\Documents\GitHub\estudos\estrutura_de_dados\recursão\recursao\recursao\obj\Debug\net8.0\recursao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u23519\Documents\GitHub\estudos\estrutura_de_dados\recursão\recursao\recursao\obj\Debug\net8.0\recursao.AssemblyInfoInputs.cache
+C:\Users\u23519\Documents\GitHub\estudos\estrutura_de_dados\recursão\recursao\recursao\obj\Debug\net8.0\recursao.AssemblyInfo.cs
+C:\Users\u23519\Documents\GitHub\estudos\estrutura_de_dados\recursão\recursao\recursao\obj\Debug\net8.0\recursao.csproj.CoreCompileInputs.cache
+C:\Users\u23519\Documents\GitHub\estudos\estrutura_de_dados\recursão\recursao\recursao\obj\Debug\net8.0\recursao.sourcelink.json
+C:\Users\u23519\Documents\GitHub\estudos\estrutura_de_dados\recursão\recursao\recursao\obj\Debug\net8.0\recursao.dll
+C:\Users\u23519\Documents\GitHub\estudos\estrutura_de_dados\recursão\recursao\recursao\obj\Debug\net8.0\refint\recursao.dll
+C:\Users\u23519\Documents\GitHub\estudos\estrutura_de_dados\recursão\recursao\recursao\obj\Debug\net8.0\recursao.pdb
+C:\Users\u23519\Documents\GitHub\estudos\estrutura_de_dados\recursão\recursao\recursao\obj\Debug\net8.0\recursao.genruntimeconfig.cache
+C:\Users\u23519\Documents\GitHub\estudos\estrutura_de_dados\recursão\recursao\recursao\obj\Debug\net8.0\ref\recursao.dll

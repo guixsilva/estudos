@@ -1,7 +1,0 @@
-P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\Estruturas\Listas Ligadas\apAlunos\obj\Debug\apAlunos.csproj.AssemblyReference.cache
-P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\Estruturas\Listas Ligadas\apAlunos\obj\Debug\apAlunos.csproj.CoreCompileInputs.cache
-P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\Estruturas\Listas Ligadas\apAlunos\bin\Debug\apAlunos.exe.config
-P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\Estruturas\Listas Ligadas\apAlunos\bin\Debug\apAlunos.exe
-P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\Estruturas\Listas Ligadas\apAlunos\bin\Debug\apAlunos.pdb
-P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\Estruturas\Listas Ligadas\apAlunos\obj\Debug\apAlunos.exe
-P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\Estruturas\Listas Ligadas\apAlunos\obj\Debug\apAlunos.pdb

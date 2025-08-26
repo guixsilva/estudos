@@ -1,0 +1,2 @@
+ABECEDÁRIO     Grupo de caracteres.
+COMPUTADOR     Usamos para programar
