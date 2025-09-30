@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\ArvoreBinaria\\arvBinaria\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{41367950-D5DF-4349-A629-ABCC77CD74F5}|arvBinaria.csproj|c:\\users\\u23519\\documents\\github\\estudos\\estrutura_de_dados\\arvorebinaria\\arvbinaria\\arvore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41367950-D5DF-4349-A629-ABCC77CD74F5}|arvBinaria.csproj|solutionrelative:arvore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41367950-D5DF-4349-A629-ABCC77CD74F5}|arvBinaria.csproj|c:\\users\\u23519\\documents\\github\\estudos\\estrutura_de_dados\\arvorebinaria\\arvbinaria\\noarvore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41367950-D5DF-4349-A629-ABCC77CD74F5}|arvBinaria.csproj|solutionrelative:noarvore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41367950-D5DF-4349-A629-ABCC77CD74F5}|arvBinaria.csproj|C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\ArvoreBinaria\\arvBinaria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{41367950-D5DF-4349-A629-ABCC77CD74F5}|arvBinaria.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41367950-D5DF-4349-A629-ABCC77CD74F5}|arvBinaria.csproj|c:\\users\\u23519\\documents\\github\\estudos\\estrutura_de_dados\\arvorebinaria\\arvbinaria\\noarvore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41367950-D5DF-4349-A629-ABCC77CD74F5}|arvBinaria.csproj|solutionrelative:noarvore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -87,19 +83,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Arvore.cs",
-              "DocumentMoniker": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\ArvoreBinaria\\arvBinaria\\Arvore.cs",
-              "RelativeDocumentMoniker": "Arvore.cs",
-              "ToolTip": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\ArvoreBinaria\\arvBinaria\\Arvore.cs",
-              "RelativeToolTip": "Arvore.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBUAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T23:28:23.166Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "NoArvore.cs",
               "DocumentMoniker": "C:\\Users\\u23519\\Documents\\GitHub\\estudos\\estrutura_de_dados\\ArvoreBinaria\\arvBinaria\\NoArvore.cs",
               "RelativeDocumentMoniker": "NoArvore.cs",
@@ -107,7 +90,8 @@
               "RelativeToolTip": "NoArvore.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T23:16:59.412Z"
+              "WhenOpened": "2025-09-01T23:16:59.412Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("exerciciosArvoreBinaria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b95e94d1b42cf484a238aa00ac52f6574dc5bdaf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fbddfda91db55bc7c0521bcb184df9fac818de23")]
 [assembly: System.Reflection.AssemblyProductAttribute("exerciciosArvoreBinaria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("exerciciosArvoreBinaria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

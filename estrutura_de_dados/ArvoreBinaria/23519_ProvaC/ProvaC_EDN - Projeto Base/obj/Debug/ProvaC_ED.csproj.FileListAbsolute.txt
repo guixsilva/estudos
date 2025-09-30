@@ -1,0 +1,33 @@
+G:\Chico\0Cotuca\Provas\ED\2025\prova C Mat\ProvaC_ED\bin\Debug\ProvaC_ED.exe.config
+G:\Chico\0Cotuca\Provas\ED\2025\prova C Mat\ProvaC_ED\bin\Debug\ProvaC_ED.exe
+G:\Chico\0Cotuca\Provas\ED\2025\prova C Mat\ProvaC_ED\bin\Debug\ProvaC_ED.pdb
+G:\Chico\0Cotuca\Provas\ED\2025\prova C Mat\ProvaC_ED\obj\Debug\ProvaC_ED.csproj.AssemblyReference.cache
+G:\Chico\0Cotuca\Provas\ED\2025\prova C Mat\ProvaC_ED\obj\Debug\ProvaC_ED.Form1.resources
+G:\Chico\0Cotuca\Provas\ED\2025\prova C Mat\ProvaC_ED\obj\Debug\ProvaC_ED.Properties.Resources.resources
+G:\Chico\0Cotuca\Provas\ED\2025\prova C Mat\ProvaC_ED\obj\Debug\ProvaC_ED.csproj.GenerateResource.cache
+G:\Chico\0Cotuca\Provas\ED\2025\prova C Mat\ProvaC_ED\obj\Debug\ProvaC_ED.csproj.CoreCompileInputs.cache
+G:\Chico\0Cotuca\Provas\ED\2025\prova C Mat\ProvaC_ED\obj\Debug\ProvaC_ED.exe
+G:\Chico\0Cotuca\Provas\ED\2025\prova C Mat\ProvaC_ED\obj\Debug\ProvaC_ED.pdb
+G:\Chico\0Cotuca\Provas\ED\2025\prova C Mat\ProvaC_ED\obj\Debug\ProvaC_ED.exe.config
+Z:\anosLetivos\2025\disciplinas\TI221 ED\Provas\prova C\ProvaC_EDN - Projeto Base\obj\Debug\ProvaC_ED.csproj.AssemblyReference.cache
+Z:\anosLetivos\2025\disciplinas\TI221 ED\Provas\prova C\ProvaC_EDN - Projeto Base\obj\Debug\ProvaC_ED.exe.config
+Z:\anosLetivos\2025\disciplinas\TI221 ED\Provas\prova C\ProvaC_EDN - Projeto Base\obj\Debug\ProvaC_ED.Form1.resources
+Z:\anosLetivos\2025\disciplinas\TI221 ED\Provas\prova C\ProvaC_EDN - Projeto Base\obj\Debug\ProvaC_ED.Properties.Resources.resources
+Z:\anosLetivos\2025\disciplinas\TI221 ED\Provas\prova C\ProvaC_EDN - Projeto Base\obj\Debug\ProvaC_ED.csproj.GenerateResource.cache
+Z:\anosLetivos\2025\disciplinas\TI221 ED\Provas\prova C\ProvaC_EDN - Projeto Base\obj\Debug\ProvaC_ED.csproj.CoreCompileInputs.cache
+Z:\anosLetivos\2025\disciplinas\TI221 ED\Provas\prova C\ProvaC_EDN - Projeto Base\obj\Debug\ProvaC_ED.exe
+Z:\anosLetivos\2025\disciplinas\TI221 ED\Provas\prova C\ProvaC_EDN - Projeto Base\obj\Debug\ProvaC_ED.pdb
+Z:\anosLetivos\2025\disciplinas\TI221 ED\Provas\prova C\ProvaC_EDN - Projeto Base\bin\Debug\ProvaC_ED.exe.config
+Z:\anosLetivos\2025\disciplinas\TI221 ED\Provas\prova C\ProvaC_EDN - Projeto Base\bin\Debug\ProvaC_ED.exe
+Z:\anosLetivos\2025\disciplinas\TI221 ED\Provas\prova C\ProvaC_EDN - Projeto Base\bin\Debug\ProvaC_ED.pdb
+C:\Users\u23519\Desktop\23519_ProvaC\ProvaC_EDN - Projeto Base\obj\Debug\ProvaC_ED.csproj.AssemblyReference.cache
+C:\Users\u23519\Desktop\23519_ProvaC\ProvaC_EDN - Projeto Base\obj\Debug\ProvaC_ED.exe.config
+C:\Users\u23519\Desktop\23519_ProvaC\ProvaC_EDN - Projeto Base\obj\Debug\ProvaC_ED.Form1.resources
+C:\Users\u23519\Desktop\23519_ProvaC\ProvaC_EDN - Projeto Base\obj\Debug\ProvaC_ED.Properties.Resources.resources
+C:\Users\u23519\Desktop\23519_ProvaC\ProvaC_EDN - Projeto Base\obj\Debug\ProvaC_ED.csproj.GenerateResource.cache
+C:\Users\u23519\Desktop\23519_ProvaC\ProvaC_EDN - Projeto Base\obj\Debug\ProvaC_ED.csproj.CoreCompileInputs.cache
+C:\Users\u23519\Desktop\23519_ProvaC\ProvaC_EDN - Projeto Base\obj\Debug\ProvaC_ED.exe
+C:\Users\u23519\Desktop\23519_ProvaC\ProvaC_EDN - Projeto Base\obj\Debug\ProvaC_ED.pdb
+C:\Users\u23519\Desktop\23519_ProvaC\ProvaC_EDN - Projeto Base\bin\Debug\ProvaC_ED.exe.config
+C:\Users\u23519\Desktop\23519_ProvaC\ProvaC_EDN - Projeto Base\bin\Debug\ProvaC_ED.exe
+C:\Users\u23519\Desktop\23519_ProvaC\ProvaC_EDN - Projeto Base\bin\Debug\ProvaC_ED.pdb
