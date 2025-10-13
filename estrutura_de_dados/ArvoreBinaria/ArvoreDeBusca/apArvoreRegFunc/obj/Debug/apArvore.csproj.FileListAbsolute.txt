@@ -1,0 +1,66 @@
+P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\Estruturas\Arvores\apArvore\bin\Debug\apArvore.exe.config
+P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\Estruturas\Arvores\apArvore\bin\Debug\apArvore.exe
+P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\Estruturas\Arvores\apArvore\bin\Debug\apArvore.pdb
+P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\Estruturas\Arvores\apArvore\obj\Debug\apArvore.csproj.AssemblyReference.cache
+P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\Estruturas\Arvores\apArvore\obj\Debug\apArvore.Properties.Resources.resources
+P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\Estruturas\Arvores\apArvore\obj\Debug\apArvore.csproj.GenerateResource.cache
+P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\Estruturas\Arvores\apArvore\obj\Debug\apArvore.csproj.CoreCompileInputs.cache
+P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\Estruturas\Arvores\apArvore\obj\Debug\apArvore.exe
+P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\Estruturas\Arvores\apArvore\obj\Debug\apArvore.pdb
+P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\Estruturas\Arvores\apArvore\obj\Debug\apArvore.exe.config
+P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\Estruturas\Arvores\apArvore\obj\Debug\apArvore.FrmArvoreBinaria.resources
+P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\correcoes\arvores\apArvore\bin\Debug\apArvore.exe.config
+P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\correcoes\arvores\apArvore\bin\Debug\apArvore.exe
+P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\correcoes\arvores\apArvore\bin\Debug\apArvore.pdb
+P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\correcoes\arvores\apArvore\obj\Debug\apArvore.csproj.AssemblyReference.cache
+P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\correcoes\arvores\apArvore\obj\Debug\apArvore.exe.config
+P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\correcoes\arvores\apArvore\obj\Debug\apArvore.FrmArvoreBinaria.resources
+P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\correcoes\arvores\apArvore\obj\Debug\apArvore.Properties.Resources.resources
+P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\correcoes\arvores\apArvore\obj\Debug\apArvore.csproj.GenerateResource.cache
+P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\correcoes\arvores\apArvore\obj\Debug\apArvore.csproj.CoreCompileInputs.cache
+P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\correcoes\arvores\apArvore\obj\Debug\apArvore.exe
+P:\59-DesenvSistemas\2025\2o Ano\TI221-Estruturas de Dados\correcoes\arvores\apArvore\obj\Debug\apArvore.pdb
+C:\Users\chico\Documents\apArvore\bin\Debug\apArvore.exe.config
+C:\Users\chico\Documents\apArvore\bin\Debug\apArvore.exe
+C:\Users\chico\Documents\apArvore\bin\Debug\apArvore.pdb
+C:\Users\chico\Documents\apArvore\obj\Debug\apArvore.csproj.AssemblyReference.cache
+C:\Users\chico\Documents\apArvore\obj\Debug\apArvore.FrmArvoreBinaria.resources
+C:\Users\chico\Documents\apArvore\obj\Debug\apArvore.Properties.Resources.resources
+C:\Users\chico\Documents\apArvore\obj\Debug\apArvore.csproj.GenerateResource.cache
+C:\Users\chico\Documents\apArvore\obj\Debug\apArvore.csproj.CoreCompileInputs.cache
+C:\Users\chico\Documents\apArvore\obj\Debug\apArvore.exe
+C:\Users\chico\Documents\apArvore\obj\Debug\apArvore.pdb
+P:\19-Informática\2025\2o Ano\TI221 - Estruturas de Dados\correções\arvores\apArvore\bin\Debug\apArvore.exe.config
+P:\19-Informática\2025\2o Ano\TI221 - Estruturas de Dados\correções\arvores\apArvore\bin\Debug\apArvore.exe
+P:\19-Informática\2025\2o Ano\TI221 - Estruturas de Dados\correções\arvores\apArvore\bin\Debug\apArvore.pdb
+P:\19-Informática\2025\2o Ano\TI221 - Estruturas de Dados\correções\arvores\apArvore\obj\Debug\apArvore.csproj.AssemblyReference.cache
+P:\19-Informática\2025\2o Ano\TI221 - Estruturas de Dados\correções\arvores\apArvore\obj\Debug\apArvore.exe.config
+P:\19-Informática\2025\2o Ano\TI221 - Estruturas de Dados\correções\arvores\apArvore\obj\Debug\apArvore.FrmArvoreBinaria.resources
+P:\19-Informática\2025\2o Ano\TI221 - Estruturas de Dados\correções\arvores\apArvore\obj\Debug\apArvore.Properties.Resources.resources
+P:\19-Informática\2025\2o Ano\TI221 - Estruturas de Dados\correções\arvores\apArvore\obj\Debug\apArvore.csproj.GenerateResource.cache
+P:\19-Informática\2025\2o Ano\TI221 - Estruturas de Dados\correções\arvores\apArvore\obj\Debug\apArvore.csproj.CoreCompileInputs.cache
+P:\19-Informática\2025\2o Ano\TI221 - Estruturas de Dados\correções\arvores\apArvore\obj\Debug\apArvore.exe
+P:\19-Informática\2025\2o Ano\TI221 - Estruturas de Dados\correções\arvores\apArvore\obj\Debug\apArvore.pdb
+C:\Users\chico\Documents\apArvore\obj\Debug\apArvore.exe.config
+P:\59-DesenvSistemas\2025\2o Ano\TI221- Estruturas de Dados\correcoes\arvores\apArvore\bin\Debug\apArvore.exe.config
+P:\59-DesenvSistemas\2025\2o Ano\TI221- Estruturas de Dados\correcoes\arvores\apArvore\bin\Debug\apArvore.exe
+P:\59-DesenvSistemas\2025\2o Ano\TI221- Estruturas de Dados\correcoes\arvores\apArvore\bin\Debug\apArvore.pdb
+P:\59-DesenvSistemas\2025\2o Ano\TI221- Estruturas de Dados\correcoes\arvores\apArvore\obj\Debug\apArvore.csproj.AssemblyReference.cache
+P:\59-DesenvSistemas\2025\2o Ano\TI221- Estruturas de Dados\correcoes\arvores\apArvore\obj\Debug\apArvore.exe.config
+P:\59-DesenvSistemas\2025\2o Ano\TI221- Estruturas de Dados\correcoes\arvores\apArvore\obj\Debug\apArvore.FrmArvoreBinaria.resources
+P:\59-DesenvSistemas\2025\2o Ano\TI221- Estruturas de Dados\correcoes\arvores\apArvore\obj\Debug\apArvore.Properties.Resources.resources
+P:\59-DesenvSistemas\2025\2o Ano\TI221- Estruturas de Dados\correcoes\arvores\apArvore\obj\Debug\apArvore.csproj.GenerateResource.cache
+P:\59-DesenvSistemas\2025\2o Ano\TI221- Estruturas de Dados\correcoes\arvores\apArvore\obj\Debug\apArvore.csproj.CoreCompileInputs.cache
+P:\59-DesenvSistemas\2025\2o Ano\TI221- Estruturas de Dados\correcoes\arvores\apArvore\obj\Debug\apArvore.exe
+P:\59-DesenvSistemas\2025\2o Ano\TI221- Estruturas de Dados\correcoes\arvores\apArvore\obj\Debug\apArvore.pdb
+P:\59-DesenvSistemas\2025\2o Ano\TI221- Estruturas de Dados\Estruturas\Arvores\apArvoreRegFunc\obj\Debug\apArvore.csproj.AssemblyReference.cache
+P:\59-DesenvSistemas\2025\2o Ano\TI221- Estruturas de Dados\Estruturas\Arvores\apArvoreRegFunc\obj\Debug\apArvore.exe.config
+P:\59-DesenvSistemas\2025\2o Ano\TI221- Estruturas de Dados\Estruturas\Arvores\apArvoreRegFunc\obj\Debug\apArvore.FrmFuncionario.resources
+P:\59-DesenvSistemas\2025\2o Ano\TI221- Estruturas de Dados\Estruturas\Arvores\apArvoreRegFunc\obj\Debug\apArvore.Properties.Resources.resources
+P:\59-DesenvSistemas\2025\2o Ano\TI221- Estruturas de Dados\Estruturas\Arvores\apArvoreRegFunc\obj\Debug\apArvore.csproj.GenerateResource.cache
+P:\59-DesenvSistemas\2025\2o Ano\TI221- Estruturas de Dados\Estruturas\Arvores\apArvoreRegFunc\obj\Debug\apArvore.csproj.CoreCompileInputs.cache
+P:\59-DesenvSistemas\2025\2o Ano\TI221- Estruturas de Dados\Estruturas\Arvores\apArvoreRegFunc\obj\Debug\apArvore.exe
+P:\59-DesenvSistemas\2025\2o Ano\TI221- Estruturas de Dados\Estruturas\Arvores\apArvoreRegFunc\obj\Debug\apArvore.pdb
+P:\59-DesenvSistemas\2025\2o Ano\TI221- Estruturas de Dados\Estruturas\Arvores\apArvoreRegFunc\bin\Debug\apArvore.exe.config
+P:\59-DesenvSistemas\2025\2o Ano\TI221- Estruturas de Dados\Estruturas\Arvores\apArvoreRegFunc\bin\Debug\apArvore.exe
+P:\59-DesenvSistemas\2025\2o Ano\TI221- Estruturas de Dados\Estruturas\Arvores\apArvoreRegFunc\bin\Debug\apArvore.pdb
