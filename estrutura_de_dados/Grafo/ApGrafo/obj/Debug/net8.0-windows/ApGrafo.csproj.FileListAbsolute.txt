@@ -1,0 +1,16 @@
+C:\Users\chico\Documents\ApGrafo\bin\Debug\net8.0-windows\ApGrafo.exe
+C:\Users\chico\Documents\ApGrafo\bin\Debug\net8.0-windows\ApGrafo.deps.json
+C:\Users\chico\Documents\ApGrafo\bin\Debug\net8.0-windows\ApGrafo.runtimeconfig.json
+C:\Users\chico\Documents\ApGrafo\bin\Debug\net8.0-windows\ApGrafo.dll
+C:\Users\chico\Documents\ApGrafo\bin\Debug\net8.0-windows\ApGrafo.pdb
+C:\Users\chico\Documents\ApGrafo\obj\Debug\net8.0-windows\ApGrafo.Form1.resources
+C:\Users\chico\Documents\ApGrafo\obj\Debug\net8.0-windows\ApGrafo.csproj.GenerateResource.cache
+C:\Users\chico\Documents\ApGrafo\obj\Debug\net8.0-windows\ApGrafo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chico\Documents\ApGrafo\obj\Debug\net8.0-windows\ApGrafo.AssemblyInfoInputs.cache
+C:\Users\chico\Documents\ApGrafo\obj\Debug\net8.0-windows\ApGrafo.AssemblyInfo.cs
+C:\Users\chico\Documents\ApGrafo\obj\Debug\net8.0-windows\ApGrafo.csproj.CoreCompileInputs.cache
+C:\Users\chico\Documents\ApGrafo\obj\Debug\net8.0-windows\ApGrafo.dll
+C:\Users\chico\Documents\ApGrafo\obj\Debug\net8.0-windows\refint\ApGrafo.dll
+C:\Users\chico\Documents\ApGrafo\obj\Debug\net8.0-windows\ApGrafo.pdb
+C:\Users\chico\Documents\ApGrafo\obj\Debug\net8.0-windows\ApGrafo.genruntimeconfig.cache
+C:\Users\chico\Documents\ApGrafo\obj\Debug\net8.0-windows\ref\ApGrafo.dll
