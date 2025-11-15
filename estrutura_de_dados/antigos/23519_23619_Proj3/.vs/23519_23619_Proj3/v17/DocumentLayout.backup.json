@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Proj3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7672B29A-BD21-4646-B0AA-274BD2FA1CC1}|23519_23619_Proj3\\23519_23619_Proj3.csproj|c:\\users\\guiesilva\\documents\\github\\estudos\\estrutura_de_dados\\23519_23619_proj3\\23519_23619_proj3\\vetordicionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7672B29A-BD21-4646-B0AA-274BD2FA1CC1}|23519_23619_Proj3\\23519_23619_Proj3.csproj|solutionrelative:23519_23619_proj3\\vetordicionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7672B29A-BD21-4646-B0AA-274BD2FA1CC1}|23519_23619_Proj3\\23519_23619_Proj3.csproj|c:\\users\\guiesilva\\documents\\github\\estudos\\estrutura_de_dados\\23519_23619_proj3\\23519_23619_proj3\\dicionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7672B29A-BD21-4646-B0AA-274BD2FA1CC1}|23519_23619_Proj3\\23519_23619_Proj3.csproj|solutionrelative:23519_23619_proj3\\dicionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7672B29A-BD21-4646-B0AA-274BD2FA1CC1}|23519_23619_Proj3\\23519_23619_Proj3.csproj|c:\\users\\guiesilva\\documents\\github\\estudos\\estrutura_de_dados\\23519_23619_proj3\\23519_23619_proj3\\vetordicionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7672B29A-BD21-4646-B0AA-274BD2FA1CC1}|23519_23619_Proj3\\23519_23619_Proj3.csproj|solutionrelative:23519_23619_proj3\\vetordicionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7672B29A-BD21-4646-B0AA-274BD2FA1CC1}|23519_23619_Proj3\\23519_23619_Proj3.csproj|c:\\users\\guiesilva\\documents\\github\\estudos\\estrutura_de_dados\\23519_23619_proj3\\23519_23619_proj3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -92,7 +92,7 @@
         },
         {
           "DockedHeight": 76,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -121,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Dicionario.cs",
               "DocumentMoniker": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Proj3\\23519_23619_Proj3\\Dicionario.cs",
               "RelativeDocumentMoniker": "23519_23619_Proj3\\Dicionario.cs",
@@ -134,13 +134,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "VetorDicionario.cs",
               "DocumentMoniker": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Proj3\\23519_23619_Proj3\\VetorDicionario.cs",
               "RelativeDocumentMoniker": "23519_23619_Proj3\\VetorDicionario.cs",
-              "ToolTip": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Proj3\\23519_23619_Proj3\\VetorDicionario.cs*",
-              "RelativeToolTip": "23519_23619_Proj3\\VetorDicionario.cs*",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAUwF4AAABHAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\guiesilva\\Documents\\GitHub\\estudos\\estrutura_de_dados\\23519_23619_Proj3\\23519_23619_Proj3\\VetorDicionario.cs",
+              "RelativeToolTip": "23519_23619_Proj3\\VetorDicionario.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAgwPkAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-26T22:31:18.586Z",
               "EditorCaption": ""
