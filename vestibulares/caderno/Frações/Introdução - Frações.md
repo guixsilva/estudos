@@ -5,3 +5,4 @@ b = denominador (o todo)
 
 [[Tipos de Frações]]
 [[Operações Matemáticas com Frações]]
+[[Exercicios - Frações]]
