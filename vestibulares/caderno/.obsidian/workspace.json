@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frações/Tipos de Frações.md",
+                "file": "Frações/Exercicios - Frações.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tipos de Frações"
+              "title": "Exercicios - Frações"
             }
           }
         ],
@@ -73,7 +73,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -203,18 +203,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
   "active": "c2cd9d3f8e89764c",
   "lastOpenFiles": [
+    "Pasted image 20251204233332.png",
+    "Frações/Arquivos/Pasted image 20251204230656.png",
+    "Frações/Tipos de Frações.md",
     "Frações/Introdução - Frações.md",
     "Frações/Exercicios - Frações.md",
     "Frações/Operações Matemáticas com Frações.md",
@@ -227,7 +230,6 @@
     "Frações/Arquivos",
     "Frações/Arquivos/Pasted image 20251203164615.png",
     "Frações/Arquivos/Pasted image 20251203164541.png",
-    "Frações/Tipos de Frações.md",
     "Frações",
     "Sem título.base"
   ]
