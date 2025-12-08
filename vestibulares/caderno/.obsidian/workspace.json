@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Potenciação/Exercícios - Potenciação.md",
-                "mode": "preview",
+                "file": "Raiz/Raíz N-ésima Aritmética.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exercícios - Potenciação"
+              "title": "Raíz N-ésima Aritmética"
+            }
+          },
+          {
+            "id": "f1326bad97db9631",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frações/Razão.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Razão"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +59,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -78,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "03b80e3ec6d8e7dd",
@@ -175,35 +189,40 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "ca3a75ba1f931aaa",
+  "active": "33a1300874bf8180",
   "lastOpenFiles": [
-    "Potenciação/Potência.md",
-    "Potenciação/Exercícios - Potenciação.md",
-    "Pasted image 20251207151033.png",
-    "Potenciação/Operações com Potência.md",
-    "Pasted image 20251206223935.png",
-    "Pasted image 20251206223307.png",
-    "Pasted image 20251206211039.png",
-    "Pasted image 20251206211005.png",
-    "Pasted image 20251206211001.png",
-    "Pasted image 20251206210859.png",
-    "Pasted image 20251206210618.png",
-    "Frações/Operações Matemáticas com Frações.md",
-    "Arquivos/Pasted image 20251205153850.png",
-    "Arquivos/Pasted image 20251205153837.png",
-    "Frações/Tipos de Frações.md",
+    "Pasted image 20251208154749.png",
     "Frações/Frações.md",
     "Frações/Exercicios - Frações.md",
+    "Frações/Razão.md",
+    "Frações/Tipos de Frações.md",
+    "Arquivos/Pasted image 20251208151923.png",
+    "Raiz/Raíz N-ésima Aritmética.md",
+    "Potenciação/Operações com Potência.md",
+    "Fração.md",
+    "Raiz",
+    "Potenciação/Potência.md",
+    "Potenciação/Exercícios - Potenciação.md",
+    "Arquivos/Pasted image 20251206210618.png",
+    "Arquivos/Pasted image 20251207151033.png",
+    "Arquivos/Pasted image 20251206223935.png",
+    "Arquivos/Pasted image 20251206223307.png",
+    "Arquivos/Pasted image 20251206211039.png",
+    "Arquivos/Pasted image 20251206211005.png",
+    "Arquivos/Pasted image 20251206211001.png",
+    "Arquivos/Pasted image 20251206210859.png",
+    "Frações/Operações Matemáticas com Frações.md",
+    "Arquivos/Pasted image 20251205153850.png",
     "Sem título.canvas",
     "Potenciação",
     "Ink/Writing/2025.12.3 - 22.06pm (2).writing",
