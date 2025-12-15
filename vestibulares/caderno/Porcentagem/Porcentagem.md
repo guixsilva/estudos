@@ -1,3 +1,4 @@
+[[Frações]]
 A razão cujo denominador é 100, sendo o numerador uma parte de um todo.
 $$
 \frac{60}{100} \rightarrow 60 \% \rightarrow 0,60

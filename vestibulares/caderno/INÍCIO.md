@@ -1,4 +1,5 @@
 
-| Materia                     |
-| --------------------------- |
-| Porcentagem por Porcentagem |
+| Materia                           |
+| --------------------------------- |
+| Porcentagem por Porcentagem       |
+| Função do primeiro e segundo grau |
