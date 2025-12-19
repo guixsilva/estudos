@@ -3,12 +3,11 @@ $$f(x)=ax2+bx+c$$
 ### Características
 
 - **Gráfico**: É uma **parábola**.
-    
     - Se a>0, a parábola é voltada para cima.
     - Se a<0, a parábola é voltada para baixo.
 - **Vértice**: Ponto de máximo ou mínimo da parábola.
     - Coordenadas do vértice:
-        $$x_v = -\frac{b}{2a}, \quad y_v = f(x_v)$$
+        $$x_v = -\frac{b}{2a}, \quad y_v = -\frac{\Delta}{4a}$$
 - **Eixo de simetria**:
     $$x = -\frac{b}{2a}$$
 - **Raízes (zeros da função)**:

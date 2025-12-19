@@ -8,45 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ca3a75ba1f931aaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Raiz/Raíz N-ésima Aritmética.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Raíz N-ésima Aritmética"
-            }
-          },
-          {
-            "id": "f1326bad97db9631",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frações/Razão.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Razão"
-            }
-          },
-          {
             "id": "02d58e1873d8c8d7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Frações/Operações Matemáticas com Frações.md",
-                "mode": "preview",
-                "source": false
+                "file": "Arquivos/Pasted image 20251215140417.png"
               },
-              "icon": "lucide-file",
-              "title": "Operações Matemáticas com Frações"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251215140417"
             }
           },
           {
@@ -55,44 +25,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Funções/Exercício - Funções.md",
+                "file": "Funções/Função do Segundo Grau.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exercício - Funções"
-            }
-          },
-          {
-            "id": "c7a9bb9a7fc8e098",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Funções/Função Linear.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Função Linear"
-            }
-          },
-          {
-            "id": "92571a05829daa42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Funções/Exercício - Funções.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Exercício - Funções"
+              "title": "Função do Segundo Grau"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -255,19 +196,20 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "7d06dc3d9c403519",
+  "active": "33a1300874bf8180",
   "lastOpenFiles": [
-    "Pasted image 20251215164127.png",
-    "Pasted image 20251215163221.png",
+    "Funções/Exercício - Funções.md",
+    "Arquivos/Untitled_19122025_160407.pdf",
     "Funções/Função do Segundo Grau.md",
-    "Porcentagem/Exercícios - Porcentagem.md",
+    "Frações/Operações Matemáticas com Frações.md",
     "Funções/Função Linear.md",
+    "Arquivos/Pasted image 20251215164127.png",
+    "Arquivos/Pasted image 20251215163221.png",
+    "Porcentagem/Exercícios - Porcentagem.md",
     "Raiz/Raíz N-ésima Aritmética.md",
     "Frações/Razão.md",
-    "Frações/Operações Matemáticas com Frações.md",
-    "Funções/Exercício - Funções.md",
     "Funções/Função Polinomial (1º Grau).md",
-    "Pasted image 20251215140417.png",
+    "Arquivos/Pasted image 20251215140417.png",
     "Porcentagem/Porcentagem.md",
     "Frações/Frações.md",
     "Arquivos/Pasted image 20251215093716.png",
@@ -284,7 +226,6 @@
     "Arquivos/Pasted image 20251209163307.png",
     "Equações",
     "Frações/Tipos de Frações.md",
-    "Arquivos/Pasted image 20251209102632.png",
     "Frações/Proporção.md",
     "Proporção",
     "Potenciação/Operações com Potência.md",
@@ -295,7 +236,6 @@
     "Sem título.canvas",
     "Potenciação",
     "Ink/Writing/2025.12.3 - 22.06pm (2).writing",
-    "Ink/Writing/2025.12.3 - 22.06pm.writing",
-    "Ink/Writing"
+    "Ink/Writing/2025.12.3 - 22.06pm.writing"
   ]
 }
