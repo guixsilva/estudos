@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9c4dbcdacdf2a2e4",
+        "id": "09e32eeb22fd96dc",
         "type": "tabs",
         "children": [
           {
-            "id": "4f6b16011096c8e0",
+            "id": "682e7446efeef301",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "História/Mesopotâmia.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Mesopotâmia"
             }
           }
         ]
@@ -40,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -170,64 +174,64 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "improved-random-note:Open improved random note": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "4f6b16011096c8e0",
+  "active": "682e7446efeef301",
   "lastOpenFiles": [
-    "Química/Mudanças de fases de agregação.md",
-    "Física/Proporção entre grandezas físicas.md",
-    "Química",
-    "Física",
-    "Matemática",
+    "Pasted image 20260108235156.png",
     "Química/Substâncias e Misturas.md",
-    "Arquivos/fab93a88-2ed0-4b26-820e-10eecd2d1eea.pdf",
-    "Química/Dicionário da Química.md",
-    "Física/Triângulo Retângulo.md",
+    "História/Mesopotâmia.md",
+    "Química/Alotropia.md",
+    "História",
+    "Química/Mudanças de fases de agregação.md",
     "Química/Fases de Agregação da Matéria.md",
+    "Química/Diagrama de Fases.md",
+    "Arquivos/Pasted image 20260108201138.png",
+    "Química/Dicionário da Química.md",
+    "Substâncias e Misturas.md",
+    "Química",
+    "Matemática/Raiz/Raíz N-ésima Aritmética.md",
+    "Matemática/Potenciação/Potência.md",
+    "Matemática/Potenciação/Operações com Potência.md",
+    "Matemática/Potenciação/Exercícios - Potenciação.md",
+    "Matemática/Porcentagem/Porcentagem.md",
+    "Matemática/Porcentagem/Exercícios - Porcentagem.md",
+    "Matemática/Funções/Função do Segundo Grau.md",
+    "Matemática/Funções/Função Polinomial (1º Grau).md",
+    "Matemática/Funções/Função Linear.md",
+    "Matemática/Funções/Função Exponencial.md",
+    "Matemática/Funções/Exercício - Funções.md",
+    "Matemática/Frações/Tipos de Frações.md",
+    "Matemática/Frações/Razão.md",
+    "Matemática/Frações/Proporção.md",
+    "Matemática/Frações/Operações Matemáticas com Frações.md",
+    "Matemática/Frações/Frações.md",
+    "Matemática/Frações/Exercicios - Frações.md",
+    "Matemática/Raiz",
+    "Matemática/Potenciação",
+    "Matemática/Porcentagem",
+    "Matemática/Funções",
+    "Matemática/Frações",
+    "Matemática",
+    "Física",
+    "Arquivos/fab93a88-2ed0-4b26-820e-10eecd2d1eea.pdf",
     "Arquivos/Pasted image 20260106220436.png",
-    "INÍCIO.md",
     "Arquivos/Pasted image 20260105171344.png",
     "Arquivos/Pasted image 20260105173232.png",
     "Arquivos/Pasted image 20260105173224.png",
-    "Matemática/Exercícios - Conjuntos Numéricos.md",
-    "Física/Conversão de Unidades.md",
-    "Matemática/Conjuntos Numéricos.md",
     "Arquivos/Pasted image 20260105164216.png",
     "Arquivos/Pasted image 20260105164220.png",
     "Arquivos/Pasted image 20260105160218.png",
     "Arquivos/Pasted image 20260105162143.png",
     "Arquivos/Pasted image 20260105162114.png",
-    "Matemática/Potenciação/Potência.md",
-    "Matemática/Potenciação/Exercícios - Potenciação.md",
-    "Matemática/Potenciação/Operações com Potência.md",
-    "Arquivos/8d8328d8-f616-42d0-9b8c-1a5a8b3abfed-09q.-questoes-quatro-operacoes.pdf",
-    "Matemática/Funções/Função Exponencial.md",
-    "Arquivos/9a3e354c-b374-405f-a4ca-a265f906b9b9-06q.-questoes-conjunto-numericos.pdf",
-    "Arquivos/Pasted image 20260104160606.png",
-    "Matemática/Funções/Exercício - Funções.md",
-    "Arquivos/Untitled_19122025_160407.pdf",
-    "Matemática/Funções/Função do Segundo Grau.md",
-    "Matemática/Frações/Operações Matemáticas com Frações.md",
-    "Matemática/Funções/Função Linear.md",
-    "Matemática/Porcentagem/Exercícios - Porcentagem.md",
-    "Matemática/Raiz/Raíz N-ésima Aritmética.md",
-    "Matemática/Frações/Razão.md",
-    "Matemática/Funções/Função Polinomial (1º Grau).md",
-    "Matemática/Porcentagem/Porcentagem.md",
-    "Matemática/Frações/Frações.md",
-    "Matemática/Funções",
-    "Matemática/Porcentagem",
-    "Arquivos/Untitled_12122025_170238.pdf",
-    "Matemática/Frações/Exercicios - Frações.md",
     "Sem título.canvas"
   ]
 }
