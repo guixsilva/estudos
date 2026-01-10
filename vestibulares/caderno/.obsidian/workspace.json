@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Continente Americano"
             }
+          },
+          {
+            "id": "b08d5d445d344923",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introdução da Filosofia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introdução da Filosofia"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +59,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -174,20 +189,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "6bef6889e9a36b1f",
+  "active": "b08d5d445d344923",
   "lastOpenFiles": [
-    "História/Mesopotâmia.md",
     "História/Continente Americano.md",
+    "Introdução da Filosofia.md",
+    "Filosofia",
+    "História/Mesopotâmia.md",
     "Química/Diagrama de Fases.md",
     "Química/Alotropia.md",
     "Arquivos/Pasted image 20260108235156.png",
@@ -229,9 +246,7 @@
     "Matemática/Funções/Função Linear.md",
     "Matemática/Porcentagem/Exercícios - Porcentagem.md",
     "Matemática/Raiz/Raíz N-ésima Aritmética.md",
-    "Matemática/Funções/Função Polinomial (1º Grau).md",
     "Matemática/Funções",
-    "Matemática/Porcentagem",
     "Sem título.canvas"
   ]
 }
