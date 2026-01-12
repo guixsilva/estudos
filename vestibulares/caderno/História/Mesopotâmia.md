@@ -51,3 +51,18 @@
 - Grande centro comercial - virou o centro do mundo.
 - Criaram o primeiro código de leis e conduta escritas (Hamurabi).
 - Após governo de Rei Hamurabi, o império Amorita/Babilônico acaba e após são conquistados.
+### Assírios
+- Povo guerreiro e militar, conquistou o Império Amorita/Babilônico.
+- Primeiro Exército.
+- Dominação Territorial
+- Confiscavam os bens dos territórios conquistados.
+- Violentos contra a população conquistada
+- Sofriam muitas rebeliões internas, enfraquecendo o império.
+- Foram dominados pelos Caldeus.
+### Caldeus
+- Também conhecidos como Neobabilônicos, por recriar o império Babilônico.
+- Reconstroem a cidade de Babilônia
+- Grandes obras públicas (Torre de Babel / Jardins Suspensos)
+- Após morte de Nabucodonosor, império enfraquece.
+- Libertam os Judeus das prisões da Babilônia
+- Persas conquistam os Caldeus.
