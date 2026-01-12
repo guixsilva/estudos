@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0966e83149a0f0f0",
+        "id": "b6eeb84216e2bd35",
         "type": "tabs",
         "children": [
           {
-            "id": "6bef6889e9a36b1f",
+            "id": "85db1a5fefc0a8a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "História/Continente Americano.md",
+                "file": "Geografia/Movimentos da Terra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Continente Americano"
-            }
-          },
-          {
-            "id": "b08d5d445d344923",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Introdução da Filosofia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Introdução da Filosofia"
+              "title": "Movimentos da Terra"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hidrólise",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Procurar"
+              "title": "Search"
             }
           },
           {
@@ -199,17 +184,41 @@
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "b08d5d445d344923",
+  "active": "85db1a5fefc0a8a4",
   "lastOpenFiles": [
+    "Geografia/Orientação Geográfica.md",
+    "Geografia/Movimentos da Terra.md",
+    "Biologia/Método Científico.md",
+    "Biologia/Introdução a Biologia.md",
+    "Arquivos/Pasted image 20260111213102.png",
+    "Arquivos/Pasted image 20260111213143.png",
+    "Arquivos/Pasted image 20260111213108.png",
+    "Arquivos/Pasted image 20260111205022.png",
+    "Arquivos/Pasted image 20260111205034.png",
+    "Arquivos/Pasted image 20260111194854.png",
+    "Arquivos/Pasted image 20260111194935.png",
+    "Arquivos/Pasted image 20260111170305.png",
+    "Arquivos/Pasted image 20260111165759.png",
+    "Arquivos/Pasted image 20260111162731.png",
+    "Geografia",
+    "Biologia/Características Gerais dos Seres Vivos.md",
+    "Arquivos/Biologia-Introdução_à_Biologia 1.pdf",
+    "Untitled.canvas",
+    "Arquivos/Biologia-Introdução_à_Biologia.pdf",
+    "Biologia/Constituintes Inorgânicos.md",
+    "Biologia",
+    "Gramática/Hífen.md",
+    "Gramática/Paroxítonas.md",
+    "Gramática/Monossilábicas e Oxítonas.md",
+    "Filosofia/Período Pré - Socrático.md",
+    "Gramática",
+    "Filosofia/Introdução da Filosofia.md",
     "História/Continente Americano.md",
-    "Introdução da Filosofia.md",
     "Filosofia",
     "História/Mesopotâmia.md",
     "Química/Diagrama de Fases.md",
     "Química/Alotropia.md",
-    "Arquivos/Pasted image 20260108235156.png",
     "História",
-    "Arquivos/Pasted image 20260108201138.png",
     "Matemática/Funções/Função do Segundo Grau.md",
     "Química/Substâncias e Misturas.md",
     "Matemática/Frações/Razão.md",
@@ -218,35 +227,11 @@
     "Química",
     "Física",
     "Matemática",
-    "Arquivos/fab93a88-2ed0-4b26-820e-10eecd2d1eea.pdf",
     "Química/Dicionário da Química.md",
     "Física/Triângulo Retângulo.md",
     "Química/Fases de Agregação da Matéria.md",
-    "Arquivos/Pasted image 20260106220436.png",
     "INÍCIO.md",
-    "Arquivos/Pasted image 20260105171344.png",
-    "Arquivos/Pasted image 20260105173232.png",
-    "Arquivos/Pasted image 20260105173224.png",
     "Matemática/Exercícios - Conjuntos Numéricos.md",
-    "Física/Conversão de Unidades.md",
-    "Matemática/Conjuntos Numéricos.md",
-    "Arquivos/Pasted image 20260105164216.png",
-    "Arquivos/Pasted image 20260105164220.png",
-    "Arquivos/Pasted image 20260105160218.png",
-    "Arquivos/Pasted image 20260105162143.png",
-    "Matemática/Potenciação/Potência.md",
-    "Matemática/Potenciação/Exercícios - Potenciação.md",
-    "Matemática/Potenciação/Operações com Potência.md",
-    "Arquivos/8d8328d8-f616-42d0-9b8c-1a5a8b3abfed-09q.-questoes-quatro-operacoes.pdf",
-    "Matemática/Funções/Função Exponencial.md",
-    "Arquivos/9a3e354c-b374-405f-a4ca-a265f906b9b9-06q.-questoes-conjunto-numericos.pdf",
-    "Matemática/Funções/Exercício - Funções.md",
-    "Arquivos/Untitled_19122025_160407.pdf",
-    "Matemática/Frações/Operações Matemáticas com Frações.md",
-    "Matemática/Funções/Função Linear.md",
-    "Matemática/Porcentagem/Exercícios - Porcentagem.md",
-    "Matemática/Raiz/Raíz N-ésima Aritmética.md",
-    "Matemática/Funções",
     "Sem título.canvas"
   ]
 }

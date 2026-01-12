@@ -1,0 +1,42 @@
+- Água é substância mais abundante nos seres vivos
+- Moléculas Orgânicas: 
+	- Contém moléculas de carbono ligada a hidrogênico por uma ligação covalente fortes.
+	- Versáteis
+	- Principais moléculas orgânicas: Carboidratos (energia), Lipídios (Energia), Proteína (Estruturais e catabolizadores)
+	- Moléculas orgânicas podem der produzidas em laboratório.
+- Ácidos Nucleicos (DNA e RNA): Armazena informações em bases nitrogenadas.
+	- Gene (cromossomos)
+	- Código genético
+	- Características físicas
+	- Mutações na sequência de bases nitrogenadas.
+	- Mutações sempre agem aleatoriamente.
+	- Dogma Central da Biologia Molecular: Reprodução do DNA
+	- ![[Pasted image 20260110222032.png]]
+- Organização complexa.
+	- Formados por átomos(C, O, H), que formam moléculas(Proteína, Carboidrato), que formam organelas (membrana, ribossomos), que formam cédulas, que formam tecidos, que formam órgãos, que formam sistemas e que se forma no organismo.
+- Homeostase: Capacidade de manter a organização constante e o isolamento em relação ao meio externo.
+- Metabolismo: Conjunto de todas as reações químicas que acontece num ser vivo.
+	- Anabolismo: Síntese de moléculas mais complexas a partir de moléculas mais simples. Processo endotérmico. Ex: fotossíntese, desidratação.
+	- Catabolismo: Quebra de moléculas mais complexas em moléculas mais simples. Processo exotérmico. Ex: respiração celular, digestão de alimentos.
+	- Seres autótrofos: Produzem matéria orgânica a partir de material inorgânicos, como fotossínteses.
+	- Seres Heterótrofos: Não produzem matéria orgânica a partir de material inorgânicos. Dependem da matéria orgânica produzida pelos autótrofos. Ex: Seres humanos.
+- Morte: Perca do metabolismo, fim das reações químicas. 
+- Reação: Resposta a estímulos.
+	- Irritabilidade: Reação sem interpretação (sem células nervosas) e sempre será o mesmo estímulo e resposta. Ex: Planta que fecha ao ser tocada.
+	- Sensibilidade: Reação com interpretação (com cédulas nervosas) e o mesmo estímulo pode ter diferentes respostas. Ex: Maioria dos Animais e humanos.
+- Movimento: Mudança da posição corporal por forças próprias, tipo se mover. Ex: Mover o braço.
+- Crescimento: Crescimento por intuscepção de matéria, de dentro para fora.
+	- Hipertrofia: aumento do volume celular.
+	- Hiperplasia: Aumento do número de células.
+- Reprodução: Criar um novo ser vivo.
+	- Assexuada: Sem variedade genética, cria filhos geneticamente iguais aos pais.
+	- Sexuada: com variedade genética, cria filhos geneticamente diferente dos pais.
+- Adaptação ao meio
+	- Individual: sem alteração no material genético, não acontece por mutação. Ex: Exposição ao sol, que produz melanina para proteger a pele do sol temporamente. 
+	- Adaptativa: Alteração do material genético por meio de mutação. Adaptações hereditária. 
+- Constituição por células: Unidades morfofisiológicas dos seres vivos. Todo ser vivo é formado por células.
+	- Membrana Lipoproteica: para Homeostase.
+	- Material Genético: DNA
+	- Ribossomos: Síntese Proteica
+	- Produção de energia: Respiração Celular
+	- Vírus: Acelulares. Sem metabolismos próprio. 
