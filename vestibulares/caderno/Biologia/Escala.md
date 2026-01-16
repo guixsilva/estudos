@@ -1,0 +1,2 @@
+Os cartógrafos trabalham com uma visão reduzida do território, sendo necessário indicar a proporção entre a superfície terrestre e a sua representação. Esta proporção é indicada pela escala.
+![[Pasted image 20260115231613.png]]

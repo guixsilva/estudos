@@ -4,8 +4,13 @@
 |**Glicólise**|Quebra da glicose em duas moléculas de piruvato, gerando energia.|
 |**Glicogenólise**|Quebra do glicogênio em glicose. 
 |**Glicogenogênese**|Formação de glicogênio a partir de glicose (sem número fixo). 
-|**Gliconeogênese**|Produção de glicose a partir de moléculas não carboidratos (aminoácidos, glicerol, lactato etc.).|
-> ![[Pasted image 20260115131803.png]]
+|**Gliconeogênese**|Produção de glicose a partir de moléculas não carboidratos (aminoácidos, glicerol, lactato etc.).|	
+Elementos químicos regularmente encontrados nos seres humanos
+-Glicídios: C, H O
+-Lipídios: C, H, O
+-Proteínas: C, H, O, N, S
+-Ácidos nucleicos: C, H, O, N, P
+![[Pasted image 20260115131803.png]]
 ## Glicídios / Carboidratos / Açúcares
 - Origem dos Glicídios: Fotossíntese gera glicose.
 - A partir da Glicose, produzimos todas as moléculas orgânicas da natureza.
@@ -67,5 +72,41 @@ Substâncias orgânicas apolares insolúveis em água e solúveis em solventes o
 			- LDL (colesterol ruim / colesterol > proteína):  Transporta colesterol do fígado para os tecidos pelos vasos sanguíneos, aumentando a pressão arterial e podendo acumular-se nos vasos sanguíneos.
 	- Lipídios Conjugados: Lipídios que estão associados a moléculas que não são lipídios. Ex: Lipoproteínas de colesterol.
 
-
+## Proteínas
+Moléculas orgânicas mais abundantes em animais.
+- Estrutura química: polímeros de alfa aminoácidos.(Amina, Ácido, Hidrogênio e Radical R)
+- Metabolismo das proteínas: Digestão por hidrólise
+- Funções das proteínas
+	- Moléculas orgânicas mais versáteis.
+	- Moléculas estruturais. Ex: Colágeno, tecido conjuntivo, queratina
+	- Catalizadores: aumentam a velocidade das reações químicas (enzimas)
+	- Hormonais: Insulina, Glucagon, hormônio do crescimento
+	- Reserva: Albumina (Ovo, Sangue).
+	- Transporte de nutrientes: Hemoglobina.
+	- Contráteis: Actina, Miosina dos músculos.
+	- Defesa: Anticorpos, glóbulos brancos.
+- Aminoácidos
+	- Proteínas tem 20 tipos de aminoácidos diferentes
+	- Origem dos Aminoácidos: Fotossíntese
+	- Tipos de aminoácidos
+		- Naturais: Produzidos no fígado a partir da reação de transaminação a partir de outros aminoácidos.
+		- Essenciais: Não podem ser produzidos, obtidos na dieta.
+	- 5 tipos de Radicais R nos alfa aminoácidos
+		- Alifático: Somente com carbono e Hidrogênio, sem anel benzênico, apolar.
+		- Aromático: Somente com carbono e hidrogênio, com anel benzênico, apolar
+		- Ácido: Com carboxila.
+		- Básico: Com amina.
+		- Com Enxofre
+	- Peptídios: União entre aminoácidos por ligações peptídicas.
+		- Ligações peptídica: Ligações entre aminoácidos para criar novas proteínas.
+		- Ligação peptídica realiza hidrólise, ou seja, libera água.
+		- Tipos de peptídios: 
+			- oligopeptídios: De 2 a 10 aminoácidos ligados.
+			- Polipeptídios: mais de 10 aminoácidos ligados.
+			- Proteínas: subtipo de polipeptídios. Mais de 60 aminoácidos ligados.
+	- Níveis de Estrutura Proteica
+		- ![[Pasted image 20260115203743.png]]
+- Desnaturação: Perca da estrutura final da proteína e a perca da função biológica da proteína.
+	- Calor: quebra ligações de hidrogênio, quebrando a 2ª estrutura e as seguintes. Irreversível
+	- Mudança de PH: Quebra as ligações sal da estrutura terciária, sobrando somente a estrutura primária e a secundária. Reversível.
 
