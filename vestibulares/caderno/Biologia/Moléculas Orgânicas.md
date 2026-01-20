@@ -109,4 +109,20 @@ Moléculas orgânicas mais abundantes em animais.
 - Desnaturação: Perca da estrutura final da proteína e a perca da função biológica da proteína.
 	- Calor: quebra ligações de hidrogênio, quebrando a 2ª estrutura e as seguintes. Irreversível
 	- Mudança de PH: Quebra as ligações sal da estrutura terciária, sobrando somente a estrutura primária e a secundária. Reversível.
+- Enzimas: Catalizadores biológicos. Os catalisadores atuam diminuindo a energia de ativação da reação. É este decréscimo na energia de ativação que permite que a reação seja acelerada.
+	- Energia de ativação: Energia mínima necessária para que uma reação química ocorra.
+	- Enzimas facilitam a transferência de grupos químicos (reações químicas), quebrando a sua estabilidade das moléculas.
+	- Substrato: Reagente das reações enzimáticas (molécula).
+	- Catalizadores não são consumidos nas reações químicas.
+	- Não há vida sem enzimas.
+	- Propriedades das Enzimas:
+		- Cada enzima trabalha com uma molécula específica. Modelo Chave-fechadura.
+		- Ação reversível: A mesma enzima pode fazer a reação química de quebra e de formação das moléculas. Ex: Maltase: Formação da Maltose e a quebra em glicose.
+		- Pequenas quantidades no organismo.
+		- Quanto mais trabalho dado para a enzima (substrato), mais rápido ela trabalha.
+		- Ação em pH específico: Cada enzima trabalha em um pH específico. pH muito ácido pode desnaturalizar as enzimas.
+		- Ação influenciada pela temperatura: Temperatura aumenta a velocidade das reações químicas. A velocidade da reação começa a diminuir em temperaturas muito alta devido a desnaturalização.
+		- Proenzimas ou Zimogênios: Enzimas negativas. Ficam hibernando até que sejam ativadas por proteínas.
+		- Holoenzimas ou Enzimas conjugadas: Associadas a moléculas que não são proteína.
+
 
