@@ -125,4 +125,32 @@ Moléculas orgânicas mais abundantes em animais.
 		- Proenzimas ou Zimogênios: Enzimas negativas. Ficam hibernando até que sejam ativadas por proteínas.
 		- Holoenzimas ou Enzimas conjugadas: Associadas a moléculas que não são proteína.
 
+## Vitaminas
+Substâncias orgânicas que agem como enzimas e como ingredientes para gerar novas enzimas. Necessárias para as ações de algumas enzimas. Natureza química diversas, podendo ser aminas, ácidos, álcool...
+- Propriedades das vitaminas
+	- Não são fontes de energias, nem estruturais. São alimentos reguladores e agem como enzimas e para gerar novas enzimas.
+	- Micronutrientes: necessárias em quantidades mínimas na alimentação. 
+	- Vitaminas não são consumidas nas reações enzimáticas e podem ser utilizadas várias vezes.
+	- Vitaminas são essenciais (não são produzidas pelo corpo, só sendo obtido pela alimentação).
+	- Microbiota Intestinal
+		- Comunidade de bactérias que vivem no intestino.
+		- Se alimentam da comida ingerida e retornam vitaminas (K, B12) para o ser humano. Relação de mutualismo.
+		- Probióticos
+	- Vitaminas são antioxidantes
+		- Protegem contra os radicais livres
+	- Hipovitaminose: Deficiência de vitaminas
+	- Classificações
+		- Lipossolúveis: A, D, E e K. (óleos e gorduras). Fáceis de serem acumuladas no fígado e não precisam ser ingeridas frequentemente.
+			- Vitamina A ou Retinol: Encontrada em fígados, vegetais de cor laranja. Antioxidante para os tecidos epitelial (pele, glândulas), estimula a formação dos ossos (osteoblastos) e atua nos bastonetes dos olhos. A deficiência dessa vitamina causa na deterioração da pele, causando dermatite e pele seca, boca seca, olho seco, fraqueza nos ossos, diminuição da percepção de luz de baixa intensidade.
+			- Vitamina D: Derivado do colesterol, por ser um esteroide. Para ser produzida, deve ter consumido Provitamina D2 e se expor ao sol (radiação ultravioleta). Função de absorver cálcio e distribuí-lo ao corpo. A deficiência causa má formação óssea.
+			- Vitamina E: Encontrada em óleos, castanhas, cacau. Ação antioxidantes para o sistema reprodutor e músculo. A deficiência pode destruir a proteção oxidante da vitamina  e causar a infertilidade ou aborto. Pode causar distrofias musculares, com isso doenças cardiovasculares.
+			- Vitamina K: Encontrada em verduras ou microbiota intestinal. Age na produção do grupo de proteínas fatores da coagulação sanguínea. A deficiência de vitamina K aumenta o risco de hemorragias, plaquetas e estruturas do sangue responsáveis pela coagulação (hemofilia).
+		- Hidrossolúveis: Completo B, C e P (Frutas, verduras, cereais integrais, leveduras, miúdos de carne). Difíceis de acumular no fígado e devem ser ingeridas muito frequentemente. 
+			- Complexo B: Encontradas em verduras e cereais integrais. Agem na respiração celular como coenzimas. A falta dela pode provocar dermatites por impossibilitar a regeneração celular e produção de energia e neurites.
+			- Vitamina B1 ou Tiamina: A deficiência causa beribéri, o que causa fraqueza, demência, anorexia, depressão.
+			- Vitamina B3: atuar no metabolismo energético, convertendo alimentos em energia celular (ATP). Encontrada em carnes, peixes, vegetais integrais, e com deficiência causando pelagra (pele, diarreia, demência).
+			- Vitamina B9 e B12: Ajudam na produção das bases hidrogenadas do DNA; A sua deficiência impossibilita a maturação das hemácias e replicação do DNA, dificultando a divisão celular.
+			- Vitamina C / ácido ascórbico: Age na produção do colágeno nos tecidos. Vitamina oxidante. Ajuda na absorção do ferro. Deficiência de vitamina C leva ao escorbuto, causando rompimento dos tecidos, hemorragias, queda dos dentes, fragilidade óssea.
+			- Vitamina P: Vinho, uva, frutas cítricas. Ação antioxidante e protege os vasos sanguíneos e protegem contra doenças cardiovasculares. 
+
 

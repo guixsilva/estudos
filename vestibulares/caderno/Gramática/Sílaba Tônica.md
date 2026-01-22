@@ -27,6 +27,10 @@ Oxítonas terminadas em:
 - **O(s)** → _avô, cipó_
 - **EM / ENS** → _também, parabéns_
 - **Ditongos abertos ÉI(s), ÉU(s), ÓI(s)** → _papéis, chapéu, herói_  
+- Derivados de Ter e do Vir
+	- Singular: Detém, convém
+	- Plural: Detêm, convêm.
+- Hiato de I ou U e acompanhados por S
 
 ---
 
@@ -48,7 +52,7 @@ Paroxítonas terminadas em:
 - **OM / ONS** → _iândom, prótons_
 - **Ã / ÃO (s)** → _ímã(s), órfã(s)_
 - **Ditongos crescentes** (ea, oa, eo, ua, ia, ie, etc.) → _várzea, mágoa, tênue_  
-
+- Hiato de I e U sozinhos ou acompanhados de S.
 ### **Importante:**
 Paroxítonas terminadas em **A, E, O, EM, ENS** **não** são acentuadas.  
 Ex.: _mesa, telefone, jovem_  
