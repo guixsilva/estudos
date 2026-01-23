@@ -50,3 +50,21 @@
 # Através ou Por Meio de
 - ATRAVÉS: Ir de um lado ao outro, transpor, atravessar.
 - POR MEIO DE: Por intermédio de.
+## A ver ou Haver
+- A ver: ter relação de semelhança
+- Haver: existir
+## Demais ou De Mais
+- Demais: advérbios, acompanhando verbos, advérbios e adjetivos. Advérbio de intensidade.
+- De Mais:  locução adjetiva, opõe-se a "de menos", normalmente se liga a um substantivo.
+## Se Não ou Senão
+- Se Não: Conjunção SE + Advérbio de negação NÃO. Inicia orações condicionais.
+- Senão: indica exceção e pode ser substituído por "afora", "exceto", "salvo" ou por "mas", "mas sim".
+## Mau ou Mal
+- Mau: é adjetivo ou palavra substantivada. É oposto de "bom". O plural é maus.
+- Mal: Pode ser conjuntivo (equivale a assim que), substantivo ou advérbio. O plural é males.
+## Por ora ou Por hora
+- Por ora: Por enquanto, por agora, até então...
+- Por Hora: pelo tempo de uma hora, a cada sessenta minutos.
+## A domicílio ou Em Domicílio
+- A domicílio: Usa-se com verbos que indicam movimentos, como levar, enviar, conduzir. 
+- Em domicílio: Usa-se com verbos que indicam algo estático, como entregar, dar, cortar, fazer.

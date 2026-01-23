@@ -4,11 +4,27 @@
     "type": "split",
     "children": [
       {
+<<<<<<< Updated upstream
         "id": "b60ec92212e5fb59",
         "type": "tabs",
         "children": [
           {
             "id": "8772c86d816ff29a",
+=======
+<<<<<<< HEAD
+        "id": "477bb31a568a6f91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3af1be664005b1b7",
+=======
+        "id": "b60ec92212e5fb59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8772c86d816ff29a",
+>>>>>>> 13e9f4a05924993548194616392df22863ac4161
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,7 +60,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -172,20 +188,41 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "improved-random-note:Open improved random note": false
     }
   },
+<<<<<<< Updated upstream
   "active": "8772c86d816ff29a",
   "lastOpenFiles": [
     "Biologia/Moléculas Orgânicas.md",
     "Roteiro.md",
+=======
+<<<<<<< HEAD
+  "active": "3af1be664005b1b7",
+  "lastOpenFiles": [
+    "Gramática/Questões Ortográficas.md",
+    "Matemática/Potenciação/Operações com Potência.md",
+    "Matemática/Potenciação/Potência.md",
+    "Matemática/Notação Científica de Base 10.md",
+    "Matemática/Raiz/Propriedades da Radiciação.md",
+    "Roteiro.md",
+    "Geografia/Movimentos da Terra.md",
+    "Geografia/Orientação Geográfica.md",
+    "Filosofia/Aristóteles.md",
+    "Filosofia/Platão.md",
+=======
+  "active": "8772c86d816ff29a",
+  "lastOpenFiles": [
+    "Biologia/Moléculas Orgânicas.md",
+    "Roteiro.md",
+>>>>>>> Stashed changes
     "Platão.md",
     "Sem título.md",
     "Filosofia/Introdução da Filosofia.md",
@@ -196,20 +233,41 @@
     "Gramática/Monossilábicas e Oxítonas.md",
     "Geografia/Escala.md",
     "Filosofia/Sofistas.md",
+<<<<<<< Updated upstream
+=======
+>>>>>>> 13e9f4a05924993548194616392df22863ac4161
+>>>>>>> Stashed changes
     "História/Expansão Marítma Portuguesa.md",
     "História/Continente Americano.md",
     "História/Antiguidade Oriental.md",
     "História/Mesopotâmia.md",
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+    "Biologia/Moléculas Orgânicas.md",
+    "Gramática/Sílaba Tônica.md",
+    "Gramática/Monossilábicas e Oxítonas.md",
+    "Gramática/Paroxítonas.md",
+    "Gramática/Hífen.md",
+=======
+>>>>>>> 13e9f4a05924993548194616392df22863ac4161
+>>>>>>> Stashed changes
     "Física/Conversão de Unidades.md",
     "Física/Cinemática.md",
     "Biologia/Método Científico.md",
     "Biologia/Introdução a Biologia.md",
     "Biologia/Características Gerais dos Seres Vivos.md",
     "Biologia/Constituintes Inorgânicos.md",
+<<<<<<< HEAD
+=======
     "Química/Substâncias e Misturas.md",
     "Química/Separação de Misturas - Análise Imediata.md",
     "Química/Mudanças de fases de agregação.md",
     "Química/Fases de Agregação da Matéria.md",
+<<<<<<< Updated upstream
+=======
+>>>>>>> 13e9f4a05924993548194616392df22863ac4161
+>>>>>>> Stashed changes
     "Arquivos/Pasted image 20260117125628.png",
     "Arquivos/Pasted image 20260117130400.png",
     "Arquivos/Pasted image 20260117130210.png",

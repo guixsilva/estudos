@@ -1,0 +1,21 @@
+## Contexto Histórico
+- Período Antropológico
+- Discípulo de Sócrates
+- Funda a sua própria Academia
+- Idealismo: Mundo das ideias (formas) e o mundo dos sentidos.
+	- Dialética: Tese contra a Antítese para chegar numa Síntese (Mundo das ideias)
+	- Método de ascese
+	- Amor platônico: Ideal de amor, capaz de resumir o que é amor.
+	- Teoria da Reminiscência: Já vivemos o mundo das ideias e encarnamos no mundo dos sentidos.
+	- Mito da Caverna
+## Política de Platão
+- Livro "A República".
+	- Primeira Utopia ocidental.
+	- Crítica à mímesis: Crítica a cópia. Artistas e poetas.
+- Alma Tripartite
+	- Parte Concupiscente: Apetites, instintos, vontades. (Temperança - Povo)
+	- Parte Irascível: Paixões, sentimentos bons e ruins. (Coragem - Guardiões)
+	- Parte Racional: logos, pensamento, lógica. (Justiça - Filósofo)
+- Justiça: Viver de acordo com suas aptidões.
+- Governo Ideal: Aristocracia (Governo dos melhores)
+- Crítico da democracia
