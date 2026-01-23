@@ -1,57 +1,56 @@
 {
   "main": {
-    "id": "b27da5539c2057b0",
+    "id": "450e31a711742345",
     "type": "split",
     "children": [
       {
-<<<<<<< Updated upstream
-        "id": "b60ec92212e5fb59",
+        "id": "add156b25ff490db",
         "type": "tabs",
         "children": [
           {
-            "id": "8772c86d816ff29a",
-=======
-<<<<<<< HEAD
-        "id": "477bb31a568a6f91",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3af1be664005b1b7",
-=======
-        "id": "b60ec92212e5fb59",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8772c86d816ff29a",
->>>>>>> 13e9f4a05924993548194616392df22863ac4161
->>>>>>> Stashed changes
+            "id": "3a0e5862428aec6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roteiro.md",
+                "file": "Gramática/Questões Ortográficas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roteiro"
+              "title": "Questões Ortográficas"
+            }
+          },
+          {
+            "id": "15271a2d5609282c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Física/Movimento Uniforme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Movimento Uniforme"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "4b2e0be35a11d09b",
+    "id": "d1123dbe51c1df43",
     "type": "split",
     "children": [
       {
-        "id": "ce0e4f0c5aa55c53",
+        "id": "3c7feb3245dc9173",
         "type": "tabs",
         "children": [
           {
-            "id": "558a0965555c7160",
+            "id": "c8f99dce6f00b46a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -64,7 +63,7 @@
             }
           },
           {
-            "id": "4bf67486d2d0bdc1",
+            "id": "09b3d6fa27bb7801",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -77,11 +76,11 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Procurar"
+              "title": "Search"
             }
           },
           {
-            "id": "b2c1ce66abb171bb",
+            "id": "80cc505ee922e542",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -94,23 +93,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "37dbf3ef29ec19ce",
+    "id": "18139413112d0509",
     "type": "split",
     "children": [
       {
-        "id": "a5993443c122a024",
+        "id": "ea0886afec9f2de2",
         "type": "tabs",
         "children": [
           {
-            "id": "f1089405161cb3df",
+            "id": "ed4312d7045b9049",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roteiro.md",
+                "file": "Física/Movimento Uniforme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,24 +119,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Roteiro"
+              "title": "Backlinks for Movimento Uniforme"
             }
           },
           {
-            "id": "b9e59fdf68fe9ec5",
+            "id": "ffd6feee8b6fdbaf",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Física/Movimento Uniforme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Movimento Uniforme"
             }
           },
           {
-            "id": "4e4e1e3725271afd",
+            "id": "c955e7258a203f45",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -152,7 +152,7 @@
             }
           },
           {
-            "id": "9595766cf83e029a",
+            "id": "f55d807eedd3c457",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -166,17 +166,18 @@
             }
           },
           {
-            "id": "a4ee4f4279d85362",
+            "id": "8b7da0fd2d93b931",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Física/Movimento Uniforme.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Movimento Uniforme"
             }
           }
         ]
@@ -198,84 +199,11 @@
       "improved-random-note:Open improved random note": false
     }
   },
-<<<<<<< Updated upstream
-  "active": "8772c86d816ff29a",
+  "active": "15271a2d5609282c",
   "lastOpenFiles": [
-    "Biologia/Moléculas Orgânicas.md",
+    "Física/Proporção entre grandezas físicas.md",
     "Roteiro.md",
-=======
-<<<<<<< HEAD
-  "active": "3af1be664005b1b7",
-  "lastOpenFiles": [
-    "Gramática/Questões Ortográficas.md",
-    "Matemática/Potenciação/Operações com Potência.md",
-    "Matemática/Potenciação/Potência.md",
-    "Matemática/Notação Científica de Base 10.md",
-    "Matemática/Raiz/Propriedades da Radiciação.md",
-    "Roteiro.md",
-    "Geografia/Movimentos da Terra.md",
-    "Geografia/Orientação Geográfica.md",
-    "Filosofia/Aristóteles.md",
-    "Filosofia/Platão.md",
-=======
-  "active": "8772c86d816ff29a",
-  "lastOpenFiles": [
-    "Biologia/Moléculas Orgânicas.md",
-    "Roteiro.md",
->>>>>>> Stashed changes
-    "Platão.md",
-    "Sem título.md",
-    "Filosofia/Introdução da Filosofia.md",
-    "Gramática/Questões Ortográficas.md",
-    "Gramática/Hífen.md",
-    "Gramática/Sílaba Tônica.md",
-    "Gramática/Paroxítonas.md",
-    "Gramática/Monossilábicas e Oxítonas.md",
-    "Geografia/Escala.md",
-    "Filosofia/Sofistas.md",
-<<<<<<< Updated upstream
-=======
->>>>>>> 13e9f4a05924993548194616392df22863ac4161
->>>>>>> Stashed changes
-    "História/Expansão Marítma Portuguesa.md",
-    "História/Continente Americano.md",
-    "História/Antiguidade Oriental.md",
-    "História/Mesopotâmia.md",
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-    "Biologia/Moléculas Orgânicas.md",
-    "Gramática/Sílaba Tônica.md",
-    "Gramática/Monossilábicas e Oxítonas.md",
-    "Gramática/Paroxítonas.md",
-    "Gramática/Hífen.md",
-=======
->>>>>>> 13e9f4a05924993548194616392df22863ac4161
->>>>>>> Stashed changes
-    "Física/Conversão de Unidades.md",
-    "Física/Cinemática.md",
-    "Biologia/Método Científico.md",
-    "Biologia/Introdução a Biologia.md",
-    "Biologia/Características Gerais dos Seres Vivos.md",
-    "Biologia/Constituintes Inorgânicos.md",
-<<<<<<< HEAD
-=======
-    "Química/Substâncias e Misturas.md",
-    "Química/Separação de Misturas - Análise Imediata.md",
-    "Química/Mudanças de fases de agregação.md",
-    "Química/Fases de Agregação da Matéria.md",
-<<<<<<< Updated upstream
-=======
->>>>>>> 13e9f4a05924993548194616392df22863ac4161
->>>>>>> Stashed changes
-    "Arquivos/Pasted image 20260117125628.png",
-    "Arquivos/Pasted image 20260117130400.png",
-    "Arquivos/Pasted image 20260117130210.png",
-    "Arquivos/Pasted image 20260115231613.png",
-    "Arquivos/Pasted image 20260115203743.png",
-    "Pasted image 20260115203735.png",
-    "Arquivos/Pasted image 20260115131803.png",
-    "Arquivos/428ce4d5-f58c-4e8f-8a17-a7e2977b7280-11.-criterios-de-divisibilidade-parte-02.pdf",
-    "Arquivos/a986cbb9-8157-4005-98f1-bb70ecbb3de2-10.-criterios-de-divisibilidade-parte-01.pdf"
+    "Física/Movimento Uniforme.md",
+    "Gramática/Questões Ortográficas.md"
   ]
 }
