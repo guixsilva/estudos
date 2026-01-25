@@ -21,3 +21,26 @@ O átomo é neutro, ou seja, o número de prótons é igual ao número de elétr
 - **Isótonos**: Átomos que apresentam o mesmo número de nêutron e diferentes massas.
 - **Isóbaros**: Átomos que apresentam mesmo número de massa e diferentes números atômicos.
 - **Isoeletrônicos**: Espécies com o mesmo número de elétrons.
+
+## Números Quânticos
+1. Principal (N): Diz qual o nível de energia e sua camada onde se encontra o elétrons. 
+	1. Número máximo de elétrons na camada: 2N². 
+2. Secundário ou azimutal (l): Indica a subcamada (subnível) de energia) onde se encontra o elétron.
+	1. Principais subnível: S,P, D, F
+3. Magnético (M): Indica o orbital onde se encontra o elétron.
+	1. Subnível S: 1 orbital
+	2. Subnível P: 3 orbitais
+	3. Subnível D: 5 orbitais
+	4. Subnível F: 7 orbitais.
+4. Spin (S): Indica o sentido de rotação do elétron.
+	1. Valores: -1/2 e +1/2
+## Distribuição eletrônica
+Pode-se ter uma noção de energia do elétron somando N + l (subnível). Diagrama de Linus Pauling.
+![[Pasted image 20260125012316.png]]
+- Distribuição de cátions e ânions
+	- Nos cátions, os elétrons devem ser retirados da camada mais externa.
+	- Distribuições anômalas
+		- Quando um subnível está semi-preenchido ou totalmente preenchido ele é mais estável.
+	- Paramgnetismo e diamagnetismo
+		- Diamagnético: todos os elétrons estão emparelhados.
+		- Paramagnético: Pelo menos um elétron está desemparelhado.

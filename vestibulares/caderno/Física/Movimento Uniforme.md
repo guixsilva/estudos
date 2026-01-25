@@ -12,3 +12,9 @@ Obs. caso o objeto esteja indo contra a reta, a velocidade é negativa.
 
 ## Encontro de dois Corpos
 Encontro de dois corpos se deslocando para o mesmo sentido.
+## Velocidade Relativa
+1. Mesma direção e sentido:
+$$ \text{velocidade relativa} = \text{velocidade a} - \text{velocidade b}$$
+2. Mesma direção e sentidos contrários:
+$$ \text{velocidade relativa} = \text{velocidade a} + \text{velocidade b}$$
+3. 
