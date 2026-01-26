@@ -1,4 +1,12 @@
 ![[Pasted image 20260123220207.png]]
+**Lei de Lavoisioer:** Na natureza nada se cria e nada se perde, tudo se transforma. Lei da conservação das massas.
+**Lei de Proust**: Cada substância tem sua proporção específica de moléculas. Lei das proporções múltiplas.
+### Modelos Atômicos
+1. **Dalton:** O Átomo é uma esfera sólida e maciça e indivisível, Elementos químicos diferentes seriam formados por átomos que teriam mesma massa, tamanho e propriedade diferentes.
+2. **Thompson**: O átomos agora tem elétrons e volta a ser divisível. Pudim de passas.
+3. **Rutherford**: Núcleo positivo e a eletrosfera de elétrons em órbitas circulares.
+4. **Bohr**: Elétrons podem pular para camadas mais externas e voltar, gerando luz. Explica os fenômenos luminosos.
+5. **Sommerfield**: Átomos tem níveis e subníveis de energia em órbitas elípticas
 ## Efeitos Luminosos
 ![[Pasted image 20260123220242.png]]
 1. Incandescência: É a luz emitida por um corpo aquecido. Ex: Lâmpada Incandescente. 
