@@ -27,4 +27,29 @@ Primeiras civilizações urbanas na crescente fértil, possibilidade da agricult
 			- Política imperialista e expansionista / Conquista de outras civilizações
 			- Enfraquecimento do estado
 			- Disputas e reação dos dominados.
-- O Egito sofre dominações de outras civilizações
+			- O Egito sofre dominações de outras civilizações
+- Características Gerais
+	- Economia
+		- Intervenção do estado.
+		- Corveia - submissão.
+		- Produção de cereais, Algodão e exportação.
+	- Sociedade
+		- Sociedade sem mobilidade social
+		- Pirâmide social
+			1. Faraó
+			2. Vizir - Polícia e cobrança de impostos
+			3. Escribas - registros contáveis, áreas cultivadas.
+			4. Sacerdotes -  proprietários de terra e religiosamente influentes
+			5. Artesões
+			6. Comerciantes
+			7. Militares
+			8. Camponeses
+			9. Escravos
+	- Cultura 
+		- Religião Politeísta, antropozológica.
+		- Rituais de mumificações
+		- Tribunal de Osíris após a morte
+		- Conhecimento de anatomia e medicina.
+		- Pirâmides e tumbas
+		- Período Amenófis: Culto a Amon. 
+		- Hieroglifos e pinturas
