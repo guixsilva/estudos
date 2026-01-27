@@ -1,0 +1,25 @@
+## Contexto Histórico
+- Período de dominação Macedônica na Grécia.
+- Maior contato com a cultura oriental;
+## Características
+- Juntar elementos da cultura oriental e oriental. Sincretismo Cultural
+- Ataraxia: Paz de espírito. Mudança de preocupação de público para privado.
+- Escolas
+	- Cinismo (Antíteses e Diógenes de Sínope)
+		- Ataraxia: Eudaimonia. Buscar a paz interior, independente das convenções sociais.
+		- Virtude: Ação, modo de vida, autossuficiência.
+		- Apatia e ascetismo.
+	- Ceticismo (Pirro de Elis, Sexto Empírico)
+		- Ataraxia: Por meio da suspensão do juízo, não há critério seguro para a verdade.
+	- Epicurismo (Epicuro)
+		- Materialismo (Atomismo)
+		- Morte: fim do corpo e da alma
+		- Sentido: origem do conhecimento, pelos sentidos.
+		- Ataraxia: Busca dos prazeres simples, com autocontrole e moderação.
+		- Superação do medo
+		- Prazeres: Naturais e necessários
+	- Estoicismo (Epicteto)
+		- Ataraxia: Desejo que estão de acordo com a natureza do homem, ou seja, uma vida racional.
+		- Preocupação somente com o que podemos controlar. Apatheia.
+		- Negação dos prazeres e sentidos.
+- 

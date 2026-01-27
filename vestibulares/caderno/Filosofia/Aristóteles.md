@@ -29,3 +29,23 @@
 	- Substância: O que o ser é em si mesmo (Sujeito). Combinação de essência e Acidentes.
 	- Agrupamento de Gêneros e Espécies.
 - Não mudamos nossa essência (Conceito de Parmênides / sem mudança), apenas mudamos em nossos acidentes (Conceito de Heráclito / mudança constante).
+## Ética
+- A causa mais importante é sempre o seu final. Finalidade última é o bem.
+- Eudaimonia: O objetivo do homem é a felicidade.
+- A felicidade verdadeira do homem está na razão.
+- Virtude: O meio termo no meio dos estremos é uma forma de viver bem.
+## Política
+- Na política, a sua finalidade é encontrar o bem comum.
+	- O homem é um animal político. Zoon Politikon.
+	- A política é a principal ciência.
+	- Estudo de Aristóteles sobre as formas de governo.
+	- Para Aristóteles, a melhor forma de governo é o meio, é o misto do melhor de todas as formas.
+## Lógica
+- Instrumento para identificar argumentos válidos.
+- Tipos de Lógica
+	- Proposicional: Tudo aquilo que pode ser verdadeiro ou falso.
+	- Dedutiva: Parte do geral para o particular.
+- Princípios
+	- Não contradição
+	- Terceiro excluído
+	- Identidade
