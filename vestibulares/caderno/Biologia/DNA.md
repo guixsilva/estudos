@@ -62,7 +62,7 @@ Formado por duas cadeias de Polinucleotídeos, sendo antiparalelas. As bases hid
 	4. RNAm Mensageiro maduro é enviado para o Ribossomo, que traduz e gera a proteína.
 
 ## DNA em Eucariontes e em Procariontes
-- Eucarionte: Seres cuja célula tem núcleo, com carioteca e o material genérico é localizado no núcleo da célula. Com Introns, exons e splicing. Ex: todos os demais seres vivos.
+- Eucarionte: Seres cuja célula tem núcleo, com carioteca e o material genérico é localizado no núcleo da célula (citoplasma). Com Introns, exons e splicing. Ex: todos os demais seres vivos.
 - Procarionte: Célula sem núcleo, sem membrada carioteca e o material genético localizada no citoplasma (Nucleoide). Em procariontes não há introns nem material não codificante. Ex: Bactérias.
 ## Splicing alternativo
 Cada cédula pode editar um determinado pré-RNAm em RNAm diferentes pela remoção de alguns exons juntamente com inrons.
