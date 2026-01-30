@@ -26,3 +26,22 @@ $$\text{Aceleração escalar média} = \frac{\Delta v}{\Delta t} = \frac{\text{v
 > - **Aceleração Positiva / Acelerado:** Ocorre quando um objeto aumenta a velocidade na direção do movimento (acelerando).
 > - **Aceleração Negativa / Retardado:** Ocorre quando a velocidade diminui na direção do movimento ou quando ocorre uma mudança de direção.
 
+# Movimento retilíneo uniforme
+Andando em linha reta com a mesma velocidade.
+
+**Função horária da posição**: Previsão de qual será o tempo até chegar em uma posição, mantendo a mesma velocidade
+$$ \text{função horária} = \text{posição inicial} + \text{velocidade} \times \text{tempo} $$
+$$ \text{função horária} = S0 + V \times t $$
+Obs. caso o objeto esteja indo contra a reta, a velocidade é negativa.
+
+# Movimento Uniformemente Variado
+Em movimento uniformemente variado, a velocidade muda porém a aceleração é constante. 
+### Função horária da posição
+$$ \text{função horária da posição} = \text{posição inicial} + \text{velocidade inicial} \times \text{tempo} + \frac{\text{aceleração X tempo²}}{2}$$
+$$ \text{função horária da posição} = S0 + V0 \times t + \frac{at²}{2}$$
+### Função Horária da Velocidade
+$$ \text{função horária da Velocidade} = \text{velocidade inicial} + \text{aceleração} \times \text{tempo}$$
+$$ \text{função horária da Velocidade} = V0 + at$$
+### Equação de Torricelli
+$$ \text{Torricelli - Velocidade final²} = \text{velocidade inicial²} + 2 \times \text{aceleração} \times \text{Delta da posição}$$
+$$ \text{V²} = V0² + 2a\Delta S$$

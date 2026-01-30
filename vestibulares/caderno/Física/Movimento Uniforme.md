@@ -17,4 +17,3 @@ Encontro de dois corpos se deslocando para o mesmo sentido.
 $$ \text{velocidade relativa} = \text{velocidade a} - \text{velocidade b}$$
 2. Mesma direção e sentidos contrários:
 $$ \text{velocidade relativa} = \text{velocidade a} + \text{velocidade b}$$
-3. 
