@@ -68,3 +68,37 @@ Formado por duas cadeias de Polinucleotídeos, sendo antiparalelas. As bases hid
 Cada cédula pode editar um determinado pré-RNAm em RNAm diferentes pela remoção de alguns exons juntamente com inrons.
 ![[Pasted image 20260129205151.png]]
 - Complexidade dos seres Vivos: Não está no número do genes, mas sim na habilidade de produzir várias proteínas a partir de um gene, no splicing alternativo.
+## Código Genético
+Relação entre as bases nitrogenadas nos ácidos nucleicos (RNA e DNA) e os aminácidos das proteínas.
+Ribossomo traduz o RNAm para poder produzir a proteína.
+### Processo da tradução:
+1. 3 bases nitrogenadas no RNAm
+2. Define 1 Códon.
+3. Que gera um aminoácido.
+
+64 códons para codificar os 20 aminácidos dos seres vivos.  
+**Códons Sinônimos ou degenerados**: Códons que codificam o mesmo aminoácidos.
+### Código Genético X Material Genético
+
+| Código Genético                      | Material Genético               |
+| ------------------------------------ | ------------------------------- |
+| Relação entre códons e aminácidos    | Genoma, Cromossomos, DNA, Genes |
+| Universal entre todos os seres vivos | Varia muito entre indivíduos    |
+| Não pode ser mudado                  | Pode ser mudado (por mutações)  |
+| É como é lido os materiais genéticos | Receita para criar proteínas    |
+### Códons de iniciação e códons de terminação
+Códons importantes:
+- Códon AUG
+	- Codifica o aminoácido Metionina
+	- Marca o início da tradução (Códon de inicialização)
+- Códons UAA, UAG, UGA
+	- Não codificam nenhum aminoácidos
+	- Marcam o fim da tradução (Códons de terminação)
+
+## Síntese Proteica
+- Ferramentas para a Síntese Proteica
+	- Aminoacil RNAt: Aminoácidos ligados ao RNA.
+	- Ribossomos: Ligar os aminoácidos por ligações pepitídicas para ficar as proteínas
+	- Polirribossomos ou Polissomos: Associação de vários ribossomos ao mesmo RNAm para produzir várias cópias da proteína ao mesmo tempo.
+		- Livres no citoplasma: Produzem proteínas de uso interno (agem dentro da cédula). Ex: DNA Polimerase, Hemoglobinas
+		- Aderidos ao Retículo Endoplasmático Rugoso: Produzem proteínas de exportação / secreção e que agem fora da cédula. Ex: Anticorpos, hormônios proteicos.

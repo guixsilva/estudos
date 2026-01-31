@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "04bc87c76fa9145c",
+        "id": "f2f0ab7d97766d68",
         "type": "tabs",
         "children": [
           {
-            "id": "0794e139d8fd261e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geografia/Atmosfera.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Atmosfera"
-            }
-          },
-          {
-            "id": "a1d6c32eb42381ba",
+            "id": "230d1d6cc85f9a76",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +21,7 @@
               "title": "DNA"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -189,21 +174,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "a1d6c32eb42381ba",
+  "active": "230d1d6cc85f9a76",
   "lastOpenFiles": [
+    "Arquivos/52b1d2c2-b29d-4f9e-9ec2-3fef90db07e1_anotado.pdf",
+    "Química/Propriedade Periódica.md",
+    "Arquivos/b82b3743-b890-4746-b666-a54cc92c3883_anotado.pdf",
+    "Arquivos/9a57c077-771a-4580-afb1-874b7569bdeb-01.-rp-historia-do-brasil-01_anotado.pdf",
+    "Química/Átomo.md",
+    "Geografia/Atmosfera.md",
+    "Biologia/DNA.md",
     "Física/Cinemática.md",
     "Geografia/Fenômenos Atmosféricos.md",
-    "Geografia/Atmosfera.md",
     "Geografia/Orientação Geográfica.md",
     "Roteiro.md",
     "Física/Movimento Uniforme.md",
@@ -211,12 +202,9 @@
     "Movimento Uniforme Variado.md",
     "Física/Triângulo Retângulo.md",
     "Física/Conversão de Unidades.md",
-    "Biologia/DNA.md",
     "Arquivos/Pasted image 20260129205151.png",
     "História/Exercícios.md",
-    "Arquivos/9a57c077-771a-4580-afb1-874b7569bdeb-01.-rp-historia-do-brasil-01_anotado.pdf",
     "História/Antiguidade Oriental.md",
-    "Química/Átomo.md",
     "Química/Alotropia.md",
     "Química/Modelos Atômicos.md",
     "Química/Tabela Periódica.md",
@@ -232,8 +220,6 @@
     "Arquivos/Pasted image 20260125152350.png",
     "Arquivos/tabela-periodica_anotado.pdf",
     "Arquivos/Pasted image 20260125012316.png",
-    "Gramática/Hífen.md",
-    "Gramática/Sílaba Tônica.md",
     "Arquivos/Pasted image 20260123221553.png",
     "Arquivos/Pasted image 20260123220207.png",
     "Arquivos/Pasted image 20260123220242.png",
