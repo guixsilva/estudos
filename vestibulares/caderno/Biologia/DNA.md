@@ -102,3 +102,42 @@ Códons importantes:
 	- Polirribossomos ou Polissomos: Associação de vários ribossomos ao mesmo RNAm para produzir várias cópias da proteína ao mesmo tempo.
 		- Livres no citoplasma: Produzem proteínas de uso interno (agem dentro da cédula). Ex: DNA Polimerase, Hemoglobinas
 		- Aderidos ao Retículo Endoplasmático Rugoso: Produzem proteínas de exportação / secreção e que agem fora da cédula. Ex: Anticorpos, hormônios proteicos.
+
+## Engenharia Genética
+Biotecnologia é o uso de seres vivos para obtenção de produtos úteis para a humanidade.
+Engenharia genética: conjunto de técnicas que permitem na alteração dos materiais genéticos dos seres vivos.
+- Técnica do DNA Recombinante: Corte e colagem de qualquer gene entre quaisquer espécies.
+	- DNA recombinante: União de DNA de origens diferentes
+	- Transgênico: Seres vivos modificados com genes de espécies diferentes.
+	- Ferramentas da técnica do DNA recombinante
+		- Enzimas Endonucleases de Restrição: Para cortar o DNA em trechos específicos. Bactérias.
+		- Enzima DNA Ligase: Para ligar o DNA por ligações covalentes. Cola o DNA retirado de volta pro DNA.
+		- DNA Recombinante: DNA de interesse + vetor (meio).
+		- Clonagem do DNA Recombinante
+			- In vivo: insere o DNA recombinante em bactérias, que fazem reprodução assexuada, realizando a clonagem.
+			- In Vitro: Dentro de um tubo de ensaio. Cria várias cópias de um determinado DNA em altíssimas temperaturas.
+		- Transfecção do DNA recombinante: Inserção do DNA recombinante na célula a ser modificada.
+			- Microinjeção: Com altíssima precisão. Modifica 1 célula por vez.
+			- Vírus Recombinante: com DNA de interesse. Sem genes para reprodução viral. Não danifica a célula alvo. Com alta precisão e pode modificar várias células simultaneamente. 
+			- Seleção dos organismos transfectados: Verificação se as células modificadas realmente incorporaram o DNA recombinante. A verificação é feita por testes de resistência.
+- Terapia Gênica: Introdução de DNA recombinante com genes para corrigir um defeito genético.
+- Dopping Gênico: Introdução de DNA recombinante com genes para melhorar o desemprenho em uma determinada atividade.
+- Vacinas de DNA: Aplica um DNA recombinante contendo o gene do antígeno (substâncias estranhas), que é transcrito para produzir RNAm do antígeno, que é traduzido para produzir antígenos, estimulando a produção de anticorpos e células de memória. 
+- Vacinas de RNA: Aplica o RNAm do antígeno (substância estranha), que é traduzido no antígeno, estimulando a produção de anticorpos. Estimula muito mais a produção de anticorpos que a Vacina clássica.
+- Técnica CRISPR-Cas9: Usa a Enzima Cas9 para cortar o DNA de interesse em qualquer trecho usando um RNA Guia complementar. Mais precisa pois edita precisamente o gene.
+
+
+> [!NOTE] Enzima de Restrição vs. Códon de Terminação
+> |**Característica**|**Enzima de Restrição**|**Códon de Terminação**|
+|---|---|---|
+|**Natureza**|É uma **proteína** (ferramenta).|É uma **sequência de bases** (mensagem).|
+|**Ação**|**Corta** fisicamente a fita de DNA.|**Sinaliza** o fim da produção de uma proteína.|
+|**Local**|Atua no **DNA**.|Atua no **RNAm** (dentro do ribossomo).|
+|**Analogia**|Uma **tesoura** que corta o fio.|O **ponto final** de uma frase.|
+
+### Usos e Riscos dos Transgênicos
+- São seguros para a saúde humana.
+- Para o meio ambiente
+	- Perca de Biodiversidade 
+	- Cruzamento de plantas transgênicas com plantas selvagens.
+

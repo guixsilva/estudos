@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f2f0ab7d97766d68",
+        "id": "01ca37807cd0b969",
         "type": "tabs",
         "children": [
           {
-            "id": "230d1d6cc85f9a76",
+            "id": "384b3e41c8d07cbd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/DNA.md",
+                "file": "Química/Tabela Periódica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DNA"
+              "title": "Tabela Periódica"
             }
           }
         ]
@@ -184,15 +184,22 @@
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "230d1d6cc85f9a76",
+  "active": "384b3e41c8d07cbd",
   "lastOpenFiles": [
-    "Arquivos/52b1d2c2-b29d-4f9e-9ec2-3fef90db07e1_anotado.pdf",
+    "Pasted image 20260131204204.png",
+    "Pasted image 20260131204135.png",
     "Química/Propriedade Periódica.md",
+    "Química/Mudanças de fases de agregação.md",
+    "Química/Modelos Atômicos.md",
+    "Química/Alotropia.md",
+    "Química/Átomo.md",
+    "Química/Tabela Periódica.md",
+    "Arquivos/Pasted image 20260131202706.png",
+    "Biologia/DNA.md",
+    "Arquivos/52b1d2c2-b29d-4f9e-9ec2-3fef90db07e1_anotado.pdf",
     "Arquivos/b82b3743-b890-4746-b666-a54cc92c3883_anotado.pdf",
     "Arquivos/9a57c077-771a-4580-afb1-874b7569bdeb-01.-rp-historia-do-brasil-01_anotado.pdf",
-    "Química/Átomo.md",
     "Geografia/Atmosfera.md",
-    "Biologia/DNA.md",
     "Física/Cinemática.md",
     "Geografia/Fenômenos Atmosféricos.md",
     "Geografia/Orientação Geográfica.md",
@@ -205,16 +212,12 @@
     "Arquivos/Pasted image 20260129205151.png",
     "História/Exercícios.md",
     "História/Antiguidade Oriental.md",
-    "Química/Alotropia.md",
-    "Química/Modelos Atômicos.md",
-    "Química/Tabela Periódica.md",
     "Filosofia/Período Helenístico.md",
     "Filosofia/Aristóteles.md",
     "Filosofia/Sócrates.md",
     "Filosofia/Platão.md",
     "Filosofia/Introdução da Filosofia.md",
     "Filosofia/Período Pré - Socrático.md",
-    "Aristótoles.md",
     "Arquivos/Pasted image 20260125210923.png",
     "Arquivos/Pasted image 20260125152359.png",
     "Arquivos/Pasted image 20260125152350.png",
@@ -222,8 +225,6 @@
     "Arquivos/Pasted image 20260125012316.png",
     "Arquivos/Pasted image 20260123221553.png",
     "Arquivos/Pasted image 20260123220207.png",
-    "Arquivos/Pasted image 20260123220242.png",
-    "Arquivos/Pasted image 20260123150341.png",
-    "Arquivos/Pasted image 20260123133239.png"
+    "Arquivos/Pasted image 20260123220242.png"
   ]
 }
