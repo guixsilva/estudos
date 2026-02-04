@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roteiro.md",
+                "file": "História/Expansão Marítma Portuguesa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roteiro"
+              "title": "Expansão Marítma Portuguesa"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -174,23 +174,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
       "improved-random-note:Open improved random note": false
     }
   },
   "active": "aada4d0b5003d64f",
   "lastOpenFiles": [
+    "História/Continente Americano.md",
+    "História/Expansão Marítma Portuguesa.md",
     "Roteiro.md",
     "História/Antiguidade Oriental.md",
-    "História/Continente Americano.md",
     "História/Exercícios.md",
-    "História/Expansão Marítma Portuguesa.md",
     "História/Mesopotâmia.md",
     "Física/Cinemática.md",
     "História/Pré História.md",
