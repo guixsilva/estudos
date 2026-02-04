@@ -53,3 +53,38 @@ Primeiras civilizações urbanas na crescente fértil, possibilidade da agricult
 		- Pirâmides e tumbas
 		- Período Amenófis: Culto a Amon. 
 		- Hieroglifos e pinturas
+
+## Império Persa
+- Localização: Planalto dos Irã entre o mar Cáspio.
+- Povos indo-europeias
+	- Criam dois reinos: Medos e Persas.
+	- Ciro, líder dos persas, unificou os povos dos Medos e os Persas.
+- Destaques Políticos
+	- Liberta os Hebreus do cativeiro da Babilônia e domina os Caldeus.
+	- Cambises, filho de Ciro, conquista o Egito.
+	- Dario I conquista parte da Índia, atingindo seu apogeu.
+		- Política de tolerância com os povos conquistados: Não escravizavam nem matavam o povo nativo, mas o integravam no império Persas.
+		- Descentralizou o império em Satrápias, divisões governamentais, governado por Sátrapas.
+		- Promoveu avanços comerciais com a criação da moeda única (Dárico).
+		- Interligou as várias regiões do império por estradas.
+		- Criou um sistema de correios e idioma único em documentos oficiais.
+	- Xerxes: Objetivo: Controlar o comércio no mar Egeu.
+		- Inicia as Guerras Médicas contra os gregos, mas perde na batalha de maratona.
+		- Durante o governo de Dario III, o império Persa cai e são dominados por Alexandre o Grande da Macedônia.
+		- Início do Império Helenístico.
+- Economia
+	- Principal economia: Agricultura e comércio
+	- Importantes manufaturas de tecidos, ouros, móveis e tapetes persas.
+- Sociedade
+	1. Rei
+	2. Aristocratas (Sacerdotes, nobres e comerciantes)
+	3. Pequenos comerciantes e soldados
+	4. Camponeses
+	5. Escravos
+- Cultura e Religião
+	- Zoroastrismo: Dualismo religioso.
+	- Zend-Aesta lança as bases do bem e do mal.
+	- Julgamento dos mortos, vida eterna para os justos e existência do paraíso, vinda de um salvador e imortalidade da alma.
+	- Língua oficial: Elamita, Persa e aramaico.
+	- Templos e palácios cercados por jardins
+	- Paredes com esculturas em alto relevo com o uso de metais como prata e ouro.
