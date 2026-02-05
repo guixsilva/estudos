@@ -64,3 +64,22 @@ Objetivo de centralizar o governo da colônia, atuando na defesa da sede capitan
 		- Primeiro bispado colonial
 		- Jesuítas e missões evangelizadoras.
 		- Responsável pelo aparato do governo.
+	- Duarte da Costa
+		- Fundador do Colégio de São Paulo
+		- Fundou a cidade de São Paulo
+		- Conflito entre colonos e Jesuítas por causa da escravidão indígena.
+		- Confederação dos Tamoios
+			- Tamoios e Tupinambás se rebelam contra os portugueses contra a dominação colonial. Apoiado pelos franceses.
+		- França Antártica
+			- Interesse francês no comércio de Pau Brasil
+			- Invasão da Baia de Guanabara.
+			- Refúgio para os Huguenotes.
+			- Apoio dos Indígenas Tamoios para a invasão Francesa.
+				- Franceses não escravizam os indígenas.
+	- Mem de Sá
+		- Confronto com os franceses
+		- Fundou a cidade de São Sebastião do Rio de Janeiro
+		- Estácio de Sá comandou o conflito contra a aliança França-Tamoios.
+		- Se aliou aos povos Temimenós, inimigos dos Tamoios.
+		- Paz de Iperoig: Tratado de paz entre portugueses e indígenas, o que deu uma trégua na briga.
+		- Em 1567, os portugueses expulsam os franceses do Rio de Janeiro e os Tamoios são massacrados pelos Temimenós.
