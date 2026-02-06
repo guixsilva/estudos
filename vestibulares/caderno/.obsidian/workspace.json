@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "7e8d0cc5ea319af0",
+        "id": "293da9f93d1367c9",
         "type": "tabs",
         "children": [
           {
-            "id": "de5ace15ad997edd",
+            "id": "2641c51cf972967f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gramática/Paroxítonas.md",
+                "file": "Roteiro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Paroxítonas"
+              "title": "Roteiro"
+            }
+          },
+          {
+            "id": "899ab835c24d22c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vetores.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vetores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,8 +89,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -185,8 +199,11 @@
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "09b3d6fa27bb7801",
+  "active": "899ab835c24d22c7",
   "lastOpenFiles": [
+    "Roteiro.md",
+    "Vetores.md",
+    "Gramática/Paroxítonas.md",
     "Gramática/Sílaba Tônica.md",
     "Gramática/Questões Ortográficas.md",
     "Gramática/Artigos e Numerais.md",
@@ -194,7 +211,6 @@
     "Arquivos/ilovepdf_merged_anotado.pdf",
     "História/Expansão Marítma Portuguesa.md",
     "História/Continente Americano.md",
-    "Roteiro.md",
     "História/Antiguidade Oriental.md",
     "História/Exercícios.md",
     "História/Mesopotâmia.md",
@@ -221,8 +237,6 @@
     "Arquivos/9a57c077-771a-4580-afb1-874b7569bdeb-01.-rp-historia-do-brasil-01_anotado.pdf",
     "Geografia/Atmosfera.md",
     "Geografia/Fenômenos Atmosféricos.md",
-    "Geografia/Orientação Geográfica.md",
-    "Movimento Uniforme Variado.md",
     "Arquivos/Pasted image 20260129205151.png",
     "Arquivos/Pasted image 20260125210923.png",
     "Arquivos/Pasted image 20260125152359.png",
