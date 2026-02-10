@@ -141,3 +141,25 @@ Engenharia genética: conjunto de técnicas que permitem na alteração dos mate
 	- Perca de Biodiversidade 
 	- Cruzamento de plantas transgênicas com plantas selvagens.
 
+## Teste de DNA
+Procura um trecho específico de DNA de interesse.
+- Usos do teste de DNA
+	- Diagnósticos de doenças genéticas - gene da doença
+	- Diagnóstico de doenças parasitárias - DNA do parasita
+	- DNA Fingerprint - Identificação pelo DNA usando DNA lixo (hipervariável), que é único entre os seres humanos.
+	- Exames de paternidade - DNA lixo (hipervariável), herdado 50% do pai e 50% da mãe.
+
+**Princípio da individualidade Genômica**: Cada indivíduo possui uma sequência de bases nitrogenadas no genoma que é exclusiva e não ocorre em outros indivíduos. Ao cortar o DNA de um indivíduo com certa enzima de restrição, obtêm-se um conjunto de fragmentos de DNA e exclusivos e não ocorre em outros indivíduos.
+
+- Ferramentas no Teste de DNA
+	- Enzimas Endonucleases de Restrição: Enzimas para cortar o DNA em trechos específicos.
+		- Restrição Enzimática: Corte de um DNA com uma certa enzima de restrição.
+		- Eletroforese: Para separar fragmentos de DNA através de enzimas de restrição, separando pelo tamanho se baseando na carga elétrica do DNA (negativa).
+		- Sondas Radiativas: servem para marcar o DNA de interesse. Trechos de DNA radiativo artificial complementares ao DNA de interesse, marcando-o com radiatividade.
+		- Filme Radiográfico: Para permitir a identificação das bandas com DNA de interesse marcadas com sondas radiativas.
+- Técnica do Teste de DNA
+	1. Restrição enzimática: Corte do DNA dos envolvidos por uma mesma enzima de restrição
+	2. Eletroforese: Separação dos fragmentos de DNA pelo tamanho baseada na carga elétrica do DNA.
+	3. Hibridização: Marcação do DNA de interesse com sondas radiativas complementares.
+	4. Aplicação de um filme radiográfico: Sensibilizado pela radiação das sondas radiativas complementares, permite ver as bandas de DNA de interesse.
+	5. Comparação das bandas: Igualdade ou diferença nas posições das bandas.

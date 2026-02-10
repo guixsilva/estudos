@@ -1,4 +1,4 @@
-Objetivo: Atingir a estabilidade
+ Objetivo: Atingir a estabilidade
 ### Regra do Octeto
 Para que um átomo fique estável, ele deve seguir a configuração do gás nobre. Ou seja, ele deve ter 8 elétrons na última camada.
 
@@ -59,3 +59,17 @@ Ambos os átomos querem ganhar elétrons, e portanto eles compartilham elétrons
 	- Se houver três ligações, uma é sigma e duas é pi.
 		- Ligações Sigma: quando a ligação funde dois átomos. Mais forte
 		- Ligações Pi: feitas paralelamente e com uma certa distância entre os átomos. Mais fraca.
+
+## Polaridade das Moléculas
+Quando tem um polo negativo e um negativo.
+
+### Ligação Covalente Polar
+Quando dois átomos de diferentes eletronegatividades se unem através de uma ligação covalente, o átomo mais eletronegativo (tendencia de ganhar elétrons) atrairá mais intensamente o par eletrônica da ligação provocando a formação de um dipolo 
+**Lembre-se: F, O, N, Cl, Br, I, S, C, P, H**
+### Ligação Covalente Apolar
+É aquela que ocorre com átomos de igual eletronegatividade.
+Uma vez que o par eletrônico está igualmente distribuído ao redor dos dois núcleos, a ligação não apresentará polos.
+### Vetor momento dipolar
+O vetor momento dipolar (𝝁) é o vetor imaginário que aponta para o átomo mais
+eletronegativo da molécula.
+![[Pasted image 20260207182601.png]]
