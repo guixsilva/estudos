@@ -11,4 +11,5 @@ Vetores de sentidos paralelos (opostos ou anti-paralelos): **diferença entre os
 Vetores com ângulos: **aplicar o método do polígono ou método do paralelogramo**
 - Lei dos Cossenos: R² = a² + b² + 2.a.b.cosseno do ângulo
 
-### Subtração Vetorial
+### Velocidade Vetorial Média
+ 

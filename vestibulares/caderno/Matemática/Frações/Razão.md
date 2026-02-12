@@ -33,3 +33,7 @@ Divide-se a quantidade de habitantes pela distância geográfica para descobrir 
 
 Por exemplo, um determinado Estado da federação, com área de 291.388 km2 , em um de seus censos, teve sua população estimada em 13.403.848 habitantes
 $$\frac{13403848}{291388} = 46$$
+
+![[f1fa792c-53bd-434a-b687-e9b97e8b41c9-40.-razao-e-proporcao_anotado.pdf]]
+
+![[7fae270f-966d-47a2-9783-276f891fa9e5-40q.-questoes-razao-e-proporcao_anotado.pdf]]
