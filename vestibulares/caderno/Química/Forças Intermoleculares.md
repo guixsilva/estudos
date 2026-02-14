@@ -40,3 +40,5 @@ Ex: NaCl (ligação iônica) + H²O (polar)
 ### Substância Anfifílicas
 Moléculas que tem parte polar e apolar. Substâncias tensoativas (quebram a tensão superficial), surfactantes e emulsificantes (promovem a mistura de substâncias apolares e polares.)
 Ex: Detergente, sabão
+
+![[2e7ce823-eca8-4c6e-96e5-e09377ece9d4-5.pdf]]
