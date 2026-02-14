@@ -1,0 +1,2 @@
+![[7f88cae6-8d17-47cf-b77f-31ce566afb07-34.-acoplamento-de-engrenagens-e-polia-parte-01_anotado.pdf]]
+![[29fa261e-2b49-43a5-958f-af79e706ffaa-35.-acoplamento-de-engrenagens-e-polia-parte-02_anotado.pdf]]
