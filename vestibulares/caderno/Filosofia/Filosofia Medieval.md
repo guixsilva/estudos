@@ -71,3 +71,18 @@ Características:
 			3. Ser necessários e seres possíveis
 			4. Graus de perfeição
 			5. Governo Supremo
+		- Ética
+			- Estudo do comportamento voluntário das pessoas
+			- Fundamento na dignidade e liberdade humana.
+			- Visa o bem, a felicidade do homem (encontrada em Deus)
+			- Política faz parte da Ética. Assim, o governante deve ser virtuoso e buscar o bem comum.
+			- Divida em 3 partes
+				- Ética monástica: ações voluntárias de um indivíduo
+				- Ética econômica: Família.
+				- Ética política: Sociedade civil e política
+					- Lei Eterna: Razão divina, governa o universo
+					- Lei divina: Dada por Deus, baseada na Bíblia.
+					- Lei Natural: Governam os homens, criada pela reta razão, acessível pela razão.
+					- Lei positiva: criada pelo homem, uma constituição, fundamentada na lei natural.
+			- Forma de governo defendida: governo misto, conforme Aristóteles.
+			- Defendia que a inclinação natural do homem é seguir a monarquia.

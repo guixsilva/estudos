@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "6227917bc91617de",
+        "id": "972ff25ba225b5dc",
         "type": "tabs",
         "children": [
           {
-            "id": "6633c301e721434b",
+            "id": "f3663a413eea8fbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Célula.md",
+                "file": "História/Período Clássico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Célula"
+              "title": "Período Clássico"
+            }
+          },
+          {
+            "id": "2d2da3468f1dbbaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "História/Período Helenistico.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Período Helenistico"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "FONClBrISCPH",
+                "query": " zimogênio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,51 +199,51 @@
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "c8f99dce6f00b46a",
+  "active": "2d2da3468f1dbbaa",
   "lastOpenFiles": [
+    "História/Período Clássico.md",
+    "História/Período Helenistico.md",
+    "História/Antiguidade Clássica.md",
+    "Filosofia/Filosofia Medieval.md",
+    "Geografia/Solos.md",
+    "Arquivos/Pasted image 20260217160030.png",
+    "Arquivos/Pasted image 20260217155522.png",
+    "Arquivos/Pasted image 20260217143607.png",
+    "Arquivos/Pasted image 20260217150745.png",
+    "Química/Cálculo de Nox.md",
+    "Biologia/Célula.md",
+    "Biologia/Moléculas Orgânicas.md",
+    "Física/Acoplamento de Engrenagens e Polia.md",
+    "Química/Forças Intermoleculares.md",
+    "Física/Movimento Circular e Uniforme.md",
+    "Física/Movimento Uniforme.md",
+    "Física/Conversão de Unidades.md",
+    "Física/Cinemática.md",
+    "Física/Vetores.md",
+    "Física/Triângulo Retângulo.md",
+    "Física/Proporção entre grandezas físicas.md",
     "Arquivos/Pasted image 20260214213151.png",
     "Arquivos/Pasted image 20260214171448.png",
-    "Química/Cálculo de Nox.md",
     "Arquivos/e4875a08-b80d-4117-b3c1-d26acaf52d21-lista-1-playlist-5_anotado.pdf",
-    "Biologia/Célula.md",
     "Arquivos/Pasted image 20260214131748.png",
     "Arquivos/Pasted image 20260214125622.png",
     "Arquivos/Pasted image 20260214123719.png",
     "Arquivos/Pasted image 20260214123826.png",
     "Química/Ligações Químicas.md",
-    "Arquivos/Pasted image 20260206225813.png",
-    "Química/Forças Intermoleculares.md",
     "Arquivos/2e7ce823-eca8-4c6e-96e5-e09377ece9d4-5.pdf",
-    "Física/Acoplamento de Engrenagens e Polia.md",
-    "Física/Conversão de Unidades.md",
     "Arquivos/29fa261e-2b49-43a5-958f-af79e706ffaa-35.-acoplamento-de-engrenagens-e-polia-parte-02_anotado.pdf",
     "Arquivos/7f88cae6-8d17-47cf-b77f-31ce566afb07-34.-acoplamento-de-engrenagens-e-polia-parte-01_anotado.pdf",
-    "Física/Movimento Circular e Uniforme.md",
     "Arquivos/90cfd484-8741-469d-965c-8786c3dc8bfd-33.-movimento-circular-e-uniforme-parte-02_anotado.pdf",
-    "Arquivos/Pasted image 20260213194438.png",
-    "Física/Cinemática.md",
-    "Física/Proporção entre grandezas físicas.md",
-    "Física/Movimento Uniforme.md",
     "Roteiro.md",
     "Gramática/Pronome.md",
-    "Arquivos/Pasted image 20260212202137.png",
-    "Arquivos/Pasted image 20260212202118.png",
-    "Física/Vetores.md",
     "História/Brasil Colonial.md",
-    "Física/Triângulo Retângulo.md",
     "Arquivos/7fae270f-966d-47a2-9783-276f891fa9e5-40q.-questoes-razao-e-proporcao_anotado.pdf",
     "Matemática/Frações/Razão.md",
     "Arquivos/f1fa792c-53bd-434a-b687-e9b97e8b41c9-40.-razao-e-proporcao_anotado.pdf",
-    "História/Antiguidade Clássica.md",
     "Filosofia/Aristóteles.md",
-    "Filosofia/Filosofia Medieval.md",
     "Geografia/Tectonismo.md",
-    "Arquivos/Pasted image 20260209214729.png",
     "Geografia/Geologia.md",
     "Biologia/DNA.md",
-    "História/Expansão Marítma Portuguesa.md",
-    "Filosofia/Período Helenístico.md",
-    "Química/Tabela Periódica.md",
     "Arquivos/ilovepdf_merged_anotado.pdf",
     "Arquivos/52b1d2c2-b29d-4f9e-9ec2-3fef90db07e1_anotado.pdf",
     "Arquivos/b82b3743-b890-4746-b666-a54cc92c3883_anotado.pdf"
