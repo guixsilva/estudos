@@ -1,0 +1,1 @@
+![[cb032bc1-6272-4c2e-b3ab-2568f465f515-48.-regra-de-tres-composta_anotado.pdf]]

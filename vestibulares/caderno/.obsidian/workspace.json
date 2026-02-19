@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "972ff25ba225b5dc",
+        "id": "7bcc6bb1b03de0f1",
         "type": "tabs",
         "children": [
           {
-            "id": "f3663a413eea8fbf",
+            "id": "0357688ba20ef86d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "História/Período Clássico.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Período Clássico"
-            }
-          },
-          {
-            "id": "2d2da3468f1dbbaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "História/Período Helenistico.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Período Helenistico"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,10 +180,12 @@
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "2d2da3468f1dbbaa",
+  "active": "0357688ba20ef86d",
   "lastOpenFiles": [
     "História/Período Clássico.md",
     "História/Período Helenistico.md",
+    "Regra de Três Composta.md",
+    "cb032bc1-6272-4c2e-b3ab-2568f465f515-48.-regra-de-tres-composta_anotado.pdf",
     "História/Antiguidade Clássica.md",
     "Filosofia/Filosofia Medieval.md",
     "Geografia/Solos.md",
@@ -242,10 +225,7 @@
     "Arquivos/f1fa792c-53bd-434a-b687-e9b97e8b41c9-40.-razao-e-proporcao_anotado.pdf",
     "Filosofia/Aristóteles.md",
     "Geografia/Tectonismo.md",
-    "Geografia/Geologia.md",
-    "Biologia/DNA.md",
     "Arquivos/ilovepdf_merged_anotado.pdf",
-    "Arquivos/52b1d2c2-b29d-4f9e-9ec2-3fef90db07e1_anotado.pdf",
-    "Arquivos/b82b3743-b890-4746-b666-a54cc92c3883_anotado.pdf"
+    "Arquivos/52b1d2c2-b29d-4f9e-9ec2-3fef90db07e1_anotado.pdf"
   ]
 }
