@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "bdcacf83d8ed4abf",
+        "id": "34676683ccc9cfc2",
         "type": "tabs",
         "children": [
           {
-            "id": "1488c2c0fe750216",
+            "id": "1018676a4bf83787",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lançamento Vertical para Cima.md",
+                "file": "História/Antiguidade Ibérica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lançamento Vertical para Cima"
+              "title": "Antiguidade Ibérica"
+            }
+          },
+          {
+            "id": "91342c436c84a0c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "História/França Equinocial.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "França Equinocial"
+            }
+          },
+          {
+            "id": "37a04f37ec330eb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Invasões Holandesas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Invasões Holandesas"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -44,7 +73,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -174,21 +203,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "1488c2c0fe750216",
+  "active": "37a04f37ec330eb4",
   "lastOpenFiles": [
-    "5d880d8e-76df-4357-855e-55603ffda13e-37.-lancamento-vertical-para-cima_anotado.pdf",
+    "História/França Equinocial.md",
+    "Invasões Holandesas.md",
+    "História/Antiguidade Ibérica.md",
+    "Física/Lançamento Vertical para Cima.md",
+    "Arquivos/5d880d8e-76df-4357-855e-55603ffda13e-37.-lancamento-vertical-para-cima_anotado.pdf",
     "Física/Queda Livre e Lançamento Vertical para Baixo.md",
-    "Lançamento Vertical para Cima.md",
     "Arquivos/2aef9fb4-e51d-444b-b465-7c11efbcfa1b-36.-queda-livre-e-lancamento-vertical-para-baixo_anotado.pdf",
     "Química/Oxidação e Redução.md",
     "Química/Cálculo de Nox.md",
@@ -227,10 +259,7 @@
     "Arquivos/7f88cae6-8d17-47cf-b77f-31ce566afb07-34.-acoplamento-de-engrenagens-e-polia-parte-01_anotado.pdf",
     "Arquivos/90cfd484-8741-469d-965c-8786c3dc8bfd-33.-movimento-circular-e-uniforme-parte-02_anotado.pdf",
     "Roteiro.md",
-    "Gramática/Pronome.md",
-    "História/Brasil Colonial.md",
     "Arquivos/7fae270f-966d-47a2-9783-276f891fa9e5-40q.-questoes-razao-e-proporcao_anotado.pdf",
-    "Arquivos/f1fa792c-53bd-434a-b687-e9b97e8b41c9-40.-razao-e-proporcao_anotado.pdf",
-    "Arquivos/ilovepdf_merged_anotado.pdf"
+    "Arquivos/f1fa792c-53bd-434a-b687-e9b97e8b41c9-40.-razao-e-proporcao_anotado.pdf"
   ]
 }
