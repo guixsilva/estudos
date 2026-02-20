@@ -1,0 +1,1 @@
+![[5d880d8e-76df-4357-855e-55603ffda13e-37.-lancamento-vertical-para-cima_anotado.pdf]]

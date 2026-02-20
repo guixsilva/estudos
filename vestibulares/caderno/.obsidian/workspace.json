@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7bcc6bb1b03de0f1",
+        "id": "bdcacf83d8ed4abf",
         "type": "tabs",
         "children": [
           {
-            "id": "0357688ba20ef86d",
+            "id": "1488c2c0fe750216",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Lançamento Vertical para Cima.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Lançamento Vertical para Cima"
             }
           }
         ]
@@ -180,12 +184,19 @@
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "0357688ba20ef86d",
+  "active": "1488c2c0fe750216",
   "lastOpenFiles": [
+    "5d880d8e-76df-4357-855e-55603ffda13e-37.-lancamento-vertical-para-cima_anotado.pdf",
+    "Física/Queda Livre e Lançamento Vertical para Baixo.md",
+    "Lançamento Vertical para Cima.md",
+    "Arquivos/2aef9fb4-e51d-444b-b465-7c11efbcfa1b-36.-queda-livre-e-lancamento-vertical-para-baixo_anotado.pdf",
+    "Química/Oxidação e Redução.md",
+    "Química/Cálculo de Nox.md",
+    "Arquivos/Pasted image 20260219221529.png",
+    "Arquivos/cb032bc1-6272-4c2e-b3ab-2568f465f515-48.-regra-de-tres-composta_anotado.pdf",
+    "Matemática/Regra de Três Composta.md",
     "História/Período Clássico.md",
     "História/Período Helenistico.md",
-    "Regra de Três Composta.md",
-    "cb032bc1-6272-4c2e-b3ab-2568f465f515-48.-regra-de-tres-composta_anotado.pdf",
     "História/Antiguidade Clássica.md",
     "Filosofia/Filosofia Medieval.md",
     "Geografia/Solos.md",
@@ -193,7 +204,6 @@
     "Arquivos/Pasted image 20260217155522.png",
     "Arquivos/Pasted image 20260217143607.png",
     "Arquivos/Pasted image 20260217150745.png",
-    "Química/Cálculo de Nox.md",
     "Biologia/Célula.md",
     "Biologia/Moléculas Orgânicas.md",
     "Física/Acoplamento de Engrenagens e Polia.md",
@@ -211,7 +221,6 @@
     "Arquivos/Pasted image 20260214131748.png",
     "Arquivos/Pasted image 20260214125622.png",
     "Arquivos/Pasted image 20260214123719.png",
-    "Arquivos/Pasted image 20260214123826.png",
     "Química/Ligações Químicas.md",
     "Arquivos/2e7ce823-eca8-4c6e-96e5-e09377ece9d4-5.pdf",
     "Arquivos/29fa261e-2b49-43a5-958f-af79e706ffaa-35.-acoplamento-de-engrenagens-e-polia-parte-02_anotado.pdf",
@@ -221,11 +230,7 @@
     "Gramática/Pronome.md",
     "História/Brasil Colonial.md",
     "Arquivos/7fae270f-966d-47a2-9783-276f891fa9e5-40q.-questoes-razao-e-proporcao_anotado.pdf",
-    "Matemática/Frações/Razão.md",
     "Arquivos/f1fa792c-53bd-434a-b687-e9b97e8b41c9-40.-razao-e-proporcao_anotado.pdf",
-    "Filosofia/Aristóteles.md",
-    "Geografia/Tectonismo.md",
-    "Arquivos/ilovepdf_merged_anotado.pdf",
-    "Arquivos/52b1d2c2-b29d-4f9e-9ec2-3fef90db07e1_anotado.pdf"
+    "Arquivos/ilovepdf_merged_anotado.pdf"
   ]
 }

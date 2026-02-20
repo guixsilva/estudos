@@ -1,0 +1,1 @@
+![[2aef9fb4-e51d-444b-b465-7c11efbcfa1b-36.-queda-livre-e-lancamento-vertical-para-baixo_anotado.pdf]]
