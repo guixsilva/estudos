@@ -23,3 +23,20 @@ Pronomes de Tratamento
 - "Não me refiro a Sua Majestade"
 - Use verbos e pronomes de 3ª pessoa.
 - "Vossa Majestade pode me ouvir?"
+
+Pronomes Indefinidos
+- Referem-se à terceira pessoa do discurso, de modo vago, impreciso, indeterminado.
+- Podem substituir ou acompanhar substantivos.
+
+Pronomes Interrogativos
+- Que, Quem, Quanto(s), Qua(is) usados em frases interrogativas.
+- Existem pronomes interrogativos em frases interrogativas indiretas.
+- Se você conseguir transformar frases interrogativas indiretas em diretas, significa que é pronome interrogativo.
+
+Pronomes Possessivos
+- Indicam posse
+- Primeira pessoa: Meu(s), minha(s), nosso(s), nossa(s)
+- Segunda pessoa: Teu(s), tua(s), vosso(s), vossa(s)
+- Terceira pessoa: Seu(s), sua(s)
+- Dele/Dela tem valor possessivo, mas não são pronomes possessivos.
+- Cuidado com ambiguidade!!

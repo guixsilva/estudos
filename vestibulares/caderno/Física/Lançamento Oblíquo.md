@@ -1,0 +1,1 @@
+![[a0b3a3ca-9ec4-4aa5-aed1-98c75cf7cf3b-40.-lancamento-obliquo_anotado.pdf]]

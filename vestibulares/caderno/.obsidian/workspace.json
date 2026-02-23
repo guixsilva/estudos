@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "34676683ccc9cfc2",
+        "id": "4350a94aa12877ef",
         "type": "tabs",
         "children": [
           {
-            "id": "1018676a4bf83787",
+            "id": "2affce1ac5e24466",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "História/Antiguidade Ibérica.md",
+                "file": "Biologia/Bioenergética.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Antiguidade Ibérica"
-            }
-          },
-          {
-            "id": "91342c436c84a0c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "História/França Equinocial.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "França Equinocial"
-            }
-          },
-          {
-            "id": "37a04f37ec330eb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Invasões Holandesas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Invasões Holandesas"
+              "title": "Bioenergética"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -82,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " zimogênio",
+                "query": "NADPH2",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -203,21 +174,45 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "37a04f37ec330eb4",
+  "active": "2affce1ac5e24466",
   "lastOpenFiles": [
-    "História/França Equinocial.md",
-    "Invasões Holandesas.md",
+    "Arquivos/Pasted image 20260222230107.png",
+    "Biologia/Bioenergética.md",
+    "Arquivos/Pasted image 20260222230124.png",
+    "Arquivos/Pasted image 20260222215014.png",
+    "Arquivos/Pasted image 20260222213130.png",
+    "Arquivos/Pasted image 20260222171621.png",
+    "Física/Cinemática.md",
+    "Arquivos/9821d690-ce6b-470c-8856-8ebf43cb2a9d-cinematica-revisao.pdf",
+    "Física/Lançamento Oblíquo.md",
+    "Física/Lançamento Horizontal.md",
+    "Arquivos/a0b3a3ca-9ec4-4aa5-aed1-98c75cf7cf3b-40.-lancamento-obliquo_anotado.pdf",
+    "Arquivos/f8d92d94-1c3c-48b2-8825-927f9de0ce9f-39.-lancamento-horizontal_anotado.pdf",
+    "Gramática/Pronome.md",
+    "História/Invasões Holandesas.md",
     "História/Antiguidade Ibérica.md",
+    "Geografia/Ciclo da Água.md",
+    "Arquivos/Pasted image 20260222000056.png",
+    "Arquivos/Pasted image 20260221222002.png",
+    "Arquivos/Pasted image 20260221220538.png",
+    "Geografia/Geologia.md",
+    "Arquivos/e8520948-cc1a-48f3-9e18-a4d802c9ba37_anotado.pdf",
+    "Arquivos/bb9778bf-c89c-460f-a5d5-3994b9e704c2-teoria-aula-5-quimica-playlist-nox-oxidacao-e-reducao_anotado.pdf",
+    "Arquivos/5775390e-19b3-49a9-b064-cf48fa5d7e9c_anotado.pdf",
+    "Química/Balanceamento Químico.md",
+    "Física/Sequência de Galileu.md",
+    "Arquivos/3bf8ac54-c88f-4610-922c-e3e0a6f4baf1-38.-sequencia-de-galileu_anotado.pdf",
+    "História/França Equinocial.md",
     "Física/Lançamento Vertical para Cima.md",
     "Arquivos/5d880d8e-76df-4357-855e-55603ffda13e-37.-lancamento-vertical-para-cima_anotado.pdf",
     "Física/Queda Livre e Lançamento Vertical para Baixo.md",
@@ -233,33 +228,8 @@
     "Filosofia/Filosofia Medieval.md",
     "Geografia/Solos.md",
     "Arquivos/Pasted image 20260217160030.png",
-    "Arquivos/Pasted image 20260217155522.png",
-    "Arquivos/Pasted image 20260217143607.png",
-    "Arquivos/Pasted image 20260217150745.png",
     "Biologia/Célula.md",
     "Biologia/Moléculas Orgânicas.md",
-    "Física/Acoplamento de Engrenagens e Polia.md",
-    "Química/Forças Intermoleculares.md",
-    "Física/Movimento Circular e Uniforme.md",
-    "Física/Movimento Uniforme.md",
-    "Física/Conversão de Unidades.md",
-    "Física/Cinemática.md",
-    "Física/Vetores.md",
-    "Física/Triângulo Retângulo.md",
-    "Física/Proporção entre grandezas físicas.md",
-    "Arquivos/Pasted image 20260214213151.png",
-    "Arquivos/Pasted image 20260214171448.png",
-    "Arquivos/e4875a08-b80d-4117-b3c1-d26acaf52d21-lista-1-playlist-5_anotado.pdf",
-    "Arquivos/Pasted image 20260214131748.png",
-    "Arquivos/Pasted image 20260214125622.png",
-    "Arquivos/Pasted image 20260214123719.png",
-    "Química/Ligações Químicas.md",
-    "Arquivos/2e7ce823-eca8-4c6e-96e5-e09377ece9d4-5.pdf",
-    "Arquivos/29fa261e-2b49-43a5-958f-af79e706ffaa-35.-acoplamento-de-engrenagens-e-polia-parte-02_anotado.pdf",
-    "Arquivos/7f88cae6-8d17-47cf-b77f-31ce566afb07-34.-acoplamento-de-engrenagens-e-polia-parte-01_anotado.pdf",
-    "Arquivos/90cfd484-8741-469d-965c-8786c3dc8bfd-33.-movimento-circular-e-uniforme-parte-02_anotado.pdf",
-    "Roteiro.md",
-    "Arquivos/7fae270f-966d-47a2-9783-276f891fa9e5-40q.-questoes-razao-e-proporcao_anotado.pdf",
-    "Arquivos/f1fa792c-53bd-434a-b687-e9b97e8b41c9-40.-razao-e-proporcao_anotado.pdf"
+    "Física/Acoplamento de Engrenagens e Polia.md"
   ]
 }
