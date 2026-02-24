@@ -85,3 +85,12 @@ Processo de produção de matéria orgânica (glicose) a partir de material inor
 		- Usa ATP, NADPH2 e CO2
 		- Produz Glicose
 		- Ocorre no Estroma
+- Fatores que influenciam a Fotossíntese
+	- Concentração de CO2: substrato da fotossíntese. Quanto maior a concentração de substrato, maior a velocidade da ação da fotossíntese, atingindo um máximo constante.
+	- Temperatura: A fotossíntese ocorre mediada por enzimas, então quanto maior a temperatura (devido ao aumento da concentração de CO2 - efeito estufa), mais velocidade da atividade fotossíntese. Existe um ponto limite, onde ocorre a desnaturalização das enzimas.
+	- Intensidade luminosa: Quanto maior a luz, maior a fotossíntese, até um ponto de saturação máxima constante. 
+	- Quimiossíntese: processo de produção de moléculas orgânicas (principalmente glicose) a partir de matéria inorgânica (CO2 + H2O) e energia de oxidação de compostos inorgânicos. Acontece somente em algumas bactérias (autógrafas quimiossintetizante). EX: bactérias termoacidófilas (bactérias vulcânicas, e termais aquáticas); Bactérias nitrificante do ciclo do nitrogênio.
+- Características da Fotossíntese:
+	- Plantas jovens são mais úteis no combate ao aquecimento global, pois estão em crescimento e fazem mais fotossíntese, retirando mais gás carbônico da atmosfera para a fotossíntese.
+	- Ponto de compensação: Nesse ponto, respiração e fotossíntese se equivalem, e a planta não libera nem consome nada da atmosfera. Assim, o oxigênio liberado pela fotossíntese é consumido na respiração e o gás carbônico liberado na respiração é consumido na fotossíntese. Do mesmo modo, a matéria orgânica produzida na fotossíntese é consumida na respiração, de modo que a planta não pode acumular reservas e crescer.
+	- Fotossínteses em Cianobactérias: Não ocorre em cloroplastos (não ocorrem em bactérias) e sim em Lamelas ou cromatóforos. Ocorre da mesma forma que a fotossíntese vegetal. 
