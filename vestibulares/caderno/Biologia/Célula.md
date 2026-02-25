@@ -135,3 +135,4 @@ Componentes
 | Centríolos                     | Mitocôndrias                   |
 |                                | Cloroplastos                   |
 |                                | Vacúolo de suco celular        |
+
