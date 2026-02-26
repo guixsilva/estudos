@@ -73,3 +73,6 @@ Uma vez que o par eletrônico está igualmente distribuído ao redor dos dois n�
 O vetor momento dipolar (𝝁) é o vetor imaginário que aponta para o átomo mais
 eletronegativo da molécula.
 ![[Pasted image 20260207182601.png]]
+
+
+![[3147d349-993e-4b26-9cc9-10dc0d09e4c2-qui-revisao-01_anotado.pdf]]
