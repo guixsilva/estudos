@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "41dcc25d84a1adc1",
+        "id": "9aefa67afb25e7a4",
         "type": "tabs",
         "children": [
           {
-            "id": "4a7855b19165fbca",
+            "id": "8aa5aedbce263cfe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geografia/Hidrografia do Brasil.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Hidrografia do Brasil"
+              "title": "New tab"
             }
           }
         ]
@@ -186,9 +182,13 @@
   },
   "active": "c8f99dce6f00b46a",
   "lastOpenFiles": [
+    "Física/Leis de Newton.md",
+    "Arquivos/70490cd3-9fdb-49b0-b339-e8a59ef89c5e-03.-3a-lei-de-newton_anotado.pdf",
+    "Arquivos/a8044612-f2ba-4e59-b1c3-ba8091e07b65-02.-2a-lei-de-newton_anotado.pdf",
+    "Arquivos/b80ed5f2-dbb5-4b8e-b970-398a6b329df9-01.-1a-lei-de-newton_anotado.pdf",
+    "Geografia/Hidrografia do Brasil.md",
     "Arquivos/Pasted image 20260225224038.png",
     "Arquivos/Pasted image 20260225221500.png",
-    "Geografia/Hidrografia do Brasil.md",
     "Arquivos/Pasted image 20260225221514.png",
     "Geografia/Solos.md",
     "Geografia/Atmosfera.md",
@@ -224,13 +224,8 @@
     "Arquivos/Pasted image 20260222213130.png",
     "Arquivos/Pasted image 20260222171621.png",
     "Arquivos/9821d690-ce6b-470c-8856-8ebf43cb2a9d-cinematica-revisao.pdf",
-    "Arquivos/a0b3a3ca-9ec4-4aa5-aed1-98c75cf7cf3b-40.-lancamento-obliquo_anotado.pdf",
-    "Arquivos/f8d92d94-1c3c-48b2-8825-927f9de0ce9f-39.-lancamento-horizontal_anotado.pdf",
     "Gramática/Pronome.md",
     "História/Invasões Holandesas.md",
-    "História/Antiguidade Ibérica.md",
-    "Arquivos/Pasted image 20260222000056.png",
-    "Geografia/Geologia.md",
-    "Arquivos/e8520948-cc1a-48f3-9e18-a4d802c9ba37_anotado.pdf"
+    "História/Antiguidade Ibérica.md"
   ]
 }
