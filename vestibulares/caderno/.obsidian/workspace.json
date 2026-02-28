@@ -11,10 +11,14 @@
             "id": "8aa5aedbce263cfe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Biologia/Bioenergética.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Bioenergética"
             }
           }
         ]
@@ -182,6 +186,7 @@
   },
   "active": "c8f99dce6f00b46a",
   "lastOpenFiles": [
+    "Arquivos/e5c46302-8df0-4ce5-b124-493ea795fce6-playlist-5-bioenergetica.pdf",
     "Física/Leis de Newton.md",
     "Arquivos/70490cd3-9fdb-49b0-b339-e8a59ef89c5e-03.-3a-lei-de-newton_anotado.pdf",
     "Arquivos/a8044612-f2ba-4e59-b1c3-ba8091e07b65-02.-2a-lei-de-newton_anotado.pdf",

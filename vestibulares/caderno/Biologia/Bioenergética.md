@@ -94,3 +94,5 @@ Processo de produção de matéria orgânica (glicose) a partir de material inor
 	- Plantas jovens são mais úteis no combate ao aquecimento global, pois estão em crescimento e fazem mais fotossíntese, retirando mais gás carbônico da atmosfera para a fotossíntese.
 	- Ponto de compensação: Nesse ponto, respiração e fotossíntese se equivalem, e a planta não libera nem consome nada da atmosfera. Assim, o oxigênio liberado pela fotossíntese é consumido na respiração e o gás carbônico liberado na respiração é consumido na fotossíntese. Do mesmo modo, a matéria orgânica produzida na fotossíntese é consumida na respiração, de modo que a planta não pode acumular reservas e crescer.
 	- Fotossínteses em Cianobactérias: Não ocorre em cloroplastos (não ocorrem em bactérias) e sim em Lamelas ou cromatóforos. Ocorre da mesma forma que a fotossíntese vegetal. 
+
+![[e5c46302-8df0-4ce5-b124-493ea795fce6-playlist-5-bioenergetica.pdf]]
