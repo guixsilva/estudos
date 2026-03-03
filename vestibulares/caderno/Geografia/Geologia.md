@@ -37,3 +37,4 @@
 * **Brasil**: Formação das bacias sedimentares recentes (Amazônica e Pantanal) e de ilhas oceânicas.
 * **Períodos Recentes**: Inclui o Pleistoceno e o Holoceno (época atual).
 
+![[4789bbb3-eabc-4c6e-9535-932467f1db03-3.-resumo-grafico-geologia.pdf]]

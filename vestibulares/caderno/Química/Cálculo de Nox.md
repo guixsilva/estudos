@@ -14,3 +14,5 @@ Nox mínimo: Quantidade de elétrons até o octeto do elemento.
 
 ![[e4875a08-b80d-4117-b3c1-d26acaf52d21-lista-1-playlist-5_anotado.pdf]]
 
+
+![[ed126d10-433f-4813-a1b9-3a86f7b0b915-5.-resumo-grafico-nox-oxidacao-e-reducao.pdf]]

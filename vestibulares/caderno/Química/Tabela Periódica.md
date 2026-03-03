@@ -27,3 +27,5 @@ Capacidade de atrair elétrons, sem considerar gases nobres.
 ### Afinidade eletrônica
 Energia liberada pelo átomo quando ganha um elétron.
 - Quanto maior eletronegativo, mais afinidade eletrônica.
+
+![[e0fd3132-1dff-4810-bd65-7999862abd63-3.-resumo-grafico-tabela-periodica.pdf]]

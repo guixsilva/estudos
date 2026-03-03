@@ -86,3 +86,5 @@ Características:
 					- Lei positiva: criada pelo homem, uma constituição, fundamentada na lei natural.
 			- Forma de governo defendida: governo misto, conforme Aristóteles.
 			- Defendia que a inclinação natural do homem é seguir a monarquia.
+
+![[0166e850-74d5-4c74-8362-ae5c24fb20da-resumo-grafico-filosofia-medieval.pdf]]

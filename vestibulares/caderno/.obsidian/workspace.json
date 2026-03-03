@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c1fb240e71156780",
+        "id": "0c141f352b36f634",
         "type": "tabs",
         "children": [
           {
-            "id": "85fd62f6b77ede37",
+            "id": "e6ed536a5e0380c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "História/Brasil Colonial.md",
+                "file": "Biologia/Características Gerais dos Seres Vivos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brasil Colonial"
+              "title": "Características Gerais dos Seres Vivos"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "redução",
+                "query": "distribu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Procurar"
             }
           },
           {
@@ -184,10 +184,37 @@
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "85fd62f6b77ede37",
+  "active": "e6ed536a5e0380c5",
   "lastOpenFiles": [
-    "História/Expansão Marítma Portuguesa.md",
+    "Biologia/Constituintes Inorgânicos.md",
+    "Química/Ligações Químicas.md",
+    "Química/Átomo.md",
+    "Química/Tabela Periódica.md",
+    "Arquivos/3c1777ea-cd04-4a4d-80cc-8c5bc301bda6-2.-resumo-grafico-atmosfera.pdf",
+    "Geografia/Hidrografia do Brasil.md",
+    "Arquivos/812fefa5-3256-4fdc-be75-20ec9d72c349-4.-resumo-grafico-hidrosfera.pdf",
+    "Biologia/Bioenergética.md",
+    "Arquivos/e5c46302-8df0-4ce5-b124-493ea795fce6-playlist-5-bioenergetica 1.pdf",
+    "Filosofia/Filosofia Medieval.md",
+    "Arquivos/0166e850-74d5-4c74-8362-ae5c24fb20da-resumo-grafico-filosofia-medieval.pdf",
+    "Geografia/Geologia.md",
+    "Arquivos/4789bbb3-eabc-4c6e-9535-932467f1db03-3.-resumo-grafico-geologia.pdf",
+    "Química/Cálculo de Nox.md",
+    "Arquivos/ed126d10-433f-4813-a1b9-3a86f7b0b915-5.-resumo-grafico-nox-oxidacao-e-reducao.pdf",
+    "Geografia/Atmosfera.md",
+    "Arquivos/e0fd3132-1dff-4810-bd65-7999862abd63-3.-resumo-grafico-tabela-periodica.pdf",
+    "Filosofia/Aristóteles.md",
+    "Filosofia/Filosofia Antiga.md",
+    "Arquivos/pdfs_8cb4a0f8-f68f-4d05-919a-efa14fe1fae4-resumo-grafico-filosofia-antiga.pdf",
+    "Filosofia/Introdução da Filosofia.md",
+    "Filosofia/Período Helenístico.md",
+    "Biologia/Características Gerais dos Seres Vivos.md",
+    "Arquivos/70e5066b-52d6-441d-b2a9-42f674ff39a6-playlist-3-biologia-molecular-e-engenharia-genetica.pdf",
+    "Biologia/Moléculas Orgânicas.md",
+    "Arquivos/6d852da2-77b6-42b2-9d03-a9f186873f46-4.-resumo-grafico-ligacoes-quimicas.pdf",
+    "Física/Cinemática.md",
     "História/Brasil Colonial.md",
+    "História/Expansão Marítma Portuguesa.md",
     "Biologia/Célula.md",
     "Biologia/Célula Part. 2.md",
     "Arquivos/Pasted image 20260301161048.png",
@@ -195,42 +222,15 @@
     "Arquivos/Pasted image 20260301142450.png",
     "Arquivos/Pasted image 20260301130344.png",
     "História/Roma.md",
-    "Biologia/Bioenergética.md",
-    "Arquivos/e5c46302-8df0-4ce5-b124-493ea795fce6-playlist-5-bioenergetica.pdf",
     "Física/Leis de Newton.md",
-    "Arquivos/70490cd3-9fdb-49b0-b339-e8a59ef89c5e-03.-3a-lei-de-newton_anotado.pdf",
-    "Arquivos/a8044612-f2ba-4e59-b1c3-ba8091e07b65-02.-2a-lei-de-newton_anotado.pdf",
-    "Arquivos/b80ed5f2-dbb5-4b8e-b970-398a6b329df9-01.-1a-lei-de-newton_anotado.pdf",
-    "Geografia/Hidrografia do Brasil.md",
     "Arquivos/Pasted image 20260225224038.png",
     "Arquivos/Pasted image 20260225221500.png",
     "Arquivos/Pasted image 20260225221514.png",
     "Geografia/Solos.md",
-    "Geografia/Atmosfera.md",
     "Geografia/Fenômenos Atmosféricos.md",
     "Geografia/Ciclo da Água.md",
-    "Química/Ligações Químicas.md",
-    "Arquivos/3147d349-993e-4b26-9cc9-10dc0d09e4c2-qui-revisao-01_anotado.pdf",
-    "Química/Oxidação e Redução.md",
     "Arquivos/Pasted image 20260224224655.png",
     "Arquivos/Pasted image 20260224224841.png",
-    "Arquivos/8e18e87c-588e-463e-bc69-c0c76be79bbd-49.-porcentagem-parte-01_anotado.pdf",
-    "Matemática/Porcentagem/Porcentagem.md",
-    "Arquivos/c4075094-9d56-419d-90a7-1381bb4c1246-51q.-questoes-porcentagem_anotado.pdf",
-    "Arquivos/010c5939-2b9a-4869-80c9-f48fd022ac36-51.-porcentagem-parte-03_anotado.pdf",
-    "Arquivos/75259878-7af9-44ad-804e-32cd7bfb6bf5-50.-porcentagem-parte-02_anotado.pdf",
-    "Física/Lançamento Vertical para Cima.md",
-    "Física/Queda Livre e Lançamento Vertical para Baixo.md",
-    "Física/Cinemática.md",
-    "Física/Proporção entre grandezas físicas.md",
-    "Física/Movimento Uniforme.md",
-    "Física/Movimento Circular e Uniforme.md",
-    "Física/Conversão de Unidades.md",
-    "Física/Lançamento Oblíquo.md",
-    "Física/Sequência de Galileu.md",
-    "Física/Lançamento Horizontal.md",
-    "Arquivos/2aef9fb4-e51d-444b-b465-7c11efbcfa1b-36.-queda-livre-e-lancamento-vertical-para-baixo_anotado.pdf",
-    "Arquivos/Pasted image 20260222230107.png",
-    "Gramática/Pronome.md"
+    "Arquivos/Pasted image 20260222230107.png"
   ]
 }

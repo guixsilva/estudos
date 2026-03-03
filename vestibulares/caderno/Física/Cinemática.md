@@ -46,3 +46,6 @@ $$ \text{função horária da Velocidade} = V0 + at$$
 $$ \text{Torricelli - Velocidade final²} = \text{velocidade inicial²} + 2 \times \text{aceleração} \times \text{Delta da posição}$$
 $$ \text{V²} = V0² + 2a\Delta S$$
 ![[9821d690-ce6b-470c-8856-8ebf43cb2a9d-cinematica-revisao.pdf]]
+
+![[57efcb60-0c75-4fd7-baba-06dc7c2671f0-cinematica.pdf]]
+

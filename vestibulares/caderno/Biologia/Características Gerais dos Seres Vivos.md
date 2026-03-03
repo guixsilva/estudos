@@ -40,3 +40,5 @@
 	- Ribossomos: Síntese Proteica
 	- Produção de energia: Respiração Celular
 	- Vírus: Acelulares. Sem metabolismos próprio. 
+
+![[70e5066b-52d6-441d-b2a9-42f674ff39a6-playlist-3-biologia-molecular-e-engenharia-genetica.pdf]]

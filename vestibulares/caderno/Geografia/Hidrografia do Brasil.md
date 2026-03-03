@@ -64,3 +64,6 @@ Bacias hidrográficas
 		- Enchentes, Deslisamentos
 		- Rio Itajaí-Açu
 		- Jacuí
+
+
+![[812fefa5-3256-4fdc-be75-20ec9d72c349-4.-resumo-grafico-hidrosfera.pdf]]

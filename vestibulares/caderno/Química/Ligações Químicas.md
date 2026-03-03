@@ -76,3 +76,5 @@ eletronegativo da molécula.
 
 
 ![[3147d349-993e-4b26-9cc9-10dc0d09e4c2-qui-revisao-01_anotado.pdf]]
+
+![[6d852da2-77b6-42b2-9d03-a9f186873f46-4.-resumo-grafico-ligacoes-quimicas.pdf]]

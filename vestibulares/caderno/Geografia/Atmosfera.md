@@ -18,3 +18,6 @@
 
 ## Ventos alísios
 ![[Pasted image 20260125210923.png]]
+
+
+![[3c1777ea-cd04-4a4d-80cc-8c5bc301bda6-2.-resumo-grafico-atmosfera.pdf]]
