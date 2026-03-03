@@ -4,21 +4,37 @@
     "type": "split",
     "children": [
       {
+<<<<<<< Updated upstream
         "id": "0c141f352b36f634",
         "type": "tabs",
         "children": [
           {
             "id": "e6ed536a5e0380c5",
+=======
+        "id": "bd835c9aeedc769c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "677bda3dc49b162c",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Biologia/Características Gerais dos Seres Vivos.md",
+=======
+                "file": "Gramática/Pronome.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< Updated upstream
               "title": "Características Gerais dos Seres Vivos"
+=======
+              "title": "Pronome"
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -184,6 +200,7 @@
       "improved-random-note:Open improved random note": false
     }
   },
+<<<<<<< Updated upstream
   "active": "e6ed536a5e0380c5",
   "lastOpenFiles": [
     "Biologia/Constituintes Inorgânicos.md",
@@ -213,6 +230,11 @@
     "Biologia/Moléculas Orgânicas.md",
     "Arquivos/6d852da2-77b6-42b2-9d03-a9f186873f46-4.-resumo-grafico-ligacoes-quimicas.pdf",
     "Física/Cinemática.md",
+=======
+  "active": "c8f99dce6f00b46a",
+  "lastOpenFiles": [
+    "Arquivos/Pasted image 20260302224317.png",
+>>>>>>> Stashed changes
     "História/Brasil Colonial.md",
     "História/Expansão Marítma Portuguesa.md",
     "Biologia/Célula.md",
@@ -231,6 +253,25 @@
     "Geografia/Ciclo da Água.md",
     "Arquivos/Pasted image 20260224224655.png",
     "Arquivos/Pasted image 20260224224841.png",
+<<<<<<< Updated upstream
+=======
+    "Arquivos/8e18e87c-588e-463e-bc69-c0c76be79bbd-49.-porcentagem-parte-01_anotado.pdf",
+    "Matemática/Porcentagem/Porcentagem.md",
+    "Arquivos/c4075094-9d56-419d-90a7-1381bb4c1246-51q.-questoes-porcentagem_anotado.pdf",
+    "Arquivos/010c5939-2b9a-4869-80c9-f48fd022ac36-51.-porcentagem-parte-03_anotado.pdf",
+    "Arquivos/75259878-7af9-44ad-804e-32cd7bfb6bf5-50.-porcentagem-parte-02_anotado.pdf",
+    "Física/Lançamento Vertical para Cima.md",
+    "Física/Queda Livre e Lançamento Vertical para Baixo.md",
+    "Física/Cinemática.md",
+    "Física/Proporção entre grandezas físicas.md",
+    "Física/Movimento Uniforme.md",
+    "Física/Movimento Circular e Uniforme.md",
+    "Física/Conversão de Unidades.md",
+    "Física/Lançamento Oblíquo.md",
+    "Física/Sequência de Galileu.md",
+    "Física/Lançamento Horizontal.md",
+    "Arquivos/2aef9fb4-e51d-444b-b465-7c11efbcfa1b-36.-queda-livre-e-lancamento-vertical-para-baixo_anotado.pdf",
+>>>>>>> Stashed changes
     "Arquivos/Pasted image 20260222230107.png"
   ]
 }
