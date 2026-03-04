@@ -1,40 +1,24 @@
 {
   "main": {
-    "id": "450e31a711742345",
+    "id": "02a6702e81626885",
     "type": "split",
     "children": [
       {
-<<<<<<< Updated upstream
-        "id": "0c141f352b36f634",
+        "id": "27bac7d68dbd9a3a",
         "type": "tabs",
         "children": [
           {
-            "id": "e6ed536a5e0380c5",
-=======
-        "id": "bd835c9aeedc769c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "677bda3dc49b162c",
->>>>>>> Stashed changes
+            "id": "63077619b69c15cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Biologia/Características Gerais dos Seres Vivos.md",
-=======
-                "file": "Gramática/Pronome.md",
->>>>>>> Stashed changes
+                "file": "Física/Sistema de Blocos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< Updated upstream
-              "title": "Características Gerais dos Seres Vivos"
-=======
-              "title": "Pronome"
->>>>>>> Stashed changes
+              "title": "Sistema de Blocos"
             }
           }
         ]
@@ -43,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d1123dbe51c1df43",
+    "id": "7d6590e22ac60ab2",
     "type": "split",
     "children": [
       {
-        "id": "3c7feb3245dc9173",
+        "id": "55952cd0d9e8f5d0",
         "type": "tabs",
         "children": [
           {
-            "id": "c8f99dce6f00b46a",
+            "id": "84580609061d1f49",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -64,12 +48,12 @@
             }
           },
           {
-            "id": "09b3d6fa27bb7801",
+            "id": "e8ff5f73a921186d",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "distribu",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,36 +65,36 @@
             }
           },
           {
-            "id": "80cc505ee922e542",
+            "id": "5af522a77a3e23ea",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Marcadores"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "18139413112d0509",
+    "id": "74ff1786df8a7fa0",
     "type": "split",
     "children": [
       {
-        "id": "ea0886afec9f2de2",
+        "id": "28bcb1fd4c5017d6",
         "type": "tabs",
         "children": [
           {
-            "id": "ed4312d7045b9049",
+            "id": "2422bf954f2759b2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física/Movimento Uniforme.md",
+                "file": "Física/Sistema de Blocos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Movimento Uniforme"
+              "title": "Links inversos para Sistema de Blocos"
             }
           },
           {
-            "id": "ffd6feee8b6fdbaf",
+            "id": "3683f1efff722309",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Física/Movimento Uniforme.md",
+                "file": "Física/Sistema de Blocos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Movimento Uniforme"
+              "title": "Links de saída para Sistema de Blocos"
             }
           },
           {
-            "id": "c955e7258a203f45",
+            "id": "6c72eb913fab0934",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -149,11 +133,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Etiquetas"
             }
           },
           {
-            "id": "f55d807eedd3c457",
+            "id": "dfb998518a37c5ef",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -163,22 +147,22 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "Todas as propriedades"
             }
           },
           {
-            "id": "8b7da0fd2d93b931",
+            "id": "cf05e5d830af7b15",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física/Movimento Uniforme.md",
+                "file": "Física/Sistema de Blocos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Movimento Uniforme"
+              "title": "Sumário de Sistema de Blocos"
             }
           }
         ]
@@ -200,78 +184,34 @@
       "improved-random-note:Open improved random note": false
     }
   },
-<<<<<<< Updated upstream
-  "active": "e6ed536a5e0380c5",
+  "active": "63077619b69c15cd",
   "lastOpenFiles": [
-    "Biologia/Constituintes Inorgânicos.md",
-    "Química/Ligações Químicas.md",
-    "Química/Átomo.md",
-    "Química/Tabela Periódica.md",
-    "Arquivos/3c1777ea-cd04-4a4d-80cc-8c5bc301bda6-2.-resumo-grafico-atmosfera.pdf",
-    "Geografia/Hidrografia do Brasil.md",
-    "Arquivos/812fefa5-3256-4fdc-be75-20ec9d72c349-4.-resumo-grafico-hidrosfera.pdf",
-    "Biologia/Bioenergética.md",
-    "Arquivos/e5c46302-8df0-4ce5-b124-493ea795fce6-playlist-5-bioenergetica 1.pdf",
-    "Filosofia/Filosofia Medieval.md",
-    "Arquivos/0166e850-74d5-4c74-8362-ae5c24fb20da-resumo-grafico-filosofia-medieval.pdf",
-    "Geografia/Geologia.md",
-    "Arquivos/4789bbb3-eabc-4c6e-9535-932467f1db03-3.-resumo-grafico-geologia.pdf",
-    "Química/Cálculo de Nox.md",
-    "Arquivos/ed126d10-433f-4813-a1b9-3a86f7b0b915-5.-resumo-grafico-nox-oxidacao-e-reducao.pdf",
-    "Geografia/Atmosfera.md",
-    "Arquivos/e0fd3132-1dff-4810-bd65-7999862abd63-3.-resumo-grafico-tabela-periodica.pdf",
-    "Filosofia/Aristóteles.md",
-    "Filosofia/Filosofia Antiga.md",
-    "Arquivos/pdfs_8cb4a0f8-f68f-4d05-919a-efa14fe1fae4-resumo-grafico-filosofia-antiga.pdf",
-    "Filosofia/Introdução da Filosofia.md",
-    "Filosofia/Período Helenístico.md",
-    "Biologia/Características Gerais dos Seres Vivos.md",
-    "Arquivos/70e5066b-52d6-441d-b2a9-42f674ff39a6-playlist-3-biologia-molecular-e-engenharia-genetica.pdf",
-    "Biologia/Moléculas Orgânicas.md",
-    "Arquivos/6d852da2-77b6-42b2-9d03-a9f186873f46-4.-resumo-grafico-ligacoes-quimicas.pdf",
-    "Física/Cinemática.md",
-=======
-  "active": "c8f99dce6f00b46a",
-  "lastOpenFiles": [
-    "Arquivos/Pasted image 20260302224317.png",
->>>>>>> Stashed changes
-    "História/Brasil Colonial.md",
-    "História/Expansão Marítma Portuguesa.md",
-    "Biologia/Célula.md",
-    "Biologia/Célula Part. 2.md",
-    "Arquivos/Pasted image 20260301161048.png",
-    "Arquivos/Pasted image 20260301155826.png",
-    "Arquivos/Pasted image 20260301142450.png",
-    "Arquivos/Pasted image 20260301130344.png",
-    "História/Roma.md",
+    "Arquivos/9200996b-7f25-4671-919e-4a316d9f5557-11.-sistema-de-blocos-parte-02_anotado.pdf",
+    "Arquivos/eaab6612-182b-429e-b78c-5bdc1a712b36-10.-sistema-de-blocos-parte-01.pdf",
+    "Física/Sistema de Blocos.md",
+    "Arquivos/eaab6612-182b-429e-b78c-5bdc1a712b36-10.-sistema-de-blocos-parte-01_anotado.pdf",
+    "Física/Força Elástica.md",
+    "Física/Força Normal.md",
+    "Arquivos/945be84e-84ee-4e49-bdf4-efb21d585f47-04.-forca-peso_anotado.pdf",
+    "Arquivos/e83419d0-2817-4d26-9dd2-f11e44b27662-08.-roldanas-maquina-de-atwood_anotado.pdf",
+    "Arquivos/19199d2a-3736-4f3c-9241-71d2014cbe27-06.-leitura-da-balanca-no-elevador_anotado.pdf",
+    "Arquivos/d1061209-4acb-4d52-b92d-535e0257ec9d-07.-forca-de-tracao_anotado.pdf",
+    "Arquivos/b4364f8d-5c85-4198-ae03-3119f3bc2261-05.-forca-normal_anotado.pdf",
     "Física/Leis de Newton.md",
-    "Arquivos/Pasted image 20260225224038.png",
-    "Arquivos/Pasted image 20260225221500.png",
-    "Arquivos/Pasted image 20260225221514.png",
-    "Geografia/Solos.md",
-    "Geografia/Fenômenos Atmosféricos.md",
-    "Geografia/Ciclo da Água.md",
-    "Arquivos/Pasted image 20260224224655.png",
-    "Arquivos/Pasted image 20260224224841.png",
-<<<<<<< Updated upstream
-=======
-    "Arquivos/8e18e87c-588e-463e-bc69-c0c76be79bbd-49.-porcentagem-parte-01_anotado.pdf",
-    "Matemática/Porcentagem/Porcentagem.md",
-    "Arquivos/c4075094-9d56-419d-90a7-1381bb4c1246-51q.-questoes-porcentagem_anotado.pdf",
-    "Arquivos/010c5939-2b9a-4869-80c9-f48fd022ac36-51.-porcentagem-parte-03_anotado.pdf",
-    "Arquivos/75259878-7af9-44ad-804e-32cd7bfb6bf5-50.-porcentagem-parte-02_anotado.pdf",
-    "Física/Lançamento Vertical para Cima.md",
-    "Física/Queda Livre e Lançamento Vertical para Baixo.md",
-    "Física/Cinemática.md",
-    "Física/Proporção entre grandezas físicas.md",
-    "Física/Movimento Uniforme.md",
     "Física/Movimento Circular e Uniforme.md",
+    "Física/Acoplamento de Engrenagens e Polia.md",
+    "Física/Cinemática.md",
     "Física/Conversão de Unidades.md",
-    "Física/Lançamento Oblíquo.md",
-    "Física/Sequência de Galileu.md",
     "Física/Lançamento Horizontal.md",
-    "Arquivos/2aef9fb4-e51d-444b-b465-7c11efbcfa1b-36.-queda-livre-e-lancamento-vertical-para-baixo_anotado.pdf",
->>>>>>> Stashed changes
-    "Arquivos/Pasted image 20260222230107.png"
+    "Física/Lançamento Oblíquo.md",
+    "Física/Lançamento Vertical para Cima.md",
+    "Física/Movimento Uniforme.md",
+    "Física/Proporção entre grandezas físicas.md",
+    "Física/Queda Livre e Lançamento Vertical para Baixo.md",
+    "Física/Sequência de Galileu.md",
+    "Física/Triângulo Retângulo.md",
+    "Física/Vetores.md",
+    "Arquivos/7ef70005-7c20-4379-9b80-1af26600f442-09.-forca-elastica-lei-de-hooke_anotado.pdf",
+    "Arquivos/86573b64-4921-4e53-a1dd-ee27bc2ddeed-34.-associacao-de-molas_anotado.pdf"
   ]
 }
