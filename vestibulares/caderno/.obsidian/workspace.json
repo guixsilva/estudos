@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "27bac7d68dbd9a3a",
+        "id": "4ae72b13767d7999",
         "type": "tabs",
         "children": [
           {
-            "id": "8c870d27c2c101e9",
+            "id": "bfc43c801b765be0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Química/Química Inorgânica.md",
+                "file": "Biologia/Célula Part. 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Química Inorgânica"
+              "title": "Célula Part. 3"
             }
           }
         ]
@@ -186,11 +186,22 @@
   },
   "active": "84580609061d1f49",
   "lastOpenFiles": [
+    "Arquivos/Pasted image 20260305234627.png",
+    "Biologia/Divisão Celular Explicada.md",
+    "Biologia/Célula Part. 3.md",
+    "Biologia/Célula Part. 2.md",
+    "Mitose_e_Meiose_Guia_Completo.md",
+    "Arquivos/Pasted image 20260305231754.png",
+    "Arquivos/Pasted image 20260305230631.png",
+    "Arquivos/Pasted image 20260305225147.png",
+    "Arquivos/Pasted image 20260305221154.png",
+    "Arquivos/Pasted image 20260305203851.png",
+    "Arquivos/Pasted image 20260305200444.png",
+    "Química/Química Inorgânica.md",
     "Arquivos/e9abcb05-7998-436b-a705-e333bc5539cb_anotado.pdf",
     "Arquivos/As três principais teorias ácido-base (Arrhenius, Brønsted-Lowry e Lewis) dão diferentes explic.webp",
     "Arquivos/Pasted image 20260304194518.png",
     "Física/Sistema de Blocos.md",
-    "Química/Química Inorgânica.md",
     "Arquivos/9200996b-7f25-4671-919e-4a316d9f5557-11.-sistema-de-blocos-parte-02_anotado.pdf",
     "Arquivos/eaab6612-182b-429e-b78c-5bdc1a712b36-10.-sistema-de-blocos-parte-01.pdf",
     "Arquivos/eaab6612-182b-429e-b78c-5bdc1a712b36-10.-sistema-de-blocos-parte-01_anotado.pdf",
@@ -215,7 +226,6 @@
     "Física/Sequência de Galileu.md",
     "Física/Triângulo Retângulo.md",
     "Física/Vetores.md",
-    "Arquivos/7ef70005-7c20-4379-9b80-1af26600f442-09.-forca-elastica-lei-de-hooke_anotado.pdf",
-    "Arquivos/86573b64-4921-4e53-a1dd-ee27bc2ddeed-34.-associacao-de-molas_anotado.pdf"
+    "Arquivos/7ef70005-7c20-4379-9b80-1af26600f442-09.-forca-elastica-lei-de-hooke_anotado.pdf"
   ]
 }
