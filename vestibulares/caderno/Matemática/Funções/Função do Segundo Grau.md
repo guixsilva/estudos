@@ -16,3 +16,7 @@ $$f(x)=ax2+bx+c$$
     - Se Δ>0: duas raízes reais.
     - Se Δ=0: uma raiz real (parábola toca o eixo x).
     - Se Δ<0: não há raízes reais.
+
+![[b7da4661-1ade-4424-be0e-8b7e7329c323-53.-equacao-do-2o-grau-parte-1_anotado.pdf]]
+
+![[68e286fa-e5c4-4036-a5d8-48c56df6c2b6-54.-equacao-do-2o-grau-parte-2_anotado.pdf]]
