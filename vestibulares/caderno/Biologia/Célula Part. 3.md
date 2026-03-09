@@ -167,3 +167,5 @@ Para Homens na meiose II
 | Sexo | YY               | 0                           | X   |
 | ---- | ---------------- | --------------------------- | --- |
 | X    | XYY (Supermacho) | X0 (Síndrome <br>de Turner) | XX  |
+
+![[d3b519d5-f358-4fe4-ba28-63b8edf6a135-playlist-6-nucleo-e-divisao-celular.pdf]]

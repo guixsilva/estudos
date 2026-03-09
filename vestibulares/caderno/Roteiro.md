@@ -7,3 +7,7 @@
 |                             | ~~Literatura~~             |                |              |            |            |
 |                             | ~~Interpretação de texto~~ |                |              |            |            |
 |                             | ~~Filosofia~~              |                |              |            |            |
+
+
+- [ ] Função algébrica 1º e  2º grau CONTEXTUALIZADA 
+- [ ] Cálculo de NOX
