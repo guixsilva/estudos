@@ -125,3 +125,5 @@ Pronomes O, A
 - Somos o que somos
 - Tenho várias gramáticas, mas a do Pestana é a melhor
 - Ele estudava, mas não o fazia com vontade.
+
+![[Domine TODOS os pronomes em minutos!Quer aprender de vez os pronomes sem enrolação Esse resumo.webp]]
