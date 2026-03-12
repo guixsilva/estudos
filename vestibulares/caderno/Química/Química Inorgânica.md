@@ -94,3 +94,79 @@ Classificação
 	- Piro: 2Orto - H2O
 
 ![[e9abcb05-7998-436b-a705-e333bc5539cb_anotado.pdf]]
+
+
+# Bases ou Hidróxidos
+Substâncias que em água libera OH- (hidroxila)
+
+> [!NOTE] Dissociação e Ionização
+> As bases, na maioria das vezes são compostos iônicos. Se o composto liberar íons: dissociação. Se o composto ter ligação covalente: ionização.
+
+> [!NOTE] Como que a água dissolve? 
+> A água envolve a substância formando uma camada chamada camada de solvatação. Essa camada estabiliza os íons e impede que os íons se encostem.
+> NH3 (amônia) ao reagir com a água, produz hidroxila.
+
+Propriedade das bases
+- Sabor adstringente (amarra a língua)
+- pH>7 (25ºC)
+- Modificam a cor dos indicadores (fenolftaleína)
+- Conduzem corrente elétrica em soluções aquosa (íons) ou fundidas (líquido).
+- Bases neutralizam os ácidos. 
+
+Classificação das bases
+- Quanto ao número de OH-
+	- 1 hidroxila: Mono base
+	- 2 hidroxila: Dibase
+	- 3 hidroxilas: tribase
+- Quanto a solubilidade
+	- Solúveis: bases da família 1A e NH4OH
+	- Pouco solúveis: Bases da família 2A (exceto Mg e Be).
+	- Insolúveis: Todas as demais bases
+- Quanto a força
+	- Fortes: Família IA e 2A (exceto Mg e Be)
+	- Fracas: todas as demais
+- Atenção com NH40H
+	- Base muito instável, dando origem ao NH3 gasoso.
+
+Nomenclatura das bases
+- Metais com Nox fixo (1A, 2A, Al, Zn e Ag)
+	- Nomenclatura: hidróxido de {nome do metal}
+	- NaOH: Hidróxido de sódio
+	- Ca(OH)2: hidróxido de cálcio
+- Metais com nox variável (Fe(+2 ou +3), Cu(+1 ou +2), Pb, Au, As, Sb, Ni, Co)
+	- Se o metal tiver menor nox: oso
+	- se o metal tiver com nox maior: ico
+	- Hidróxido de {nome do metal} + nox em algorismo romano ou oso-iso
+	- Fe(OH)2: Hidróxido Ferroso ou Hidróxido de Ferro II
+	- Fe(OH)3: Hidróxido Férrico ou Hidróxido de Ferro III
+
+Bases mais importantes
+- NaOH
+	- Soda cáustica
+	- Produzida pela eletrólise da água do mar
+	- Gordura + NaOH -> Sabão
+	- Fabricação do Papel
+	- Super corrosiva
+	- Capaz de absorver água (umidade do ar), se dissolvendo nessa água -substância higroscópica
+- Mg(OH)2
+	- Leite de magnésia
+	- Anti-ácido
+	- Substância pouco solúvel
+	- base fraca - pode ser ingerida.
+- Ca(OH)2
+	- Hidróxido de cálcio - Cal hidratada
+	- Tinta de parede e caule de árvores
+- Al(OH)3
+	- Base fraca
+	- Usada como antiácido
+	- Aspecto gelatinoso
+	- Usado na floculação do tratamento de água.
+- NH4OH
+	- NH3 + H20 -> NH40H
+	- Amoníaco
+	- Limpeza de gordura
+	- Tintura de cabelo
+	- Usado na fabricação de fertilizante.
+
+Estudo dos Sais
+![[5b128900-d644-4b68-be23-748637a0c366_anotado.pdf]]
