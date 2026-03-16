@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "95842406472445bf",
+        "id": "1081ba52c4286ad9",
         "type": "tabs",
         "children": [
           {
-            "id": "09f4ec046282ebfe",
+            "id": "cad1346f15ddf9dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Química/Química Inorgânica.md",
+                "file": "Geografia/Meio Ambiente.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Química Inorgânica"
+              "title": "Meio Ambiente"
             }
           }
         ]
@@ -184,21 +184,34 @@
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "84580609061d1f49",
+  "active": "cad1346f15ddf9dc",
   "lastOpenFiles": [
-    "Arquivos/5b128900-d644-4b68-be23-748637a0c366_anotado.pdf",
-    "Química/Estudo das Bases.md",
+    "Problemas Urbanos.md",
+    "Geografia/Meio Ambiente.md",
+    "Arquivos/7e0b7758-6cf2-4b7a-b6af-e0a0962b8f23-16.-forca-centripeta-parte-01_anotado.pdf",
+    "Física/Força Centrípeta.md",
+    "Arquivos/98373a5e-4ad6-4c4a-ad73-3fda57049b6c-18.-forca-centripeta-parte-03_anotado.pdf",
+    "Arquivos/220b3fb9-adde-46f3-96a4-c7a661745cdc-17.-forca-centripeta-parte-02_anotado.pdf",
+    "Arquivos/0534a42d-ad12-4e40-90e9-944bf2ba8a21-12.-forca-de-atrito-parte-01_anotado.pdf",
+    "Física/Força de atrito.md",
+    "Arquivos/c3775cf5-53b2-446b-9941-07e82dea93b7-15.-plano-inclinado_anotado.pdf",
+    "Arquivos/f425a0dd-4671-496e-8987-3fea98f69290-14.-forca-de-atrito-parte-03_anotado.pdf",
+    "Arquivos/e4fcb06a-fc7c-4dff-9aae-903a28daa292-13.-forca-de-atrito-parte-02_anotado.pdf",
+    "Arquivos/0534a42d-ad12-4e40-90e9-944bf2ba8a21-12.-forca-de-atrito-parte-01.pdf",
     "Gramática/Pronome.md",
+    "Gramática/Monossilábicas e Oxítonas.md",
+    "Biologia/Exercícios.md",
+    "Arquivos/99a893a2-9dfd-4de9-9637-01e80f493f63_anotado.pdf",
+    "Química/Química Inorgânica.md",
+    "Arquivos/792017a4-2f4f-4e40-bde6-c4cbe059f18a_anotado.pdf",
+    "Química/Estudo das Bases.md",
     "Arquivos/Domine TODOS os pronomes em minutos!Quer aprender de vez os pronomes sem enrolação Esse resumo.webp",
     "Biologia/Bioenergética.md",
-    "Exercícios.md",
-    "Arquivos/596a01f1-f279-4afe-9dc3-d2b472099796-bio-revisao-01_anotado.pdf",
     "Biologia/Características Gerais dos Seres Vivos.md",
     "Filosofia/Renascimento.md",
     "História/Brasil Colonial.md",
     "História/Roma.md",
     "Biologia/Célula Part. 3.md",
-    "Arquivos/d3b519d5-f358-4fe4-ba28-63b8edf6a135-playlist-6-nucleo-e-divisao-celular.pdf",
     "Biologia/Divisão Celular Explicada.md",
     "Roteiro.md",
     "Matemática/Funções/Função do Segundo Grau.md",
@@ -210,27 +223,13 @@
     "Arquivos/Pasted image 20260307141723.png",
     "Arquivos/Pasted image 20260307141813.png",
     "Arquivos/Pasted image 20260307141754.png",
-    "Arquivos/68e286fa-e5c4-4036-a5d8-48c56df6c2b6-54.-equacao-do-2o-grau-parte-2_anotado.pdf",
     "Matemática/Porcentagem/Porcentagem.md",
-    "Arquivos/b7da4661-1ade-4424-be0e-8b7e7329c323-53.-equacao-do-2o-grau-parte-1_anotado.pdf",
-    "Arquivos/f50ad0d8-cc9d-46ca-975b-7e9700142700-52q.-questoes-equacao-do-1o-grau_anotado.pdf",
-    "Arquivos/366fe4c1-dd4c-4640-a9bd-56537bb17019-52.-equacao-do-1o-grau_anotado.pdf",
     "Arquivos/Pasted image 20260305234627.png",
     "Biologia/Célula Part. 2.md",
     "Mitose_e_Meiose_Guia_Completo.md",
     "Arquivos/Pasted image 20260305231754.png",
     "Arquivos/Pasted image 20260305230631.png",
     "Arquivos/Pasted image 20260305225147.png",
-    "Química/Química Inorgânica.md",
-    "Arquivos/e9abcb05-7998-436b-a705-e333bc5539cb_anotado.pdf",
-    "Física/Sistema de Blocos.md",
-    "Arquivos/9200996b-7f25-4671-919e-4a316d9f5557-11.-sistema-de-blocos-parte-02_anotado.pdf",
-    "Arquivos/eaab6612-182b-429e-b78c-5bdc1a712b36-10.-sistema-de-blocos-parte-01.pdf",
-    "Arquivos/eaab6612-182b-429e-b78c-5bdc1a712b36-10.-sistema-de-blocos-parte-01_anotado.pdf",
-    "Física/Força Elástica.md",
-    "Física/Força Normal.md",
-    "Física/Leis de Newton.md",
-    "Física/Movimento Circular e Uniforme.md",
-    "Física/Acoplamento de Engrenagens e Polia.md"
+    "Física/Sistema de Blocos.md"
   ]
 }

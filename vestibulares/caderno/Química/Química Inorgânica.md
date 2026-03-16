@@ -170,3 +170,9 @@ Bases mais importantes
 
 Estudo dos Sais
 ![[5b128900-d644-4b68-be23-748637a0c366_anotado.pdf]]
+
+# Nomenclatura dos Sais
+![[792017a4-2f4f-4e40-bde6-c4cbe059f18a_anotado.pdf]]
+
+# Exercícios
+![[99a893a2-9dfd-4de9-9637-01e80f493f63_anotado.pdf]]
