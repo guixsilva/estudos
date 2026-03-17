@@ -208,3 +208,58 @@ Triunviratos
 	- Caio Otávio acusa Marco Antônio de trair Roma ao se casar com a rainha do Egito, Cleópatra. 
 	- Caio Otávio vence Marco Antônio na balha de Ácio e invase o Egito, transformando-o em província de Roma. 
 	- É o fim da República romana e o Início do Império. 
+
+Alto Império
+- Palavra chave: Administração
+- Ao ganhar de Marco Antônio, Otávio assume o poder - Augustos: escolhido dos deuses
+- Mesmo sendo um ditador, manteve a organização republicana. O senado não se opõe ao seu poder.
+- Dividido em Baixo império e alto império
+- Cercou-se de uma poderosa burocracia estatal, porém deixava a população de lado.
+- Criação da guarda pretoriana: guarda do imperador.
+- Criação da Pax Romana: Manutenção dos interesses romanos nos territórios ocupados
+	- Forte política militarista
+	- Define limites e fortalece as fronteiras
+	- Otimiza a administração, aumentando a burocracia estatal.
+	- Administração do Egito pelo próprio Otávio.
+	- Distribuição de trigo aos plebeus.
+	- Modernização da cidade de Roma (bombeiros, prefeito, profissionalização do exército)
+	- Tempo de crescimento econômico (comércio)
+- Para hierarquizar a sociedade, Otávio Augusto trocou o critério de nascimento pelo econômico
+	- Pirâmide social
+		1. Senatorial: pessoas com fortuna, privilégios políticos.
+		2. Equestre: pessoas ricas, direito em alguns cargos políticos.
+		3. Sociedade: fortuna menor.
+- Evergentismo: doações e obras públicas feitas pela elite como forma de entrada para a vida pública
+- Política Pão e Circo: Política adotada no tempo de crises. Distribuía trigo e cereais e exibia espetáculos para a população carente.
+- Com a Pax Romana, o império passou por um longo período de estabilidade e desenvolvimento.
+- Provincialização do império: povos conquistados começam a participar da política Romana.
+
+Baixo império
+- Fase final do império, marcada por crises internas e externas.
+- Fim do processo expansionista, prejudicando o fornecimento de mão de obra, matérias primas;...
+- Diocleciano: Imperador
+	- Descentralização do poder para tentar reverter a crise política
+	- Divide em 4 os poderes do imperador.
+	- Dominato: poder divino absoluto dos imperadores.
+	- Deslocar o centro dinâmico para o Oriente (parte mais rica)
+	- Cria o primeiro tabelamento de preços e salários da história
+- Constantino
+	- Permite culto cristão; primeiro imperador cristão
+	- Crise do escravismo. 
+	- Lei do colonato, camponeses...
+	- Início do feudalismo.
+	- Fundador da cidade de Constantinopla. Nova capital do império.
+- Teodósio
+	- Oficializa o cristianismo como religião oficial do estado.
+	- Irreversível divisão do império após sua morte, dividindo o poder entre seus filhos.
+	- Início de longa crise.
+		- Elevados gastos devido ao tamanho do império
+		- Aumento dos impostos.
+		- Queda das conquistas e escravos
+		- Aumento das invasões bárbaras.
+		- Anarquia militar: disputas e corrupção entre os militares.
+- Roma é desmontada pelos bárbaros.
+- Hérulos conquista Roma, tirando o imperador Rômulo Augusto do poder.
+- Império é divido.
+- O império Romano do Oriente continua: O império Bizantino.
+- Início do modelo de feudalismo.
