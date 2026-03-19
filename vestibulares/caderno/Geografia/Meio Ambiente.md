@@ -73,5 +73,3 @@ Camada de Ozônio
 - Causas:
 	- Uso de Clorofluorcarbonos.
 
-
-
