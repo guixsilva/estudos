@@ -176,3 +176,78 @@ Estudo dos Sais
 
 # Exercícios
 ![[99a893a2-9dfd-4de9-9637-01e80f493f63_anotado.pdf]]
+
+# Outras Substâncias de Destaque
+
+- Sais Muito importantes
+	- CaCO3
+		- Calcário
+		- Mármore
+		- Concha e corais
+		- Casca de ovo
+		- Produz cal (aquecimento do calcário)
+		- Quando reage com qualquer ácido, se dissolve
+	- Bicarbonato de Sódio
+		- Antiácido
+		- Fermento químico
+		- Tampão do sangue (responsável por regular o pH do sangue)
+		- Branquear dentes e limpeza
+		- Sal com caráter básico
+		- Pó químico do extintor de incêndio.
+
+# Óxidos
+São compostos binário onde oxigênio é o átomo mais eletronegativo.
+Exemplo: CaO, CO2, MgO, N2O5 - Exceção: OF2 e O2F2
+
+![[Pasted image 20260319203930.png]]
+Óxido ácido ou anidridos:
+- Reagem com a água e formam ácidos, reagem com bases e formam sal mais água.
+- São, em geral, formados por ametais + oxigênio.
+- Dica: O elemento ligado ao oxigênio tem, normalmente, nox >= 
+- Nomenclatura
+	- Mono, di ou tri + óxido de +  + Nome do elemento
+	- Ex: CO2 - dióxido de carbono
+	- SO3 - trióxido de enxofre
+
+Óxidos Básicos
+- Reagem com a água e formam bases, reagem com ácidos e formam sal + água
+- São, em geral, formados por metal + oxigênio.
+- Dica: O elementos ligado ao oxigênio tem, normalmente, nox = +1 e +2
+- Nomenclatura
+	- Metais com nox fixo: óxido de {nome do metal}
+	- Metais com nox variável: óxido de {nome do metal} + nox em argorismos romanos
+	- CaO: óxido de Cálcio
+	- Na2O: óxido de sódio
+	- FeO: Óxido de ferro II ou óxido ferroso.
+
+Óxidos neutros ou indiferentes
+- Não reagem com água, ácido ou base
+- Somente 3: CO, NO e N2O
+	- CO: extremamente tóxico (neutralizador), produto de combustão incompleta, formador da carboxiemoglobina. A única solução para a desintoxicação de CO, o ideal é inspirar oxigênio puro.
+	- NO: radical livre (agentes oxidantes), promove a vasodilatação.
+	- N20: Gás hilariante, muito usado em anestésicos, nitro em automóveis.
+
+óxidos Anfóteros
+- É aquele que reage com ácidos e com bases
+- Nox igual a +3
+- óxido importante: Al2O3
+	- Pode ser chamado de Bauxita
+	- Bauxita é o minério onde é encontrado o alumínio, que é extraído com a eletrólise ígnea.
+	- O alumínio tem uma tinta natural chamada de camada de passivação quando se encontra com o oxigênio, se protegendo de reações. 
+
+Óxido duplo, misto ou salino
+- É formado a partir da união de dois óxidos diferentes do mesmo elemento
+- Fórmula geral: M3O4
+- Exemplo: Fe3O4.
+
+Peróxido
+- Compostos onde o oxigênio apresenta nox = -1
+- Exemplo: Na202, K202, H202
+- Observe que a maioria dos peróxidos é formada por metal + oxigênio, e portanto, apresentam caráter básico. 
+- Peróxido especial: H2O2: Água oxigenada, microbicida. Considerada de autoredox, pois a mesma substância oxida e reduz ela mesma.
+
+Super óxidos
+- Compostos onde o oxigênio apresenta nox = -1/2
+- Exemplo: Na2O4, KO2
+- Altamente instáveis.
+- A maioria dos superóxidos é formada por metal + oxigênio e, portanto, apresentam caráter básico.
