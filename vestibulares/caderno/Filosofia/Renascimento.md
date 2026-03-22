@@ -113,3 +113,4 @@ Razão
 - Divino é inacessível ao homem
 - A fama é o desejo de glória somente aos olhos dos outros
 - A fama leva à corrupção
+

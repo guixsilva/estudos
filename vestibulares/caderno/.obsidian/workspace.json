@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "97a73cf6cb7691d4",
+        "id": "2d39486c7af8b4c4",
         "type": "tabs",
         "children": [
           {
-            "id": "50a0c02bedbb0089",
+            "id": "7ed094e5ba49c09e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Química/Química Inorgânica.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Química Inorgânica"
+              "title": "Nova aba"
             }
           }
         ]
@@ -184,8 +180,24 @@
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "84580609061d1f49",
+  "active": "7ed094e5ba49c09e",
   "lastOpenFiles": [
+    "Filosofia/Renascimento.md",
+    "Filosofia/Filosofia Moderna.md",
+    "História/Brasil Colonial.md",
+    "Revoltas.md",
+    "Física/Trabalho Mecânico.md",
+    "Física/Energia Cinética.md",
+    "Arquivos/Energia_Mecânica_-_Sistemas_Conservativos-Roteiro_da_aula_anotado.pdf",
+    "Física/Energia Mecânica e Potência.md",
+    "Arquivos/0d370ad0-22b0-47b4-845c-905e7f17d104-20.-trabalho-mecanico-parte-02_anotado.pdf",
+    "Arquivos/Potência_Mecânica-Roteiro_da_aula_anotado.pdf",
+    "Arquivos/Energia_Mecânica_-_Sistemas_Dissipativos-Roteiro_da_aula_anotado.pdf",
+    "Arquivos/Energia_Potencial_Elástica-Roteiro_da_aula_anotado.pdf",
+    "Arquivos/1507e0af-135b-46c4-b282-ca9408057092-22.-energia-potencial-gravitacional_anotado.pdf",
+    "Arquivos/6a8e86b5-8a7e-4b64-96db-c94a1f1ee89e-21.-energia-cinetica_anotado.pdf",
+    "Arquivos/7ee0d96d-cc54-4210-8337-5e5973853672-19.-trabalho-mecanico-parte-01_anotado.pdf",
+    "Química/Química Inorgânica.md",
     "Arquivos/Pasted image 20260319203930.png",
     "Química/Substâncias e Misturas.md",
     "Geografia/Meio Ambiente.md",
@@ -199,38 +211,22 @@
     "Arquivos/Pasted image 20260317195833.png",
     "Física/Força Centrípeta.md",
     "Física/Força de atrito.md",
-    "Química/Química Inorgânica.md",
     "Problemas Urbanos.md",
     "Arquivos/7e0b7758-6cf2-4b7a-b6af-e0a0962b8f23-16.-forca-centripeta-parte-01_anotado.pdf",
     "Arquivos/98373a5e-4ad6-4c4a-ad73-3fda57049b6c-18.-forca-centripeta-parte-03_anotado.pdf",
-    "Arquivos/220b3fb9-adde-46f3-96a4-c7a661745cdc-17.-forca-centripeta-parte-02_anotado.pdf",
-    "Arquivos/0534a42d-ad12-4e40-90e9-944bf2ba8a21-12.-forca-de-atrito-parte-01_anotado.pdf",
-    "Arquivos/c3775cf5-53b2-446b-9941-07e82dea93b7-15.-plano-inclinado_anotado.pdf",
-    "Arquivos/f425a0dd-4671-496e-8987-3fea98f69290-14.-forca-de-atrito-parte-03_anotado.pdf",
-    "Arquivos/e4fcb06a-fc7c-4dff-9aae-903a28daa292-13.-forca-de-atrito-parte-02_anotado.pdf",
-    "Arquivos/0534a42d-ad12-4e40-90e9-944bf2ba8a21-12.-forca-de-atrito-parte-01.pdf",
     "Gramática/Pronome.md",
     "Gramática/Monossilábicas e Oxítonas.md",
     "Biologia/Exercícios.md",
-    "Arquivos/99a893a2-9dfd-4de9-9637-01e80f493f63_anotado.pdf",
-    "Arquivos/792017a4-2f4f-4e40-bde6-c4cbe059f18a_anotado.pdf",
     "Química/Estudo das Bases.md",
     "Arquivos/Domine TODOS os pronomes em minutos!Quer aprender de vez os pronomes sem enrolação Esse resumo.webp",
     "Biologia/Bioenergética.md",
     "Biologia/Características Gerais dos Seres Vivos.md",
-    "Filosofia/Renascimento.md",
-    "História/Brasil Colonial.md",
     "Biologia/Célula Part. 3.md",
     "Biologia/Divisão Celular Explicada.md",
     "Roteiro.md",
     "Matemática/Funções/Função do Segundo Grau.md",
-    "Matemática/Funções/Função Polinomial (1º Grau).md",
-    "Geografia/Atmosfera.md",
-    "Geografia/Biomas.md",
     "Arquivos/Pasted image 20260307152406.png",
     "Arquivos/Pasted image 20260307142028.png",
-    "Arquivos/Pasted image 20260307141723.png",
-    "Arquivos/Pasted image 20260307141813.png",
-    "Matemática/Porcentagem/Porcentagem.md"
+    "Arquivos/Pasted image 20260307141723.png"
   ]
 }

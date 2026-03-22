@@ -188,3 +188,73 @@ Reformas Pombalinas
 	- Criação de Escolas de Comércio
 	- Subsídio Literário (Reconstrução de Lisboa e Educação)
 	- Oposição de alguns comerciantes e nobreza tradicional.
+
+Revoltas Nativistas (Local) da Colônia
+- Revoltas ligadas a insatisfação dos colonos com alguma situação imposta ou apoiada pela coroa. Não eram separatistas pois eram anteriores ao iluminismo.
+	1. Aclamação de Amador Bueno
+		- Ocorreu na Capitania de São Vicente
+		- Cotexto: União Ibérica e Invasão Holandesa, que causa crise em Portugal.
+		- Com o fim da União Ibérica, A Dinastia de Bragança entra no poder e proíbe a escravidão Indígena.
+		- Os bandeirantes (apresamento) e Fazendeiros se revoltam com a proibição e aclamam Amador Bueno como Rei
+		- Amador Bueno não aceita ser rei, fugindo para um Mosteiro.
+		- A coroa obriga Amador Bueno e os revoltosos a jurar à Coroa.
+	2. Revolta da Cachaça
+		- A cachaça era usada como moeda interna e externa para compra de escravizados, o que quebrava o pacto colonia.
+		- Em 1647 a coroa proibiu a produção e o consumo de vinho e aguardente na Colônia, exceto por escravizados.
+		- No Rio de Janeiro, grande produtor de cachaça, a produção é liberada mediante a impostos
+		- Revolta dos produtores de Cachaça
+		- Os revoltosos tomam o poder do governo do Rio de Janeiro.
+		- O líder dos revoltosos é executado. 
+	3. Revolta de Beckman
+		- Revolta ocorrida no Maranhão no contexto da crise açucareira
+		- A dificuldade para conseguir escravizados e a ação dos Jesuítas pela escravidão indígena.
+		- A coroa, para resolver o problema, cria a Companha de Comércio do Maranhão, prometendo 500 escravizados africanos por ano, monopólio do comércio da região e a exclusão dos Jesuítas desse monopólio.
+		- A companha não cumpre as promessas.
+		- Revolta liderada pelos irmãos Manuel e Tomás Beckman, iniciando a revolta contra a Companha.
+		- Maranhão é tomada e a Companhia é expulsa
+		- Tomás Beckman vai para Portugal, mas é preso.
+		- Manuel Beckman é executado.
+		- Fim da Companhia.
+	4. Guerra dos Emboabas
+		- Disputa pelo ouro entre os Bandeirantes e Forasteiros.
+		- Boba Gato é o líder Paulista e Manuel Nunes Viana líder Emboaba
+		- Intervenção da Coroa, criando a livre exploração do ouro e a criação da Capitania de São Paulo e Minas Gerais
+	5. Guerra dos Mascates
+		- Com a presença holandesa, Recife se torna um importante centro urbano e econômico
+		- Recife era distrito de Olinda
+		- Queda do preço do açúcar
+		- Endividamento com os comerciantes de Recife
+		- Elevação de Recife a condição de Vila.
+		- Fim da Guerra: alternância entre Olinda e Recife como sede de Governo.
+	6. Revolta de Felipe dos Santos
+		- Descontentamento com os impostos da Mineração, principalmente o Quinto (1/5 do ouro = imposto)
+		- Revolta contra a casa de fundição e a proibição da circulação de ouro em pó criada pela coroa.
+		- Tomada de Vila Rica, exigindo o fim da casa de fundição e o fim do monopólio no comercio.
+		- A coroa finge acatar, ganha tempo e derrota os revoltosos.
+		- A coroa cria a capitania de Minas do Ouro.
+
+Revoltas Emancipacionistas
+- Descontentamento com a coroa e a exploração colonial, separatistas com influência iluminista.
+1. Inconfidência Mineira
+	- Articulada pela Elite de Minas Gerais
+	- Influência do Iluminismo
+	- Razão: cobrança do imposto da Derrama e quinto mínimo
+	- Independência dos EUA
+	- Adesão popular
+	- Plano dos Inconfidentes: Estabelecer uma república, extinção dos impostos, serviço militar obrigatório, construção de faculdades e a tomada de SP, MG e RJ.
+	- Joaquim Silvério dos Reis delata os inconfidentes em troca do perdão de suas dívidas.
+	- A coroa suspende a derrama, mas começa a perseguir os inconfidentes
+	- Prisões e execuções para os inconfidentes.
+2. Conjuração Fluminense
+	- Conjuração que não houve.
+	- Desconfiança das autoridades das reuniões na sociedade literária
+	- Coroa com medo de uma nova inconfidência mineira ocorrer
+	- Vários membros da Sociedade são presos
+	- Ninguém é condenado por falta de provas
+3. Conjuração Baiana
+	- Envolvimento de setores populares
+	- Reivindicações: fim da escravidão e fim dos altos impostos.
+	- Inspirada na revolução Francesa.
+	- Plano: república popular, voto universal masculino, redução de impostos e fim da escravidão
+	- Panfletagens das ideias, convocando a população para a revolta.
+	- A panfletagem não dá certo e a coroa prende 49 envolvidos e são executados.
