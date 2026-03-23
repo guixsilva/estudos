@@ -165,3 +165,64 @@ Esteroides Anabolizantes
 - Risco de doenças cardiovasculares
 - esterilidade
 - Ginecomastia
+
+# Fecundação
+![[Pasted image 20260322144200.png]]
+Ovócito
+- Corona Radiata: Camada de células foliculares cimentada com ácido hialurônico
+- Zona Pelúcida: Glicocálix da membrana celular com ovócito II/óvulo; com 3 funções:
+	- Impede fecundação interespécies
+	- Impede polispermia: impede a entrada de mais de um espermatozoide no óvulo.
+	- Impede nidação: Não permite a implantação do embrião no endométrio do útero.
+- Sequência de etapas da fecundação:
+	1. Chegada dos espermatozoides no 1/3 distal da Tuba Uterina.
+	2. Reação acrossômica: liberação das enzimas do acrossomo para que o espermatozoide possa vencer as barreiras do ovócito II: corona radiata e zona pelúcida.
+		- Enzima Hialuronidase: digere o ácido hialurônico da corona radiata. 
+	3. Fecundação ou Fertilização: entrada do espermatozoide no ovócito II.
+	4. Zona pelúcida vira membrana de de fecundação: A zona Pelúcida perde os receptores para os espermatozoides, impedindo a entrada de mais de um espermatozóide. 
+	5. Ovócito II conclui a meiose II e vira óvulo.
+	6. Cariogamia ou Singamia ou : Fusão do núcleo n do espermatozoide (pronúcleo masculino) com o número haploide do óvulo (pronúcleo feminino), formando o zigoto 2n.
+	7. Zigoto inicia o desenvolvimento embrionário.
+- As mitocôndrias do espermatozoides se degeneram durante a fecundação, permanecendo apenas as mitocôndrias do óvulo. 
+
+# Embrião
+![[Pasted image 20260322145410.png]]
+Embriologia
+- Estudo do desenvolvimento embrionário: conjunto de transformações que ocorrem no indivíduo desde o zigoto até o individuo.
+- 3 etapas:
+	- Segmentação: do zigoto até a blástula.
+		- Primeiras clivagens: divisões/mitoses do embrião.
+		- Origina blastômeros: células embrionárias indiferentes toti ou pluripotentes. 
+		- Volume celular do embrião permanece constante igual ao volume do zigoto. Durante a segmentação, ele não cresce.
+	- Gastrulação: Da blástula até a gástrula
+		- Volume celular do embrião aumenta
+		- Formação dos primeiros folhetos germinativos: primeiros tecidos do embrião. Ectoderme e endoderme. 
+		- Formação do arquênteron ou gastrocele, a cavidade da gastro, o que irá se tornar o tubo digestivo, e blastóporo, sendo o primeiro orifício criado, que pode se tornar boca ou ânus. Nos humanos, primeiro forma-se o ânus e depois a boca
+	- Organogênese: ocorre com duas etapas
+		- Neurulação: formação do tubo nervoso (que origina o sistema nervoso), formação da notocorda (esboço da coluna vertebral) e a formação da mesoderme
+		- Organogênese avançada: Formação dos primeiros tecidos adulto do indivíduos, criando os tecidos epitelial, conjuntivo, muscular. Formação dos primeiros órgãos. 
+			- Organogênese termina o desenvolvimento embrionário, formando o feto após 40 dias. 
+
+![[Pasted image 20260322152237.png]]
+
+Embriologia de Anfioxo
+- Anfioxo: são protocordados, que não tem notocorda, ou seja, não tem coluna vertebral.
+- O anfioxo é modelo para desenvolvimento embrionário de vertebrados.
+- Etapas do desenvolvimento embrionário
+	1. Segmentação: Clivagens e formação dos blastômeros
+	2. Gastrulação: Invaginação dos blastômeros, fazendo com que a blastocele diminua.
+	3. Organogênese
+		- Neurulação: a ectoderme dorsal fica mais espessa, afundando a placa neural, criando as cristas neurais. As cristas neurais se convergem, criando um tubo neural (Nêurula).
+		- ![[Pasted image 20260322154133.png]]
+		- A camada dorsal evagina, criando a mesoderme. As "orelhas" se juntam, criando os celomas. O teto do Archêron se solta, dando forma para a notocorda. 
+			- Celoma: cavidade delimitade por mesoderme e com líquido celomático. AS suas função são:
+				- distribuição de substâncias químicas
+				- Sustentação mecânica
+				- espaço para a formação de órgãos: origina a cavidade torácica e cavidade abdominal
+				- Notocorda: cordão dorsal nas costas com o papel de dar sustentação pro corpo. Acontece em todos os animais cordados, pelo menos no embrião. Em vertebrados, a notocorda é substituída com a coluna vertebral. 
+	- Organogênese avançada em vertebrados
+		- Em peixes, anfíbios, répteis, aves e mamíferos: notocorda substituída pela coluna vertebral do adulto.
+		- Formação dos primeiros tecidos adultos e primeiros órgãos.
+			- Ectoderme origina: epiderme da pele, anexos da epiderme (pelos, glândulas sebásticas), epiderme da mucosa de nariz, boca e ânus. Tubos neurais (sistema nervoso)
+			- Mesoderme: Derme da pele, músculos, cartilagens e ossos. Origina o sistema cardiovascular (como o coração, vasos sanguíneos e sangue), sistema reprodutor e excretor.
+			- Endoderme: Revestimento das vias aéreas, revestimento da bexiga urinária. revestimento do tubo digestivo, menos boca e ânus. Glândulas anexas do tubo digestivo (fígado, pâncreas).
