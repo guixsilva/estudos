@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "fff56c09e529d062",
+        "id": "a14a960b488f447c",
         "type": "tabs",
         "children": [
           {
-            "id": "e2e88c04aa90c047",
+            "id": "3c171f45c2cd125c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Filosofia/Decartes.md",
+                "file": "Biologia/Tecido Epitelial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Decartes"
+              "title": "Tecido Epitelial"
             }
           },
           {
-            "id": "9eb057a6dd1e89f0",
+            "id": "75b16c5d30408ab3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Filosofia/John Locke.md",
+                "file": "Biologia/Pele.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "John Locke"
+              "title": "Pele"
             }
           }
         ],
@@ -201,17 +201,29 @@
   },
   "active": "84580609061d1f49",
   "lastOpenFiles": [
+    "Biologia/Tecido Epitelial.md",
+    "Biologia/Pele.md",
+    "Arquivos/Pasted image 20260324213108.png",
+    "Arquivos/Pasted image 20260324215301.png",
+    "Arquivos/a1f55ea4-2cc1-4013-a936-fe88b5475883-playlist-8-embriologia-animal.pdf",
+    "Biologia/Embriologia Humana.md",
+    "Arquivos/a1f55ea4-2cc1-4013-a936-fe88b5475883-playlist-8-embriologia-animal 2.pdf",
+    "Biologia/Reprodução.md",
+    "Arquivos/a1f55ea4-2cc1-4013-a936-fe88b5475883-playlist-8-embriologia-animal 1.pdf",
+    "Arquivos/Pasted image 20260324204755.png",
+    "Arquivos/Pasted image 20260324193605.png",
+    "Arquivos/Pasted image 20260324194122.png",
+    "Arquivos/Pasted image 20260324193054.png",
     "Filosofia/Decartes.md",
+    "Matemática/Regra de Três Composta.md",
+    "Matemática/Funções/Função do Segundo Grau.md",
     "Filosofia/John Locke.md",
     "Arquivos/Pasted image 20260322221302.png",
     "Gramática/Verbo.md",
-    "Biologia/Reprodução.md",
     "Arquivos/Pasted image 20260322154133.png",
     "Arquivos/Pasted image 20260322152237.png",
     "Arquivos/Pasted image 20260322145410.png",
-    "Arquivos/Pasted image 20260322144200.png",
     "Química/Reações Inorgânicas.md",
-    "Arquivos/Pasted image 20260322132916.png",
     "Filosofia/Renascimento.md",
     "Filosofia/Filosofia Moderna.md",
     "História/Brasil Colonial.md",
@@ -226,26 +238,14 @@
     "Arquivos/Energia_Potencial_Elástica-Roteiro_da_aula_anotado.pdf",
     "Arquivos/1507e0af-135b-46c4-b282-ca9408057092-22.-energia-potencial-gravitacional_anotado.pdf",
     "Arquivos/6a8e86b5-8a7e-4b64-96db-c94a1f1ee89e-21.-energia-cinetica_anotado.pdf",
-    "Arquivos/7ee0d96d-cc54-4210-8337-5e5973853672-19.-trabalho-mecanico-parte-01_anotado.pdf",
     "Química/Química Inorgânica.md",
-    "Arquivos/Pasted image 20260319203930.png",
     "Química/Substâncias e Misturas.md",
     "Geografia/Meio Ambiente.md",
-    "Arquivos/Pasted image 20260318223430.png",
-    "Arquivos/Pasted image 20260318223445.png",
-    "Arquivos/Pasted image 20260318205616.png",
     "História/Roma.md",
     "Física/Força Centrípeta.md",
     "Física/Força de atrito.md",
     "Problemas Urbanos.md",
-    "Arquivos/7e0b7758-6cf2-4b7a-b6af-e0a0962b8f23-16.-forca-centripeta-parte-01_anotado.pdf",
-    "Arquivos/98373a5e-4ad6-4c4a-ad73-3fda57049b6c-18.-forca-centripeta-parte-03_anotado.pdf",
     "Gramática/Pronome.md",
-    "Gramática/Monossilábicas e Oxítonas.md",
-    "Biologia/Exercícios.md",
-    "Química/Estudo das Bases.md",
-    "Biologia/Bioenergética.md",
-    "Biologia/Características Gerais dos Seres Vivos.md",
-    "Biologia/Célula Part. 3.md"
+    "Gramática/Monossilábicas e Oxítonas.md"
   ]
 }

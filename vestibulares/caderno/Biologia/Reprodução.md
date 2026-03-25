@@ -226,3 +226,61 @@ Embriologia de Anfioxo
 			- Ectoderme origina: epiderme da pele, anexos da epiderme (pelos, glândulas sebásticas), epiderme da mucosa de nariz, boca e ânus. Tubos neurais (sistema nervoso)
 			- Mesoderme: Derme da pele, músculos, cartilagens e ossos. Origina o sistema cardiovascular (como o coração, vasos sanguíneos e sangue), sistema reprodutor e excretor.
 			- Endoderme: Revestimento das vias aéreas, revestimento da bexiga urinária. revestimento do tubo digestivo, menos boca e ânus. Glândulas anexas do tubo digestivo (fígado, pâncreas).
+
+## Anexos Embrionários
+![[Pasted image 20260324193605.png]]
+- Estruturas derivadas do embrião para ajudar o desenvolvimento embrionário. Ausentes quando adulto
+	- Âmnio: bolsa com líquido amniótico como meio líquido para o desenvolvimento embrionário e amortecer impactos
+	- Cório: Bolsa/membrana para realizar trocas gasosas entre o embrião e o meio.
+	- Alantoide: bolsa com objetivo de armazenar excretas. Se liga ao cório para formar uma estrutura chamada Alantocório (vasos sanguíneos do alantoide transporta os gazes respiratórios captados pelo cório.)
+	- Saco Vitelínico: Bolsa para armazenar vitelo (reservas nutritivas para o desenvolvimento do embrião)
+
+Ovo de aves
+- Gema: óvulo, que pode ser fecundado ou não
+- Clara: Albúmen ou clara, que serve como vitelo extracelular.
+	- Chalaza: clara muito densa que sustenta a gema
+	- Clara mais densa
+	- Clara menos densa
+- Casca do ovo: Impermeável à água, permeável ao ao
+- Câmera de ar dentro do ovo: para permitir a acumulação de ar e as trocas gasosas. 
+
+Animais Vertebrados
+- Anamniotas: desenvolvimento embrionário em meio aquático
+	- Não apresentam risco de ressecação e com ovo sem casca impermeável, permitindo trocas com o meio.
+	- Sem necessidade de âmnio
+	- A água faz trocas gasosas, não precisa de cório.
+	- Água elimina as excretas, não precisa de alantoide. 
+	- Ex: peixes (somente saco vitelínico) e anfíbios (podem ter ou não ter saco vitelínico)
+- Amniotas: desenvolvimento embrionário em meio terrestre
+	- Com risco de ressecação e com ovo com casca impermeável, não permitindo trocas com o meio
+	- Precisa de Âmnio para hidratar embrião
+	- Precisa de cório para realizar trocas gasosas
+	- Precisa de alantoide para armazenar escretas
+	- Ex: Répteis, Mamíferos e aves. 
+
+Anexos Embrionários em Mamíferos
+- Em mamíferos ovíparos (Onitorringo): igual de répteis e Aves
+- Nos mamíferos placentários (humanos)
+	- Âmnio bem desenvolvido
+	- Cório forma placenta
+	- Placenta não é anexo embrionário
+- Placenta
+	- Tem origem parte no embrião (vilosidade coriônicas) e parte na mãe (endométrio uterino ou decídua).
+		- Vilosidade coriônica: projeções de cório
+		- Endométrio Uterino: Decídua são região do endométrio uterino onde as vilosidades coriônicas penetram para formar placenta. 
+	- Alantoide e Saco Vitelínico atrofiados: não há necessidade, a placenta faz o papel dela. A atrofiação gera o cordão umbilical.
+	- Funções
+		- Trocas gasosas (inclui o cório)
+		- Excreção (Substitui o Alantoide)
+		- Nutrição (Substitui o saco vitelínico)
+		- Produção de células Sanguíneas fetais
+		- Transferência de anticorpos da mãe para o feto
+		- Produção de hormônios maternos (estrógenos, progesterona) baixando a imunidade materna para evitar rejeição imune do feto.
+	- Placenta e cordão umbilical formam uma barreira placentária: não permite contato e mistura entre o sangue da mãe e de fetos
+	- Pela barreira placentária não passam: elementos figurados (hemácias, leucócitos, plaquetas), algumas proteínas. O que passa é o plasma do sangue e algumas proteínas.
+	- O cordão umbilical apresenta duas artérias com transporte de sangue venoso (rico em CO2) e uma veia umbilical com sangue arterial (rico em O2)
+
+| Ovíparos                        | Ovovivíparos                                                       | Vivíparos                                                                             |
+| ------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------- |
+| Põe ovos. Sem nutrição materna. | Retém os ovos dentro do corpo até a eclosão. Sem nutrição materna. | Animais que não apresentam ovos, apresentam placenta. Nutrição materna para o filhote |
+![[a1f55ea4-2cc1-4013-a936-fe88b5475883-playlist-8-embriologia-animal.pdf]]

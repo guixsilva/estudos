@@ -1,0 +1,58 @@
+
+Características
+- Maior Órgão do corpo Humano
+- Não é tecido, é órgão
+- Composta de duas camadas de tecidos na pele
+	- Epiderme
+		- Camada externa
+		- Tecido Epitelial estratificado pavimentoso queratinizado (com muita queratina - impermeável)
+	- Derme
+		- Mais interna
+		- Tecido conjuntivo
+		- Abaixo da derme: hipoderme ou tecido celular subcutâneo.
+
+Camada Epiderme
+- Com 3 camadas / estratos principais
+	- Camada basal ou germinativa
+		- Mais interna
+		- Com células em mitose para repor as células mortas da camada mais externa (camada córnea).
+		- A cada 30 dias em média, todas as células da epiderme são renovadas.
+	- Camada espinhosa
+		- Camada mais espessa
+		- Com células ricas em desmossomos para a adesão intercelular.
+	- Camada Córnea
+		-  Camada mais externa
+		- Constituída por células mortas queratinizadas
+		- Muita queratina impermeabiliza tanto a célula que provoca a morte da célula.
+- Células da Epiderme
+	- Células Epiteliais - Queratinócitos
+	- Células não epiteliais
+		- Células de Langerhans: para a defesa
+		- Célula de Merkel: para tato
+		- Melanócitos: para produzir melanina. 
+			- Síntese de melanina: Criada pela aminoácido Tirosina, que é produzida via hidrólise por proteínas. A falta do consumo de proteína causa a deficiência de pigmentação na pele. 
+			- Albinos não conseguem produzir melanina de jeito nenhum pois não consegue produzir a enzima que produz a melanina.
+			- Melanócitos contém pequenas ramificações que injetam grânulos de melanina nas células epiteliais da derme. Os grânulos fica represado em volta do núcleo, o protegendo da ação de raios UV no DNA.
+			- A diferença de cor entre os humanos é causada pela diferença de atividade dos melanócitos. Todos os ser humanos contém a mesma quantidade de melanócitos
+			- Novos melanócitos não podem ser produzidos depois de adulto.
+			- Vitiligo é uma condição autoimune contra os melanócitos, causando na morte dos melanócitos e gerando manchas claras na pele. 
+- Anexos da Epiderme
+	- Estruturas derivadas da epiderme, mas localizadas na derme.
+	- Fâneros
+		- Apêndices (estruturas para fora do corpo) formados por células mortas queratinizadas
+		- Ex: Unhas, cabelo.
+	- Glândulas sebáceas
+		- Sempre associadas a um folículo ou bulbo piloso ou capilar. 
+		- Produção de lipídios para impermeabilizar, lubrificar e hidratar pele, pelos e cabelos.
+	- Glândulas Sudoríparas
+		- Não associadas a um folículo/bulbo piloso/capilar
+		- Produção do suor para regulação térmica.
+- Termorregulação
+	- Animais ectotermos: não produzem calor. Adquirem calor no meio
+	- Animais endotermos: Produzem calor corporal próprio. Regulam conforme meio
+- Queimaduras
+	- Queimaduras são classificadas em 1º grau (Epiderme), 2º grau (derme), 3º grau (todas as camadas até o músculo) e 4º grau (tecidos carbonizados).
+		- Segundo grau: bolhas, vermelhidão, dor.
+			- Bolhas: Extravasamento de plasma a partir dos capilares da derme inflamada da pele, o que promove descolamento entre a epiderme e a derme.
+		- Terceiro grau: Destruição da epiderme e exposição dos tecidos subjacentes (derme, hipodermes, músculo ou osso). Causa desidratação por evaporação de plasma.
+		- Quarto grau: completa destruição do tecido. Tecido semelhante a carvão. 
