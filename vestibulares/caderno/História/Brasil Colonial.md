@@ -258,3 +258,75 @@ Revoltas Emancipacionistas
 	- Plano: república popular, voto universal masculino, redução de impostos e fim da escravidão
 	- Panfletagens das ideias, convocando a população para a revolta.
 	- A panfletagem não dá certo e a coroa prende 49 envolvidos e são executados.
+
+Família Real
+- Contexto
+	- Brasil e Portugal em crise (baixa da atividade mineradora e açucareira)
+	- Guerras Napoleônicas na Europa 
+		- Navios ingleses não podiam ancorar no continente.
+- Fuga para o Brasil
+	- França de Napoleão queria invadir Portugal.
+	- Para a França, invadir Portugal – que era aliado da Inglaterra – era a possibilidade de dominar a Ásia e América.
+	- Na Convenção Secreta de Londres, foi decidido que a Família Real fugisse para o Brasil, sendo escoltado pela Inglaterra em troca do livre comércio entre Brasil x Portugal x Inglaterra. 
+	- Começam os esforços para a mudança da sede do Reino de Portugal
+	- Chegam no Brasil em 1818.
+	- Primeiras decisões reais no Brasil
+		- Fim do monopólio comercial colonial
+		- O Brasil poderia negociação com as nações amigas de Portugal. 
+		- Alvará de liberdade Industrial - Liberação da manufatura no Brasil.
+		- Criação do Banco do Brasil
+		- Criação de uma tabela alfandegária, instituindo impostos para produtos Ingleses e Portugueses.
+		- Promessa do fim gradual do tráfico de escravos - lei para inglês ver.
+		- Lei inglesa para ingleses.
+- Governo Joanino
+	- Mudanças no Rio de Janeiro
+		- Banco do Brasil
+		- Jardim Botânico
+		- Escola de Belas Artes
+		- Biblioteca Rural
+		- Primeiras escolas superiores
+		- Imprensa e jornais
+	- Política Externa
+		- Anexação da Guiana Francesa
+		- Anexação do Uruguai
+		- Elevação a condição de reino: Reino Unido de Portugal, Brasil e Algarves.
+		- Restauração dos Bragança.
+		- Casamentos de D. Pedro com D. Leopoldina
+		- Sede oficial da Coroa.
+		- Garantia de participação no Congresso de Viena
+
+Revolução Pernambucana
+- Com a instalação da Corte do Brasil, a população mais pobre de Pernambuco teve esperança em dias melhores, mas ocorreu:
+	- Seca
+	- Crise na economia açucareira
+	- Iluminismo (Maçonaria)
+	- Elites agrárias, padres e militares.
+- Estopim do movimento: militares acusados de traição à coroa.
+- Fundação de uma república (RN, PB e CE)
+	- Estado Católico (liberdade religiosa)
+	- Separação dos Poderes
+	- Apoio dos veteranos franceses
+	- Manter a escravidão.
+- Desfecho
+	- Conflito om as tropas da coroa durante dois meses
+	- Não houve reconhecimento oficial externo por outros países
+	- Mais de 250 pessoas presas
+	- Padre Roma e Miguelinho executados. 
+
+Revolução do Porto e volta da Família Real
+- Revolta Liberal do Porto
+	- Portugal entra em crise econômica
+	- Contestar o regime absolutista.
+	- Presença militar inglesa em Portugal
+	- Em 1820, o grupo inicia uma insurreição/rebelião (Vintismo)
+	- Formação de uma assembleia Constituintes (Primeira Constituição)
+- Cortes Portuguesas
+	- Reunião entre os reinos de Portugal
+		- Subordinaram a coroa ao Legislativo (Monarquia tipo Inglesa) garantindo direitos aos cidadãos portugueses.
+		- Os demais reinos defendiam a volta do monopólio comercial colonial sobre o Brasil - contradição liberal.
+- Volta da Família Real
+	- Dom João volta para Portugal
+	- Dom Pedro fica como Príncipe regente
+	- Pressão para que Dom Pedro voltasse para Portugal.
+	- Objetivo de Portugal: Brasil voltar a condição de Colônia.
+	- No Brasil: manter o Brasil como reino. 
