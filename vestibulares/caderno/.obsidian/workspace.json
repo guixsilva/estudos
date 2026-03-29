@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a14a960b488f447c",
+        "id": "90dbf245314de85a",
         "type": "tabs",
         "children": [
           {
-            "id": "3c171f45c2cd125c",
+            "id": "4fa47bcc3cc9f88e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biologia/Tecido Epitelial.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Tecido Epitelial"
-            }
-          },
-          {
-            "id": "75b16c5d30408ab3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biologia/Pele.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pele"
+              "title": "Nova aba"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,17 +180,33 @@
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "84580609061d1f49",
+  "active": "4fa47bcc3cc9f88e",
   "lastOpenFiles": [
-    "Biologia/Tecido Epitelial.md",
+    "História/Brasil Colonial.md",
+    "História/Independência do Brasil.md",
+    "Arquivos/3cc93050-a6d9-4170-8260-488cddb516bc-29.-impulso-parte-02_anotado.pdf",
+    "Física/Colisões.md",
+    "Física/Acoplamento de Engrenagens e Polia.md",
+    "Física/Sistemas Isolados.md",
+    "Física/Impulso.md",
+    "Arquivos/ab3823cc-50c2-4ace-8af0-15a45b7bf1e7-27.-quantidade-de-movimento_anotado.pdf",
+    "Arquivos/a31c6394-18b5-44a2-81b2-589fe67d1a76-28.-impulso-parte-01_anotado.pdf",
+    "Arquivos/c3db2e24-e77d-474e-8a8a-863109a464e3-31.-sistemas-isolados-parte-02_anotado.pdf",
+    "Arquivos/43cc8787-2062-41f6-bb14-ac1e80c4d833-30.-sistemas-isolados-parte-01_anotado.pdf",
+    "Arquivos/6c644389-7b56-41ad-97c0-7e87bb8c95f1-33.-colisoes-parte-02 (1)_anotado.pdf",
+    "Arquivos/545472be-969d-4b2f-bdcc-b336f03df023-32.-colisoes-parte-01_anotado.pdf",
+    "Matemática/Progressão.md",
+    "Arquivos/Matemática-Progressões.pdf",
+    "Arquivos/91bfdce5-ddb4-4840-a62d-b4c85e1a236f-3.-progressoes_anotado.pdf",
+    "Arquivos/b112363a-f6ad-4f0a-b6ca-afadd9c21e5d_anotado.pdf",
+    "Arquivos/Pasted image 20260325214201.png",
     "Biologia/Pele.md",
+    "Química/Grandezas Químicas.md",
+    "Biologia/Tecido Epitelial.md",
     "Arquivos/Pasted image 20260324213108.png",
     "Arquivos/Pasted image 20260324215301.png",
-    "Arquivos/a1f55ea4-2cc1-4013-a936-fe88b5475883-playlist-8-embriologia-animal.pdf",
     "Biologia/Embriologia Humana.md",
-    "Arquivos/a1f55ea4-2cc1-4013-a936-fe88b5475883-playlist-8-embriologia-animal 2.pdf",
     "Biologia/Reprodução.md",
-    "Arquivos/a1f55ea4-2cc1-4013-a936-fe88b5475883-playlist-8-embriologia-animal 1.pdf",
     "Arquivos/Pasted image 20260324204755.png",
     "Arquivos/Pasted image 20260324193605.png",
     "Arquivos/Pasted image 20260324194122.png",
@@ -222,30 +219,14 @@
     "Gramática/Verbo.md",
     "Arquivos/Pasted image 20260322154133.png",
     "Arquivos/Pasted image 20260322152237.png",
-    "Arquivos/Pasted image 20260322145410.png",
     "Química/Reações Inorgânicas.md",
     "Filosofia/Renascimento.md",
     "Filosofia/Filosofia Moderna.md",
-    "História/Brasil Colonial.md",
     "Revoltas.md",
     "Física/Trabalho Mecânico.md",
     "Física/Energia Cinética.md",
-    "Arquivos/Energia_Mecânica_-_Sistemas_Conservativos-Roteiro_da_aula_anotado.pdf",
     "Física/Energia Mecânica e Potência.md",
-    "Arquivos/0d370ad0-22b0-47b4-845c-905e7f17d104-20.-trabalho-mecanico-parte-02_anotado.pdf",
-    "Arquivos/Potência_Mecânica-Roteiro_da_aula_anotado.pdf",
-    "Arquivos/Energia_Mecânica_-_Sistemas_Dissipativos-Roteiro_da_aula_anotado.pdf",
-    "Arquivos/Energia_Potencial_Elástica-Roteiro_da_aula_anotado.pdf",
-    "Arquivos/1507e0af-135b-46c4-b282-ca9408057092-22.-energia-potencial-gravitacional_anotado.pdf",
-    "Arquivos/6a8e86b5-8a7e-4b64-96db-c94a1f1ee89e-21.-energia-cinetica_anotado.pdf",
     "Química/Química Inorgânica.md",
-    "Química/Substâncias e Misturas.md",
-    "Geografia/Meio Ambiente.md",
-    "História/Roma.md",
-    "Física/Força Centrípeta.md",
-    "Física/Força de atrito.md",
-    "Problemas Urbanos.md",
-    "Gramática/Pronome.md",
-    "Gramática/Monossilábicas e Oxítonas.md"
+    "Química/Substâncias e Misturas.md"
   ]
 }
