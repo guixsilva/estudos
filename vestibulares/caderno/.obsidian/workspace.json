@@ -4,20 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "90dbf245314de85a",
+        "id": "ef41a1ae2fa2b6df",
         "type": "tabs",
         "children": [
           {
-            "id": "4fa47bcc3cc9f88e",
+            "id": "dbf01b6b379362b2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Filosofia/Baruch de Spinoza.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Baruch de Spinoza"
+            }
+          },
+          {
+            "id": "c722fd636cfed020",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Filosofia/David Hume.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "David Hume"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sal",
+                "query": "pedo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,8 +199,13 @@
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "4fa47bcc3cc9f88e",
+  "active": "84580609061d1f49",
   "lastOpenFiles": [
+    "078645e6-a3a7-4c01-95ed-42187d2676f2.pdf",
+    "Filosofia/Baruch de Spinoza.md",
+    "Filosofia/David Hume.md",
+    "Biologia/Reprodução.md",
+    "Química/Grandezas Químicas.md",
     "História/Brasil Colonial.md",
     "História/Independência do Brasil.md",
     "Arquivos/3cc93050-a6d9-4170-8260-488cddb516bc-29.-impulso-parte-02_anotado.pdf",
@@ -201,12 +225,10 @@
     "Arquivos/b112363a-f6ad-4f0a-b6ca-afadd9c21e5d_anotado.pdf",
     "Arquivos/Pasted image 20260325214201.png",
     "Biologia/Pele.md",
-    "Química/Grandezas Químicas.md",
     "Biologia/Tecido Epitelial.md",
     "Arquivos/Pasted image 20260324213108.png",
     "Arquivos/Pasted image 20260324215301.png",
     "Biologia/Embriologia Humana.md",
-    "Biologia/Reprodução.md",
     "Arquivos/Pasted image 20260324204755.png",
     "Arquivos/Pasted image 20260324193605.png",
     "Arquivos/Pasted image 20260324194122.png",
@@ -224,9 +246,6 @@
     "Filosofia/Filosofia Moderna.md",
     "Revoltas.md",
     "Física/Trabalho Mecânico.md",
-    "Física/Energia Cinética.md",
-    "Física/Energia Mecânica e Potência.md",
-    "Química/Química Inorgânica.md",
-    "Química/Substâncias e Misturas.md"
+    "Física/Energia Cinética.md"
   ]
 }
