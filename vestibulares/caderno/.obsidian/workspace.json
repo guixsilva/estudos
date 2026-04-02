@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "78499ee496697c0c",
+        "id": "35c1e01d8b8650b5",
         "type": "tabs",
         "children": [
           {
-            "id": "157ac1f6de9e9298",
+            "id": "22381cbb6ba853d2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -182,28 +182,29 @@
   },
   "active": "84580609061d1f49",
   "lastOpenFiles": [
+    "Química/Estequiometria.md",
+    "Arquivos/48ddae21-d8a2-436a-89f2-27deec0244b0-estequiometria.pdf",
+    "Arquivos/161aa7bd-7537-460c-bb71-f64d0995d288_anotado.pdf",
+    "Arquivos/9338b341-3c85-4110-af89-77fd66eed28a_anotado.pdf",
+    "Arquivos/56fe1464-80e8-4d8a-9145-5269c9fc24fc-08.-excesso-e-limitante_anotado.pdf",
+    "Arquivos/814b31de-479e-41b4-b129-561cab61abfb_anotado.pdf",
+    "Arquivos/12e2074b-a962-4838-a225-6ec7c2e14fc6_anotado.pdf",
+    "Arquivos/3a68fe75-a109-414c-afcf-79e231b5c23d_anotado.pdf",
+    "Arquivos/180c4189-a732-4ad0-80f7-edb990ef16a0_anotado.pdf",
     "Gramática/Advérbio.md",
     "Arquivos/2e1532a3-972e-4076-9282-41a3731256c2-04.-mares_anotado.pdf",
     "Arquivos/3927a434-4292-456b-9313-a02c54143d54-05.-orbita-de-satelites_anotado.pdf",
-    "Arquivos/b4bb1925-6905-40e5-beed-104cd400615d-03.-lei-da-gravitacao-universal_anotado.pdf",
-    "Arquivos/c354bb18-b0a9-411c-9936-7b85871e54f7-02.-leis-de-kepler_anotado.pdf",
     "Física/Gravitação.md",
-    "Arquivos/Física-Gravitação.pdf",
     "Filosofia/David Hume.md",
-    "Arquivos/078645e6-a3a7-4c01-95ed-42187d2676f2.pdf",
     "Filosofia/Baruch de Spinoza.md",
     "Biologia/Reprodução.md",
     "Química/Grandezas Químicas.md",
     "História/Brasil Colonial.md",
     "História/Independência do Brasil.md",
-    "Arquivos/3cc93050-a6d9-4170-8260-488cddb516bc-29.-impulso-parte-02_anotado.pdf",
     "Física/Colisões.md",
     "Física/Acoplamento de Engrenagens e Polia.md",
     "Física/Sistemas Isolados.md",
     "Física/Impulso.md",
-    "Arquivos/ab3823cc-50c2-4ace-8af0-15a45b7bf1e7-27.-quantidade-de-movimento_anotado.pdf",
-    "Arquivos/a31c6394-18b5-44a2-81b2-589fe67d1a76-28.-impulso-parte-01_anotado.pdf",
-    "Arquivos/c3db2e24-e77d-474e-8a8a-863109a464e3-31.-sistemas-isolados-parte-02_anotado.pdf",
     "Matemática/Progressão.md",
     "Arquivos/Pasted image 20260325214201.png",
     "Biologia/Pele.md",
@@ -225,8 +226,6 @@
     "Arquivos/Pasted image 20260322152237.png",
     "Química/Reações Inorgânicas.md",
     "Filosofia/Renascimento.md",
-    "Filosofia/Filosofia Moderna.md",
-    "Revoltas.md",
-    "Física/Trabalho Mecânico.md"
+    "Filosofia/Filosofia Moderna.md"
   ]
 }
