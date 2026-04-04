@@ -1,0 +1,123 @@
+![[Pasted image 20260403204225.png]]
+Função
+- Preenchimento de espaços
+- Conexão entre outros tecidos
+- Reserva (tecido adiposo)
+- Transporte e Defesa (Tecido sanguíneo)
+- Sustentação (Tecido cartilaginoso e tecido ósseo)
+- Principal característica: com células espaçadas com abundância de substância intercelular. 
+- Outra característica: com grande diversidade celular e vascularizados (menos o tecido cartilaginoso). 
+
+Componentes nos Tecidos Conjuntivos
+- Substância intercelular ou Matriz Extracelular
+	- Líquido Tissular ou Intersticial: Parte líquida, de Água com sais, contínuo ao plasma sanguíneo.
+	- Sustância fundamental Amorfa: Massa gelatinosa amorfa de água, proteínas, glicoproteínas e proteoglicanas.
+	- Fibras proteicas: proteínas alongadas, de 3 tipos:
+		- Fibras colágenos: a mais abundante no corpo humano, com a função de dar resistência ao tecido conjuntivo.
+		- Fibras elásticas: de proteína elastina, dá elasticidade para a o tecido conjuntivo
+		- Fibras Reticulares de proteína reticulina, para formar uma rede para abrigar células.
+- Células espaçadas.
+	- Em grande diversidade
+	- Fibroblastos: Mais abundantes, produzem toda a substância intercelular (Subs. Fundamental amorfa e fibras proteicas). Quando inativas, se chamam fibrócitos, podendo voltar a forma ativa. 
+		- Fibroblastos ativos: várias ramificações para secretar fibras proteicas e glicoproteínas. Com núcleo grande e claro.
+		- Fibrócitos (Inativos): sem ramificações e com núcleo pequeno e escuro. 
+	- Mastócitos: Com grânulos de heparina (anticoagulante do sangue) e histamina (Mediador de reações alérgicas).
+	- Macrófagos: para a defesa por fagocitose. Derivado dos leucócitos monócitos por diapedese (saída do glóbulo branco do vaso sanguíneo).
+	- Plasmócitos: para a defesa pela produção de anticorpos, derivados dos leucócitos linfócitos B por diapedese. 
+	- Células Mesenquimais Indiferenciadas: Células tronco para se diferenciar em algumas outras células do tecido conjuntivo, como os fibroblastos, lipoblastos (células do tecido adiposo que armazenam gordura), condroblastos (produção de colágeno), osteoblastos (produzem osso)
+	- Dica: 
+		- Final blasto: células em versão ativa, jovem
+		- Final ócito: células em sua versão inativa, mais velha
+
+Classificação dos Tecidos Conjuntivos
+- Tecido Conjuntivo Propriamente Ditos: Mais abundantes no corpo humano. Nenhuma diferença do conceito de Tecido Conjuntivo que floresta é essa . 
+	- Frouxo: Não apresenta predomínio de nenhum componente. Encontrado em tecidos cicatriciais e na camada papilar (mais externa) da Derme.
+	- Denso: Com predomínio de fibras colágenas, sendo muito resistente.
+		- Denso não modelado: Fibras colágenas em direções aleatórias. Muito resistente em todas as direções. Ex: Cobertura dos ossos.
+		- Denso Modelado: Fibras colágenas dispostas orientadas na mesma direção. Muitíssimo resistente na direção das fibras. Ex: Tendões e ligamentos.
+- Tecido Conjuntivos de propriedade Especiais
+	- Adiposo: Tipo de tecido conjuntivo frouxo com adipócitos ou lipócitos (células para armazenar gordura).
+		- Amarelo ou Unilocular: Com 1 gota de gordura por adipócito. Com função de armazenamento, isolamento térmico e proteção mecânica. 
+		- Marrom ou Multilocular: com várias gotas de gordura por adipócito. Com função de quebrar gordura e gerar calor corporal. 
+	- Hematopoiético: Contém células tronco hematopoiéticas (se diferenciam em células sanguíneas).
+		- Linfoide: Produz somente um tipo de linfócito. Ex: Timo, Baço, gânglios, medula óssea vermelha. 
+		- Mieloide: Produz todas as demais células do sangue
+- Tecido Sanguíneo (sangue): Com substâncias intercelular líquida e sem fibras proteicas.
+	- Plasma: Parte líquida do sangue
+		- Constituída por água, sais minerais e proteínas:
+			- Anticorpos ou Imunoglobulinas: Produzidos nos plasmócitos do tecido conjuntivo. Função de defesa
+			- Fibrinogênio: Produzido no fígado. Função de coagulação
+			- Albumina: Mais abundante, produzida no fígado. Função de reserva nutritiva e equilíbrio osmótico.
+	- Elementos figuradas: particulas de células (hemácias) ou fragmentos (plaquetas)
+- Tecido Cartilaginoso
+- Tecido ósseo
+
+# Sangue
+- Hemácias
+	- Hemoglobina: a parte vermelha. Função de transporte de gazes, principalmente oxigênio. Renovadas a partir da medula óssea.
+	- Hemocatérese: Realizadas por macrófagos, é o mecanismo de destruição de hemácias mortas no sangue, realizando o metabolismo de parte da hemoglobina em bilirrubina (substância amarela eliminada no xixi e nas fezes).
+	- Icterícia: Peles e olhos amarelos por excesso de bilirrubina. 
+- Plaquetas
+	- Fragmentos de células de medula óssea Vermelha. Ajudam na coagulação sanguínea. 
+	- Hemostasia: interrupção de sangramentos. Corre nas etapas: Vasoconstricção (contrai o vaso sanguíneo e diminuir a perca de sangue), Agregação Plaquetário (Plaquetas se unem para fazer um tampão) e a Coagulação sanguínea (formação de uma rede de proteínas fibrina para estabilizar o tampão plaquetário).
+	- Plasmina: dissolve coágulos após o reparo do vaso
+	- Heparina: anticoagulante natural, impedindo a conversão de protrombina em trombina. 
+- Leucócitos ou Glóbulos Brancos
+	- Função: defesa e imunidade
+	- Grupos de leucócitos: 
+		- Polimorfonucleares: Com núcleo segmentado e grânulos citoplasmáticos (lisossomos - digerem outros seres) bem perceptíveis
+		- Mononucleares: Núcleo não segmentado e sem grânulos citoplasmáticos perceptíveis. 
+	- Tipos de leucócitos
+		- Neutrófilos: Os mais abundantes. fagocitam(comem) bactérias. Pode ocorrer pus no local do corte, uma mistura de bactérias mortas e neutrófilos mortos.
+		- Eosinófilos: Agem contra parasitas (protozoários e vermes). 
+		- Basófilos: Agem em alergias, com a liberação da Histamina.
+		- Monócitos: agem contra bactérias por fagocitose. Fazem o mesmo que o neutrófilos. A diferença é que os monócitos são mais fortes. Criam macrófagos por diapedese. 
+		- Linfócitos: Linfócito T - maturados no timo, comandam o sistema imunológico através de substâncias químicas (citocinas e linfocinas). Linfócito B - Maturado no tecido conjuntivo linfoide espalhado pelo corpo. Originam plasmócitos por diapedese para produzir anticorpos. 
+
+# Sistema Imune
+- Organizado em 3 linhas de defesa
+	- 1ª Linha de defesa: Estruturas que impedem a entrada do patógeno; 
+		- Enzima lisozima (lágrimas, saliva e suor - mata bactérias).
+		- Muco: em vias aéreas - retém micro organismos do ar para que não cheguem nos alvéolos pulmonares. 
+		- HCL: Ácido estomacal - elimina micro organismos em água e alimento. 
+	- 2ª Linha de defesa: Não adaptativa, inata, inespecífica
+		- Neutrófilos: contra bactérias de qualquer forma. 
+		- Eosinófilos: contra qualquer parasita ou verme
+		- principal componente: inflamação
+			- Infecção: Invasão por patógenos menores que as células (vírus e bactérias).
+			- Infestação: Invasão por patógenos maiores que as células (vermes e artrópodes)
+			- Inflamação: Resposta defensiva contra agressões biológicas, químicas e físicas
+		- Prostaglandinas: são lipídios que desempenham um papel fundamental nas reações inflamatórias do organismo.Essas funções são essenciais para a resposta inflamatória, que é uma parte importante da defesa inata do organismo
+	- 3ª Linha de defesa: Defesa adaptativa, específica, com memória.
+		- Fagocitose do patógeno/antígeno por macrófagos. 
+		- Apresentação do Antígeno aos linfócitos
+		- Seleção Clonal: Identificação dos linfócitos com receptor específico para aquele antígeno (mais demorado).
+		- Expansão Clonal: multiplicação dos linfócitos selecionados (sensibilizados) 
+		- Ativação dos linfócitos sensibilizados.
+			- Linfócitos T4: Estimulam o sistema Imune
+			- Linfócitos: T8: Combatem vírus e/ou câncer
+			- Linfócitos B: Se diferenciam em plasmócitos para produzir anticorpos específicos. 
+			- Células de memórias: ativadas imediatamente caso o mesmo antígeno apareça de novo.
+	- Resposta Imune
+		- Primária: Fraca(poucos anticorpos) e demorada(semanas). Produz células de memória.
+		- Secundária: Devido as células de memória, produzem grande quantidade de anticorpos. Resposta forte e imediata. 
+	- Imunização: 
+		- Ativa: via vacinação. Contato controlado com o vírus, promovendo a resposta primária, produzindo células de memória.
+			- Vírus vivo atenuado - enfraquecido:  Estimula muito bem a resposta, porém pode causar infecções.
+			- Vírus morto: não estimula muito bem, mas não causa infecções. 
+			- Isolado - com as bactérias do patógeno: Não estimula muito bem, mas não causa infecções. 
+		- Passiva
+			- Recebe o anticorpos prontos, com efeito imediato porém passageiro. Não há desenvolvimento de células de memória. Pode ser realizada de forma natural ou artificial (soros). Ex: soro antiofídico. 
+		- imunização x Imunidade
+			- Imunidade: mecanismo que leva à imunidade.
+			- Imunidade: resultado da imunização.
+				- Imunidade celular: Mediada por linfócitos T8;
+				- Imunidade humoral: Mediada por anticorpos localizados no sangue. 
+				- ![[Pasted image 20260404030030.png]]![[Pasted image 20260404030240.png]]
+				- Região variável: região que se liga nos antígenos
+				- Região constante: conecta na células de defesa. 
+				- Função dos anticorpos:
+					- Marcação do antígeno para atrair células de defesa
+					- Aglomeração de antígenos para evitar o espalhamento. 
+					- Neutralização de antígenos tóxicos, impedindo que a toxicina faça efeito no corpo. 
+					- LEMBRE-SE: Anticorpos não destroem nada, quem mata o patógeno são os leucócitos por meio da fagocitose. 

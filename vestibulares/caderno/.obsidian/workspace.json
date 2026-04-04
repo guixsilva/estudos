@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "35c1e01d8b8650b5",
+        "id": "62be2d990710d50f",
         "type": "tabs",
         "children": [
           {
-            "id": "22381cbb6ba853d2",
+            "id": "a8388cdb06a6e936",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Biologia/Tecido Conjuntivo.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Tecido Conjuntivo"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pedo",
+                "query": "HCL",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,8 +184,12 @@
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "84580609061d1f49",
+  "active": "a8388cdb06a6e936",
   "lastOpenFiles": [
+    "Arquivos/Pasted image 20260404030240.png",
+    "Arquivos/Pasted image 20260404030030.png",
+    "Arquivos/Pasted image 20260403204225.png",
+    "Biologia/Tecido Conjuntivo.md",
     "Química/Estequiometria.md",
     "Arquivos/48ddae21-d8a2-436a-89f2-27deec0244b0-estequiometria.pdf",
     "Arquivos/161aa7bd-7537-460c-bb71-f64d0995d288_anotado.pdf",
@@ -222,10 +230,7 @@
     "Filosofia/John Locke.md",
     "Arquivos/Pasted image 20260322221302.png",
     "Gramática/Verbo.md",
-    "Arquivos/Pasted image 20260322154133.png",
-    "Arquivos/Pasted image 20260322152237.png",
     "Química/Reações Inorgânicas.md",
-    "Filosofia/Renascimento.md",
-    "Filosofia/Filosofia Moderna.md"
+    "Filosofia/Renascimento.md"
   ]
 }
