@@ -1,0 +1,45 @@
+
+Características
+- Fundador do Iluminismo e filosofia Crítica.
+- Principais obras: Crítica da Razão Pura.
+- Sua filosofia é baseada em [[David Hume]] - Proposições analíticas (Análise da ideia, dividindo-a em partes simples) e proposições sintéticas (questões de fato - junção de conceitos diferentes)
+- Teoria dos Juízos
+	- A Priori: conhecimento que não precisa de nenhuma experiência, de nenhuma impressão inicial
+	- A Posteriori: conhecimento originado pela experiência
+- 3 tipos de Juízos
+	- Analíticos a priori: Relações de ideias. Ex: O triângulo tem 3 lados - pois não precisamos conhecer um triângulo para saber o que é um triângulo.
+	- Sintéticos a posteriori: Relacionam duas coisas diferentes, as questões de fatos, a partir da experiência. Ex: O sol nasce do leste - são conceitos diferentes e oriundos da experiência.
+	- Sintéticos a priori: A Razão pura, o conhecimento universal e necessário sem a necessidade da experiência, mas com junção de ideias. Ex: Matemática, física e metafísica.
+- Método Transcendental
+	- Os recursos inatos da mente (a priori)- faculdades mentais.
+	- Formas da sensibilidade: tempo e espaço - condições do conhecimento.
+	- Matérias: sensações, impressões que adquirimos do mundo. 
+	- Fenômeno: o mundo como ele aparece para mim, após se adequar a minha trancendealidade. Não sabemos como é um mundo em si.
+	- Númeno: O mundo em si, independentes do sujeito do conhecimento.
+- Racionalismo X Empirismo
+	- Conceitos sem percepção são vazios. Percepções sem conceitos são cegas.
+- Revolução Copernicana
+	- Sujeito (humano) ativo no conhecimento. Colocamos nos objetos o nosso método transcendental. 
+
+Ética do Dever
+- Vontade: pode ser condicionada pela:
+	- Razão: boa vontade
+	- Paixões: inclinações
+- Crítica da razão prática: obra - livro
+	- Razão Prática: determina a vontade, leva a ação. Conhecimento a priori do dever. 
+	- Todo mundo tem uma consciência a priori, o dever, que define a moral dos indivíduos. Todo mundo já nasce com um conceito de certo e errado.
+	- Sumo bem: felicidade + virtude - uma vida virtuosa leva a felicidade.
+	- Máximas: subjetivos, conceitos próprios e pessoais.
+	- Imperativos: objetivos, conceitos universais entre os indivíduos.
+- Imperativos - tipos
+	- Imperativos hipotéticos: Objetivam um fim. Ex: se não quiser ser preso, não roube. 
+	- Imperativos Categóricos: Fim em si mesmo - boa vontade. Ex: Não roube ou Não roube pois roubar é errado.
+	- Lei moral: Imperativos categóricos, pois independem da experiência e são necessários e universais.
+- Fórmulas do Imperativo categórico
+	- Universalidade: Se a ação pode ser uma lei universal
+	- Respeito à pessoa: pessoas vistas como fins.
+	- Vontade autônoma: Vontade determinada pela razão e pelo imperativo categórico. 
+- Consequências da lei moral
+	- Liberdade: pressuposto do dever.
+	- Imortalidade da alma: sempre visa a virtualidade.
+	- Existência de Deus: felicidade correspondente à virtude.
