@@ -11,13 +11,46 @@
             "id": "428e7046ef56ce01",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Tecido Cartilaginoso.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Tecido Cartilaginoso"
+            }
+          },
+          {
+            "id": "e737e761c3032382",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tecido ósseo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tecido ósseo"
+            }
+          },
+          {
+            "id": "4e57bfe7bafdcf98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tecido Muscular.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tecido Muscular"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -182,6 +215,13 @@
   },
   "active": "84580609061d1f49",
   "lastOpenFiles": [
+    "Arquivos/Pasted image 20260409221602.png",
+    "Tecido ósseo.md",
+    "Tecido Muscular.md",
+    "Arquivos/Pasted image 20260409213504.png",
+    "Arquivos/Pasted image 20260409205433.png",
+    "Tecido Cartilaginoso.md",
+    "Arquivos/Pasted image 20260409202051.png",
     "Química/Solução, Coloides, Solubilidade.md",
     "Arquivos/db32144d-a6c5-4c77-a614-f4a2f55e5273_anotado.pdf",
     "Arquivos/d1e5e240-2d97-4931-8403-965042573d38_anotado.pdf",
@@ -220,12 +260,6 @@
     "Arquivos/Pasted image 20260324213108.png",
     "Arquivos/Pasted image 20260324215301.png",
     "Biologia/Embriologia Humana.md",
-    "Arquivos/Pasted image 20260324204755.png",
-    "Arquivos/Pasted image 20260324193605.png",
-    "Arquivos/Pasted image 20260324194122.png",
-    "Arquivos/Pasted image 20260324193054.png",
-    "Filosofia/Decartes.md",
-    "Matemática/Regra de Três Composta.md",
-    "Matemática/Funções/Função do Segundo Grau.md"
+    "Arquivos/Pasted image 20260324204755.png"
   ]
 }
