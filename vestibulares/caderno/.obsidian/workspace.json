@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "49c1f9d604bf0861",
+        "id": "3ebf9d6ee759b0f0",
         "type": "tabs",
         "children": [
           {
-            "id": "428e7046ef56ce01",
+            "id": "86fdedb74ab59442",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tecido Cartilaginoso.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Tecido Cartilaginoso"
-            }
-          },
-          {
-            "id": "e737e761c3032382",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tecido ósseo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tecido ósseo"
-            }
-          },
-          {
-            "id": "4e57bfe7bafdcf98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tecido Muscular.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tecido Muscular"
+              "title": "Nova aba"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,53 +180,52 @@
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "84580609061d1f49",
+  "active": "86fdedb74ab59442",
   "lastOpenFiles": [
+    "Física/1. Exercicios.md",
+    "9f64a89c-e1d1-4640-a8fc-1f1400db705d-fis-revisao-01_anotado.pdf",
+    "Biologia/Bioenergética.md",
+    "Biologia/Tecido ósseo.md",
+    "Biologia/Tecido Cartilaginoso.md",
+    "Física/Gravitação.md",
+    "Física/Movimento Uniforme.md",
+    "Física/Movimento Circular e Uniforme.md",
+    "Física/Proporção entre grandezas físicas.md",
+    "Física/Energia Mecânica e Potência.md",
+    "Física/Acoplamento de Engrenagens e Polia.md",
+    "Física/Energia Cinética.md",
+    "Física/Força Normal.md",
+    "Física/Lançamento Horizontal.md",
+    "Física/Queda Livre e Lançamento Vertical para Baixo.md",
+    "Física/Sequência de Galileu.md",
+    "Física/Lançamento Vertical para Cima.md",
+    "Física/Força Elástica.md",
+    "Física/Colisões.md",
+    "Física/Força Centrípeta.md",
+    "Física/Força de atrito.md",
+    "Física/Sistema de Blocos.md",
+    "Física/Leis de Newton.md",
+    "Física/Lançamento Oblíquo.md",
+    "Física/Conversão de Unidades.md",
+    "Física/Impulso.md",
+    "Arquivos/Pasted image 20260410210931.png",
+    "Arquivos/Pasted image 20260410210256.png",
+    "Arquivos/Pasted image 20260410205746.png",
     "Arquivos/Pasted image 20260409221602.png",
-    "Tecido ósseo.md",
-    "Tecido Muscular.md",
     "Arquivos/Pasted image 20260409213504.png",
     "Arquivos/Pasted image 20260409205433.png",
-    "Tecido Cartilaginoso.md",
     "Arquivos/Pasted image 20260409202051.png",
-    "Química/Solução, Coloides, Solubilidade.md",
     "Arquivos/db32144d-a6c5-4c77-a614-f4a2f55e5273_anotado.pdf",
     "Arquivos/d1e5e240-2d97-4931-8403-965042573d38_anotado.pdf",
     "Arquivos/9f6124d3-d479-451f-b060-2586332146f9_anotado.pdf",
     "Arquivos/ff662c9a-7db7-48fa-9368-c391b666a268_anotado.pdf",
     "Arquivos/811bc66a-f4a0-4af9-8ab9-07ecc3297284_anotado.pdf",
-    "Química/Estequiometria.md",
-    "Filosofia/Emmanuel Kant.md",
-    "Filosofia/David Hume.md",
-    "Filosofia/Racionalismo e Empirismo.md",
-    "Filosofia/Idade Média.md",
-    "Biologia/Tecido Conjuntivo.md",
     "Arquivos/Pasted image 20260404030240.png",
     "Arquivos/Pasted image 20260404030030.png",
     "Arquivos/Pasted image 20260403204225.png",
     "Arquivos/48ddae21-d8a2-436a-89f2-27deec0244b0-estequiometria.pdf",
     "Arquivos/161aa7bd-7537-460c-bb71-f64d0995d288_anotado.pdf",
     "Arquivos/9338b341-3c85-4110-af89-77fd66eed28a_anotado.pdf",
-    "Arquivos/56fe1464-80e8-4d8a-9145-5269c9fc24fc-08.-excesso-e-limitante_anotado.pdf",
-    "Arquivos/814b31de-479e-41b4-b129-561cab61abfb_anotado.pdf",
-    "Gramática/Advérbio.md",
-    "Física/Gravitação.md",
-    "Filosofia/Baruch de Spinoza.md",
-    "Biologia/Reprodução.md",
-    "Química/Grandezas Químicas.md",
-    "História/Brasil Colonial.md",
-    "História/Independência do Brasil.md",
-    "Física/Colisões.md",
-    "Física/Acoplamento de Engrenagens e Polia.md",
-    "Física/Sistemas Isolados.md",
-    "Física/Impulso.md",
-    "Matemática/Progressão.md",
-    "Arquivos/Pasted image 20260325214201.png",
-    "Biologia/Pele.md",
-    "Biologia/Tecido Epitelial.md",
-    "Arquivos/Pasted image 20260324213108.png",
-    "Arquivos/Pasted image 20260324215301.png",
-    "Biologia/Embriologia Humana.md",
-    "Arquivos/Pasted image 20260324204755.png"
+    "Arquivos/56fe1464-80e8-4d8a-9145-5269c9fc24fc-08.-excesso-e-limitante_anotado.pdf"
   ]
 }

@@ -22,3 +22,33 @@ Tipos de Fibras Musculares Estriadas Esqueléticas
 - Fibras lentas ou escuras ou Tipo 1: Muita mioglobina (vermelhas), muitas mitocôndrias (marrom), muita respiração aeróbica. 
 - Fibras Rápidas ou claras ou Tipo 2: pouca mioglobina, pouca mitocôndria e pouca respiração aeróbica - anaeróbicas. Fermentação láctea. Fibras muito grossas e fortes. 
 	- Peito de Galinha é músculo claro, tendo pouca força, não mantém voo por muito tempo. 
+
+Energia para a contração
+- Primeira opção: ATP nos músculos: esgota em poucos segundos
+- Segunda Opção: Fosfocreatina - reação química de Creatina + ADP que gera queratina + ATP. Esgota em 8/10 segundos
+- Terceira opção: Fermentação láctica - até 40 segundos - enquanto ainda não há O2 no músculo. 
+- Quarta Opção: Respiração Aeróbica: quando há O2 no músculo. Resistência aeróbica, produzindo grandes quantidades de ATP.
+
+Técnicas para garantir o suprimento de O2 nos músculos
+- Taquipneia: respiração de cachorro - mais ritmo de respiração
+- Taquicardia: mais batimento do coração - maior ritmo cardíaco
+- Vaso dilatação nos músculos
+- Quando o O2 se torna insuficiente: volta a Fermentação Láctica, acumulando ácido láctico, gerando fadiga e dor muscular. 
+
+![[Pasted image 20260410205746.png]]
+![[Pasted image 20260410210256.png]]
+Organização do Músculo Estriado (Contração)
+- Fibra muscular contém miofibrilas (Conjunto de miofilamentos de proteínas contráteis)
+	- Microfilamento pesado/espesso: de proteína miosina.
+	- Microfilamento leve/delgado: de proteína actina. 
+	- Microfilamentos se organizam em Sarcômeros ou Miômeros: unidades contráteis das fibras muscular estriada. 
+
+![[Pasted image 20260410210931.png]]
+Contração Muscular
+- Teoria do filamento deslizante ou teoria da catraca de Huxley.
+- A cabeça da miosina liga na actina, quebrando ATP (açã atpásica) e dobrando
+- Actina desliza sobre a miosina
+- Linhas Z se aproximam. 
+- Sarcômero encurta
+- Contração muscular. 
+- Cálcio é o estimulo da contração
