@@ -1,0 +1,60 @@
+Assembleia Constituinte de 1823
+- Composta por deputados provinciais. 
+	- Partido Brasileiro; Defendia uma monarquia constitucional, imperador submetido a lei.
+	- Partido Português: Defendia o fortalecimento do poder imperial. 
+- Manutenção da escravidão (discordância de José Bonifácio) e a unidade territorial
+- Primeiro projeto de lei: tripartição dos poderes, liberdade de imprensa, voto com base na renda (terra).
+	- Criado pelo Antônio Carlos de Andrada
+	- Os portugueses, na sua maioria comerciante, não tinham terras suficientes para o voto, causando revolta.
+- Noite das Agonias: Em 1823, a assembleia é dissolvida por Dom Pedro.
+- Dom Pedro cria um conselho de estado (10 membros) para elaborar um texto constitucional.
+
+Constituição de 1824
+- Quando foi Outorgada (importa sem auxílio de assembleia).
+- Monarquia Hereditária Constitucional 
+- Igreja submetida ao estado
+	- Padroado: permissão do imperador para nomeação dos bispos
+	- Beneplácito: Permissão do imperador para bulas papais. 
+	- Proibição de cultos públicos não católicos
+	- Presidentes de província nomeados pelo imperador
+- Poderes na Constituição de 1824
+	- Legislativo: Bicameral - senado e câmera dos deputados - único poder eleito por voto.
+		- Eleição indireta: Homens católicos, 25 anos (solteiros) e 21 anos (casados) e com renda mínima anual de 100 mil réis. 
+	- Judiciário: nomeado pelo executivo (imperador).
+	- Executivo: chefiado pelo imperador - imperador e ministros - nomeação de bispos, magistrados e chefes militares. 
+	- Moderador: restrito ao imperador no âmbito privativo - pode intervir nas decisões de outros poderes.  
+
+Confederação do Equador
+- Causas e contexto
+	- Dissolução da assembleia constituinte
+	- Outorga da constituição de 1825
+	- Falta de autonomia
+- O estopim foi a nomeação de Francisco Pais Barreto como presidente da Província de Pernambuco - o povo não gostava. 
+- Em Julho de 1824 surge a confederação do Equador
+	- Movimento separatista
+	- Liberal e republicano
+- Objetivo: criar um governo confederado e republicano, com ampla autonomia das províncias.
+- Forte inspiração nas ideias bolivarista e liberal.
+- Pessoas notáveis: Frei Caneca. 
+- Desfecho: conspiração foi reprimida de forma violenta pelo governo com apoio de tropas mercenárias inglesas. Morte de Frei Caneca. 
+
+Guerra da Cisplatina
+- Ocorreu na região da Cisplatina (Atual Uruguai) anexado e importada no Império. 
+- População da Cisplatina não se reconhecia como parte do Império do Brasil.
+- O governo independente e republicano de Buenos Aires (Argentina independente) não reconhecia a soberania portuguesa sobre a Cisplatina
+- Com ajuda dos Argentinos, é proclamada a independência da Cisplatina.
+- Brasil envia tropas de mercenários
+- Independência do Uruguai.
+
+Crise no Primeiro Reinado
+- Gastos com guerras e conflitos.
+- Falência do Branco do Brasil.
+- Disputa sucessória em Portugal
+	- Morte do D. João VI
+	- D. Miguel deu um golpe e assume o poder com apoio das Elites
+	- D. Pedro intervém com envio de tropas para Portugal - gera revoltas no Brasil
+- Desgastes do Imperador pela Crise econômica.
+- Má fama com relações extraconjugais.
+- Com troca de Ministros, o imperador desagradou as Elites.
+	- Um jornalista crítico do governo de Dom Pedro é assassinado - povo acusa Dom Pedro.
+- D. Pedro abdica o trono em favor do seu filho, Dom Pedro II com 5 anos incompletos.

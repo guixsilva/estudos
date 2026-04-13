@@ -11,10 +11,14 @@
             "id": "86fdedb74ab59442",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "História/Brasil Império.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Brasil Império"
             }
           }
         ]
@@ -180,10 +184,13 @@
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "86fdedb74ab59442",
+  "active": "84580609061d1f49",
   "lastOpenFiles": [
+    "História/Brasil Colonial.md",
+    "Gramática/Advérbio.md",
+    "História/Brasil Império.md",
     "Física/1. Exercicios.md",
-    "9f64a89c-e1d1-4640-a8fc-1f1400db705d-fis-revisao-01_anotado.pdf",
+    "Arquivos/9f64a89c-e1d1-4640-a8fc-1f1400db705d-fis-revisao-01_anotado.pdf",
     "Biologia/Bioenergética.md",
     "Biologia/Tecido ósseo.md",
     "Biologia/Tecido Cartilaginoso.md",
@@ -206,8 +213,6 @@
     "Física/Sistema de Blocos.md",
     "Física/Leis de Newton.md",
     "Física/Lançamento Oblíquo.md",
-    "Física/Conversão de Unidades.md",
-    "Física/Impulso.md",
     "Arquivos/Pasted image 20260410210931.png",
     "Arquivos/Pasted image 20260410210256.png",
     "Arquivos/Pasted image 20260410205746.png",
