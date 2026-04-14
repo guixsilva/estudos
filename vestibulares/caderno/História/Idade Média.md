@@ -74,3 +74,45 @@ Império Islâmico
 	- Aprimoraram a álgebra e a geometria. Inventaram o número zero e trouxeram o sistema numérico.
 	- Livros: As mil e uma noites
 	- Estudo sobre eclipses solares e lunares.
+
+
+# Ocidental
+
+Períodos
+- Alta Idade Média
+	- Formação dos Reinos Bárbaros
+	- Feudalismo
+- Baixa idade média
+	- Cruzadas
+	- Renascimento comercial, urbano, e artístico
+	- Peste Negra
+	- Formação dos estados modernos
+
+Formação dos Reinos Bárbaros
+- Decadência do Império Romano do Ocidente.
+	- Foi acelerada pela invasão de povos bárbaros
+- Bárbaro: denominação que os romanos davam àqueles que vivam fora das fronteiras do império.
+- Os romanos nem sempre ofereceram resistência contra os bárbaros
+	- Houve contatos pacíficos e casamentos 
+	- Germânicos começam a ser aceitos no exército romano.
+- Principais povos
+	- Francos
+	- Burgúndios
+	- Alamanos
+- Sociedade
+	- Hierarquizada
+	- Patriarcal
+	- Militarizada. 
+- Economia
+	- Agricultura
+	- Pecuária
+	- Caça e Coleta.
+- Religião
+	- Politeístas, cultuavam as forças da natureza.
+- Política
+	- Assembleia de guerreiros
+	- Direito Consuetudinário: Leis de tradição, leis dos antepassados, tudo feito de forma ritualista, pública.
+	- Baseado nos costumes
+	- Leis não escritas.
+	- Decisões tomadas nas assembleias - aprovação era obtida com o bater das lanças nos escudos.
+
