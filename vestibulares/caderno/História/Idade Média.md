@@ -116,3 +116,31 @@ Formação dos Reinos Bárbaros
 	- Leis não escritas.
 	- Decisões tomadas nas assembleias - aprovação era obtida com o bater das lanças nos escudos.
 
+# Feudalismo
+
+Origens do Feudalismo
+- Fatores Históricos: O feudalismo surge após a queda do Império Romano do Ocidente, influenciado por heranças romanas, germânicas e pela ascensão do cristianismo.
+- Fragmentação do Poder: O Tratado de Verdun (843) fragmentou o Império Carolíngio, aumentando a autonomia da nobreza.
+
+Características do Feudo
+- Unidade de Produção: Os feudos eram autossuficientes, compostos por terras para o senhor feudal, lotes para os servos e áreas comuns.
+- Relações de Poder: Os senhores feudais exercem autoridade e cobravam impostos.
+
+Sistema de Suserania e Vassalagem
+- Lealdade Mútua: O sistema de relações entre nobres envolvia laços de lealdade, onde o suserano ofereceu terras ao vassalo em troca de serviços e proteção.
+
+Estratificação Social
+- Classes: A sociedade era hierárquica; clero, nobreza e camponeses/servos compunham as principais ordens sociais, com pouca mobilidade.
+
+Obrigações Feudais
+- Impostos e Trabalho: Servos deviam realizar uma série de obrigações, incluindo a corveia (trabalho no manso senhorial) e a talha (parte da produção).
+
+Economia Feudal
+- Agricultura: Sistema baseado na agricultura com técnicas rudimentares e escambo predominando sobre o comércio de moedas.
+
+Cultura e Religião
+- Teocentrismo: A Igreja Católica triunfou como instituição dominante, influindo nas artes e na moral da época. A Inquisição foi um mecanismo de controle social.
+
+Fim da Idade Média
+- Transição para o Renascimento: Fatores como as Cruzadas e a Peste Negra influenciaram o fim do feudalismo, levando à formação de estados nacionais e à ascensão da burguesia.
+
