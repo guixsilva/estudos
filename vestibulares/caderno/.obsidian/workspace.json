@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f883200023ca7dbf",
+        "id": "850dbfe4ea2c1d14",
         "type": "tabs",
         "children": [
           {
-            "id": "50141d1d54a1f6ea",
+            "id": "6bd762486f513993",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -180,9 +180,15 @@
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "50141d1d54a1f6ea",
+  "active": "84580609061d1f49",
   "lastOpenFiles": [
-    "Iluminismo.md",
+    "Química/Unidades de Concentração.md",
+    "Arquivos/3cee902f-c3fd-4b1c-bd61-a5497a009c25_anotado.pdf",
+    "Arquivos/2db58172-2244-407f-952a-7c6f486b8b76_anotado.pdf",
+    "Arquivos/0b30d167-52de-409a-b056-50bd2f5f23b3_anotado.pdf",
+    "Arquivos/e620b175-53ed-40d4-afa5-6f6b79bd827f_anotado.pdf",
+    "Arquivos/d9348f68-8e2b-4dd9-befd-926aa4b9aece_anotado.pdf",
+    "Filosofia/Iluminismo.md",
     "História/Idade Média.md",
     "Idade Média.md",
     "Biologia/Tecido Nervoso.md",
@@ -209,8 +215,6 @@
     "Física/Sequência de Galileu.md",
     "Física/Lançamento Vertical para Cima.md",
     "Física/Força Elástica.md",
-    "Física/Colisões.md",
-    "Física/Força Centrípeta.md",
     "Arquivos/Pasted image 20260410210931.png",
     "Arquivos/Pasted image 20260410210256.png",
     "Arquivos/Pasted image 20260410205746.png",
@@ -222,11 +226,6 @@
     "Arquivos/d1e5e240-2d97-4931-8403-965042573d38_anotado.pdf",
     "Arquivos/9f6124d3-d479-451f-b060-2586332146f9_anotado.pdf",
     "Arquivos/ff662c9a-7db7-48fa-9368-c391b666a268_anotado.pdf",
-    "Arquivos/811bc66a-f4a0-4af9-8ab9-07ecc3297284_anotado.pdf",
-    "Arquivos/Pasted image 20260404030240.png",
-    "Arquivos/48ddae21-d8a2-436a-89f2-27deec0244b0-estequiometria.pdf",
-    "Arquivos/161aa7bd-7537-460c-bb71-f64d0995d288_anotado.pdf",
-    "Arquivos/9338b341-3c85-4110-af89-77fd66eed28a_anotado.pdf",
-    "Arquivos/56fe1464-80e8-4d8a-9145-5269c9fc24fc-08.-excesso-e-limitante_anotado.pdf"
+    "Arquivos/Pasted image 20260404030240.png"
   ]
 }
