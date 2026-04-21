@@ -58,3 +58,35 @@ Crise no Primeiro Reinado
 - Com troca de Ministros, o imperador desagradou as Elites.
 	- Um jornalista crítico do governo de Dom Pedro é assassinado - povo acusa Dom Pedro.
 - D. Pedro abdica o trono em favor do seu filho, Dom Pedro II com 5 anos incompletos.
+
+Regência
+- Grupos Políticos
+	- Restauradores ou Caramurus: queriam restaurar o Primeiro Reinado, defendendo o retorno de D. Pedro I ao Brasil.
+	- Liberais Moderados ou Chimangos: defendiam a Monarquia Constitucional
+	- Liberais Exaltados: Queriam a descentralização (fim do moderador).
+- D. Pedro II ganha o título de imperador constitucional em sua menoridade.
+- Tutor de D. Pedro: José Bonifácio.
+- É instaurado a regência Trina Permanente
+	- Ministro da Justiça: Padre Diego Feijó
+	- Eleita em Assembleia Geral
+	- Avanço Liberal.
+		- Criação da Guarda Nacional: criada em 1831 para conter levantes contra a Regência.
+		- Lei Feijó: "Proibiu" o tráfico de escravizados no Atlântico - pressionada pela Inglaterra.
+		- Código de Processo Criminal: Cria a função do Juiz de Paz e o Júri Popular.
+		- Ato Adicional: Adição a constituição para controlar o período Regencial - Criação das Assembleias, Suspensão do poder Moderador, Criação do município neuro (Rio de Janeiro) e a criação da Regência Una.
+	- Regência Una: Feijó é eleito.
+		- Visão mais Liberal
+		- Eclosão de várias revoltas pelo Império
+		- Opositores culpam Feijó pelas rebeliões
+		- Renunciou em 1837
+		- Fim do Avanço Liberal.
+	- Regência Una
+		- Comandada por Pedro de Araújo Lima (Conservador) - Regresso Conservador.
+		- Varias revoltas acontecendo.
+		- Contava com o apoio das Elites
+		- Restrição dos poderes providenciais
+		- Criação da Li Interpretativa - anula o ato adicional do Feijó.
+	- Fim do Período Regencial
+		- Clube da Maioridade: Movimento político liderado pelos liberais com o objetivo de antecipar a maioridade de Dom Pedro II. 
+		- Mesmo contrário ao texto constitucional, D Pedro II é entronado com 14 anos.
+		- Golpe da Maioridade.

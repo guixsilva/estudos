@@ -28,3 +28,6 @@ Princípios do Iluminismo
 
 Impacto Histórico
 - As ideias do Iluminismo moldaram a Declaração de Direitos e influenciaram movimentos de independência, formando a base de muitos sistemas políticos contemporâneos.
+
+# Contratualismo
+![[bfcb2f07-c003-43d3-8ab0-94b039fcc2de.pdf]]

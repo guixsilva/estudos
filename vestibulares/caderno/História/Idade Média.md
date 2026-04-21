@@ -144,3 +144,82 @@ Cultura e Religião
 Fim da Idade Média
 - Transição para o Renascimento: Fatores como as Cruzadas e a Peste Negra influenciaram o fim do feudalismo, levando à formação de estados nacionais e à ascensão da burguesia.
 
+# Baixa Idade Média
+
+Contexto Geral da Baixa Idade Média:
+- Período entre os séculos XI e XV.
+- Foco na crise do feudalismo e transformações sociais e econômicas.
+- As Cruzadas serão discutidas na próxima aula.
+
+Divisão da Baixa Idade Média:
+- Fase de Expansão (séculos XI-XIII): crescimento populacional, urbano e comercial.
+- Fase de Crise (séculos XIV-XV): marcada por fomes, pestes e guerras.
+
+Primeira Fase: Expansão:
+- Impulsionada pelo aumento das culturas agrícolas, renascimento urbano e fortalecimento da burguesia.
+
+Transformações na Primeira Fase:
+- Novas técnicas agrícolas e utilização de terras ampliadas para aumentar a produção.
+
+Consequências do Crescimento Econômico:
+- Surgimento da burguesia, com desenvolvimento do comércio e revitalização das cidades.
+
+As Cruzadas:
+- Tentativa de conquistar novas terras, especialmente Jerusalém.
+- Organizadas a partir do Concílio de Clermont em 1095.
+
+Consequências das Cruzadas:
+- Renascimento do comércio e fortalecimento do poder real, além de mudanças sociais significativas.
+
+Segunda Fase: Crise:
+- Caracterizada por crises como fome e a Peste Negra.
+- Consequências incluem mortandade e queda da população.
+
+Crise do Século XIV:
+- Fome devido à incapacidade de produção agrícola e mudanças climáticas.
+- Peste Negra dizimou cerca de um terço da população europeia.
+
+Revoltas Camponesas:
+- Eclodiram devido à exploração e escassez de alimentos, questionando a relação servil.
+
+Guerra dos Cem Anos:
+- Conflito entre França e Inglaterra por questões de posse de terras e sucessão.
+
+ Formação das Monarquias Nacionais:
+- Centralização do poder e novas alianças entre reis e burguesia.
+
+Formação da Monarquia Portuguesa:
+- Afonso Henriques consolidou o Estado português após a Guerra de Reconquista.
+
+Formação da Monarquia Espanhola:
+- Casamento de Isabel de Castela e Fernando de Aragão uniu reinos.
+
+![[0bc6b3c8-ccf5-4106-b508-c7a624ca6b17-33.-baixa-idade-media.pdf]]
+
+# Cruzadas
+
+Conceito e Contexto
+- Cruzada: Movimento militar com inspiração cristã, visando conquistar Jerusalém, que estava sob domínio muçulmano.
+- Objetivos: Recuperar a Terra Santa e unificar os cristãos, além de aliviar a tensão social e econômica na Europa.
+
+Antecedentes
+- Aumento populacional e crise de terras na Europa geraram uma busca por novas terras e riquezas.
+- A proibição da peregrinação cristã pelos turcos seljúcidas em 1071 alarmou a população, motivando o pedido de ajuda do Imperador Bizantino ao Papa Urbano II.
+
+Causas das Cruzadas
+- Interesses políticos e econômicos dos imperadores bizantinos e da Igreja.
+- A questão da primogenitura, que levou a uma nobreza sem terras a buscar novas oportunidades.
+- O desejo de reabrir rotas comerciais com o Oriente.
+
+Principais Expedições
+1. Primeira Cruzada (1095-1099): A única a conquistar Jerusalém, mas somente temporariamente.
+2. Segunda Cruzada (1147-1149): Fracasso na recuperação de Jerusalém, mas conquista de Lisboa.
+3. Terceira Cruzada (1189-1192): Acordo entre Ricardo Coração de Leão e Saladino para permitir peregrinações a Jerusalém.
+4. Quarta Cruzada (1202-1204): Motivada por interesses comerciais, resultou na conquista de Constantinopla.
+
+Consequências
+- Econômicas: Renascimento do comércio no Mediterrâneo e fortalecimento do poder real.
+- Sociais: Abertura de rotas comerciais e intercâmbio cultural entre Ocidente e Oriente.
+- Religiosas: A imagem da Igreja e dos cruzados ficou abalada devido ao fracasso dos objetivos militares.
+
+![[31614da8-2fed-4279-9f58-cc96f15e45cc-34.-as-cruzadas.pdf]]
