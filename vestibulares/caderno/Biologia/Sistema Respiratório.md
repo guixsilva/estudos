@@ -27,3 +27,32 @@ Componentes do Sistema Respiratório Humano
 		- Inspiração: ativa, por contração dos músculos respiratórios
 		- Expiração: passiva, relaxamento dos músculos respiratórios.
 			- Expiração forçada: soprar, tossir... se torna ativa.
+
+![[Pasted image 20260423225104.png]]
+Funcionamento do Sistema Respiratório
+- Hematose: trocas gasosas entre o Ar e o sangue; ocorre nos alvéolos pulmonares, com muitas dobras.
+	- Enfisema pulmonar: calor da fumaça do fumo - destruição das paredes intermediárias dos alvéolos, ocorrendo a perca das dobras dos alvéolos, diminuindo a superfície de hematose. 
+	- Fibrose: perca da elasticidade dos pulmões.
+	- Alvéolos são constituídos de tecido epitelial simples pavimentosos.
+	- Pneumócitos: constituem a parede do alvéolos e também reduz a tensão superficial nos alvéolos para que eles não colapsem/fechem/colem.
+	- Membrana respiratória: conjunto de estruturas atravessadas pelos gases respiratórios na hematose
+		- Pneumócitos: parede do alvéolos pulmonar
+		- Células endoteliais: parede dos capitares sanguíneos
+		- Ambos constituídos de células achatadas. 
+	- Por diferença parcial dos gases por difusão simples (do meio hiper tônico mais concentrado em gases para o ambiente hipotônico, com pouca concentração de gases. )
+- O ar (O2 e CO2) só podem ser transportados no sangue quando associados à hemácias
+- Sangue que chega nos pulmões é o sangue venosos: muito CO2 e pouco O2
+
+Transporte de Gases no Sangue
+- Transporte de 02
+	- 97% Oxiemoglobina: O2 ligado ao ferro da molécula de hemoglobina de modo instável.
+	- 3% dissolvido no plasma
+- Transporte de CO2
+	- 70% Bicarbonato no Plasma
+	- 23% Carboemoglobina - CO2 ligado a aminoácidos da Hemoglobina de forma instável. 
+	- Hemoglobina hidrogenada evita a queda intensa de pH. 
+
+Controle da Respiração
+- Controle é feito pelo Bulbo Raquidiano, de controle voluntário mas automatizado.
+- Caso prender a respiração ou fazer atividades físicas, o CO2 acumula no corpo
+	- Pouco CO2 no sangue inibe a ação do bulbo raquidiano. Caso tenha muito CO2 (Caso de afogamento) estimula a ação involuntária do bulbo raquidiano.
