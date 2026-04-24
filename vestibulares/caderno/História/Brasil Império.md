@@ -59,7 +59,7 @@ Crise no Primeiro Reinado
 	- Um jornalista crítico do governo de Dom Pedro é assassinado - povo acusa Dom Pedro.
 - D. Pedro abdica o trono em favor do seu filho, Dom Pedro II com 5 anos incompletos.
 
-Regência
+# Regência
 - Grupos Políticos
 	- Restauradores ou Caramurus: queriam restaurar o Primeiro Reinado, defendendo o retorno de D. Pedro I ao Brasil.
 	- Liberais Moderados ou Chimangos: defendiam a Monarquia Constitucional
@@ -90,3 +90,23 @@ Regência
 		- Clube da Maioridade: Movimento político liderado pelos liberais com o objetivo de antecipar a maioridade de Dom Pedro II. 
 		- Mesmo contrário ao texto constitucional, D Pedro II é entronado com 14 anos.
 		- Golpe da Maioridade.
+
+Revoltas do Período Regencial
+- Guerra dos Farrapos
+	- Acontece no Sul do Brasil
+	- A revolta mais longa do civil.
+	- Revolta separatista
+	- Grupo responsável pela revolta: grandes latifundiários produtores de charque.
+	- Elite insatisfeita com o centralismo Político (São Paulo - Rio de Janeiro)
+	- Motivos da revolta:
+		- Taxação sobre o gado - consequentemente para o charque - porém a taxa não atingia o gado de outros países.
+	- Sucessão de fatos do Conflito
+		- Tomada de Porto Alegre por Bento Rodrigues
+		- Proclamação da República Rio Grandense
+		- Governo reage com sansões econômicas e envio de tropas.
+		- Bento Rodrigues foge para a Bahia
+		- Rebeldes avançam para Santa Catarina e conquista algumas cidades.
+		- Captura de escravizados de latifundiários contrários a revolta, prometendo liberdade.
+		- Após o Golpe da Maioridade, o governo começa  a negociar com os revoltosos.
+		- Tratado de Ponche Verde: Fim do conflito e anistia aos revoltosos, taxa sobre charques de outros países.
+	- 
