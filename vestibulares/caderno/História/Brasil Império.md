@@ -109,4 +109,42 @@ Revoltas do Período Regencial
 		- Captura de escravizados de latifundiários contrários a revolta, prometendo liberdade.
 		- Após o Golpe da Maioridade, o governo começa  a negociar com os revoltosos.
 		- Tratado de Ponche Verde: Fim do conflito e anistia aos revoltosos, taxa sobre charques de outros países.
-	- 
+- Cabanagem
+	- Revolta aconteceu no Pará
+	- Envolveram os Cabanos e Grandes fazendeiros
+		- Cabanos: melhores condições de vida
+		- Grandes Fazendeiros: altos impostos e centralismo - não aceitavam o presidente de província indicado
+	- Sucessão de fatos:
+		- José Mariano é impedido de assumir como presidente da Província
+		- Lobo de Souza, novo indicado, tentou conciliar, mas sem êxito
+		- Manuel Vinagre (líder dos fazendeiros) é morto pelas tropas imperiais.
+		- Félix Malcher conquista a sede do governo em Belém
+		- Félix não rompe com o império. Sendo assim, deposto e assassinado.
+		- Francisco Vinagre assumem o poder.
+		- Governo Regencial responde a revolta com tropas.
+		- Massacre dos cabanos.
+- Balaiada
+	- Revolta aconteceu no Maranhão e parte do Piauí
+	- Vários grupos sociais
+		- Divergência entre a Elite: Liberais (Bem-te-vis) e Conservadores (cabanos)
+		- Conservadores tomando os cargos de prefeitos, começando uma perseguição contra os liberais.
+		- Classe social popular começam a apoiar os liberais.
+	- Manuel Francisco dos Anjos Ferreira vira um grande líder popular.
+	- Sucessão de fatos
+		- Formação de um governo em Caxias (Vila do Maranhão)
+		- Repressão violenta do governo regencial
+		- Derrota dos balaios e escravizados - 3 mil mortos
+- Sabinada
+	- Aconteceu na Bahia
+	- Revolta nos setores liberais contra o centralismo político e recrutamento militar.
+	- Líder: Francisco Sabino.
+	- Proclamação da República Baiana (até a maioridade de D. Pedro II)
+	- Violenta repressão regencial - Sabino teve como pena o Degredo (saída da província)
+- Revolta dos Malês
+	- Acontece em Salvador - Bahia
+	- Malês: nomes dados a africanos muçulmanos
+	- Revolta escravista. 
+	- Insatisfação pela repressão das autoridades contra as manifestações religiosas.
+	- Insatisfação contra a escravidão.
+	- Um levante foi planejado porém o plano foi denunciado por escravos libertos.
+	- Governo regencial repreende a revolta com muita violência - penas de chibatadas, deportações e morte.

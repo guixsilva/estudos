@@ -223,3 +223,66 @@ Consequências
 - Religiosas: A imagem da Igreja e dos cruzados ficou abalada devido ao fracasso dos objetivos militares.
 
 ![[31614da8-2fed-4279-9f58-cc96f15e45cc-34.-as-cruzadas.pdf]]
+
+
+# Baixa Idade Média
+
+Renascimento comercial e Urbano
+- Com o aumento da produtividade, não havia necessidade de tanta gente na agricultura
+- Grande aumento da população
+- Início do comércio de excedentes dos feudos.
+- Esgotamento das terras férteis: Camponeses se viram sem alternativa de trabalho ou emprego
+- As cruzadas ajudaram a expandir as atividades comerciais - criação de entrepostos comerciais e abastecedores. 
+- Consequências
+	- Contato com o Oriente - gosto por artigos de luxo orientais, como tapetes e temperos.
+	- Enriquecimento dos Nobres
+- Feiras comerciais: locais de compra e venda de produtos
+- Reaparecimento da moeda
+- Atividades bancárias - renascimento bancário com trocas de dinheiro, financiamento e empréstimos.
+- Maior consumo de produtos na Europa
+- Nascimento das cidades em volta das feiras comerciais.
+- Localização das principais feiras: Champanhe na França e e Flandes na Bélgica.
+- Criação das Ligas ou Hansas: defensoras dos interesses dos comerciantes - criação de regras, proteção comercial.
+- Feudalismo de desintegrando.
+- Criação das Corporações ou Guildas: para defender seus direitos, artesões começam a se organizar em corporações de ofício ou guildas de artesões.
+	- Controlar a produção e a qualidade
+	- Defender os interesses dos artesões frente ao governo da cidade
+	- Garantir o monopólio de uma atividade profissional.
+	- Aprendizes: aprendendo o ofício em oficinas das corporações de ofício
+- Renascimento urbano
+	- Chamado burgos - cercadas por muralhas
+	- Os habitantes dos burgos passam a ser comerciantes e artesões, os burgueses.
+	- Crescimento social da burguesia.
+	- Cidades ganham prestígio econômico e maior poder
+	- Movimento comunal: movimento que pediam a independência das cidades de seus feudos.
+		- Pacífica: carta de franquia, na qual houvia o pagamento do senhor feudal pelos burgueses.
+		- Agressivo: pelo uso de armas, principalmente com alianças de burgueses com reis. 
+	- Burgueses começam a controlar os burgos
+		- Elaboravam leis e criavam tributos
+		- Controlavam impostos e construções de obras públicas
+		- Tinha política própria
+	- As cidades se tornam atrativas para servos camponeses, provocando um êxito rural.
+	- Aliança rei + burguesia.
+
+![[e61422d2-d544-4263-ae0d-c432e1f46cf3-35.-renascimento-comercial-e-urbano.pdf]]
+
+Formação das Monarquias nacionais
+- Aliança de interesse mútuo entre rei e burguesia
+	- Rei
+		- Desenvolvimento do comércio
+		- Arrecadar mais impotos
+		- Criação de exército
+		- Centralização política e econômica
+	- Burguesia
+		- Segurança
+		- Unidade Nacional de medidas
+		- Condições para a conquista de mercados
+- Com o fracasso das cruzadas, os nobres empobrecem
+- Os nobres se aproximam dos reis buscando cargos na corte, postos no exército real e ajuda militar contra revoltas camponesas. 
+- Porém, os camponeses começam a ver o rei como alguém capaz de protegê-los contra abusos da nobreza, servindo como mediador dessas disputas. 
+- O rei centraliza seu poder com apoio de todos, menos do clero.
+- Rei começa a interferir no poder da igreja, que passa a enfraquecer o poder do clero e promover a descentralização.
+
+![[c168d0b3-322a-4ef4-9357-d19fe6365fa2-36.-formacao-da-monarquia-francesa.pdf]]
+![[f6a39e6f-005d-490c-8c54-df4012dc7603-37.-formacao-da-monarquia-inglesa.pdf]]
+![[6b38e56d-0d8f-4b44-af91-242c6d071c7d-38.-formacao-da-monarquia-portuguesa.pdf]]
