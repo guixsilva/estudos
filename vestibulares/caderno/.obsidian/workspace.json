@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "480b5823eeff9f64",
+        "id": "6aac40f500412f00",
         "type": "tabs",
         "children": [
           {
-            "id": "d10281cb1b59720a",
+            "id": "831dccf783d57632",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Filosofia/Auguste Comte.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Auguste Comte"
+              "title": "Nova aba"
             }
           }
         ]
@@ -184,10 +180,12 @@
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "d10281cb1b59720a",
+  "active": "831dccf783d57632",
   "lastOpenFiles": [
-    "6ce09a68-ab92-493c-9704-1c40fbc93ea5.pdf",
+    "Geografia Plana.md",
+    "6ea1f070-8ac9-45b3-be68-2e6603d68784-4.-geometria-plana_anotado.pdf",
     "Filosofia/Auguste Comte.md",
+    "Arquivos/6ce09a68-ab92-493c-9704-1c40fbc93ea5.pdf",
     "Filosofia/Schopenhauer.md",
     "Arquivos/8f72ab38-491c-47b9-9ac7-de3ef15a2c8f.pdf",
     "Filosofia/Marx.md",
@@ -206,8 +204,6 @@
     "Arquivos/Pasted image 20260421215859.png",
     "Biologia/Sistema Endócrino.md",
     "Arquivos/Física-Estática-1.pdf",
-    "Arquivos/0bc6b3c8-ccf5-4106-b508-c7a624ca6b17-33.-baixa-idade-media.pdf",
-    "Arquivos/31614da8-2fed-4279-9f58-cc96f15e45cc-34.-as-cruzadas.pdf",
     "Física/Estatística.md",
     "Filosofia/Iluminismo.md",
     "Arquivos/Pasted image 20260420211039.png",
@@ -230,7 +226,6 @@
     "Física/1. Exercicios.md",
     "Biologia/Bioenergética.md",
     "Biologia/Tecido ósseo.md",
-    "Biologia/Tecido Cartilaginoso.md",
-    "Física/Gravitação.md"
+    "Biologia/Tecido Cartilaginoso.md"
   ]
 }
