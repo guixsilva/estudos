@@ -1,0 +1,43 @@
+
+Líquido Circulante
+- Sangue: com pigmentos respiratórios
+	- Proteínas coloridas associadas a metais para transportar oxigênio no sangue
+	- Ex: animais e humanos
+- Hemolinfa: sem pigmentos respiratórios
+	- Branco leitosa, não transporta gases, transportando somente nutrientes, água hormônios e excrementos
+	- Ex: insetos - respiração traqueal que conduz oxigênio direto aos tecidos sem passar pelo sistema circulatório.
+
+Componentes do sistema Circulatório
+- Líquido Circulante
+	- Circulação aberta ou Lacunar: líquido (sangue ou hemolinfa) circula dentro e fora dos vasos, sem capilares, ocorrendo em espaços chamados lacunas ou hemoceles. Baixa pressão de circulação - baixo metabolismo.
+		- Em insetos, a respiração traqueal garante o alto metabolismo
+	- Circulação fechada: líquido (sangue) circulando somente dentro de vasos, realizando trocas metabólicas em capilares. Alta pressão de circulação - alto metabolismo.
+			- Sangue arterial: com muito oxigênio e pouco CO2, com cor vermelha vívida.
+			- Sangue Venoso: Muito gás carbônico e pouco oxigênio, com cor vermelha azulada/vinho. 
+		- ![[Pasted image 20260428205241.png]]
+		- Em peixes: coração bicavitário com um átrio e ventrículo. Circulação simples, ou seja, somente com sangue venoso no coração. Ectotermos (Não produzem calor - adquirem calor do ambiente)
+		- Em anfíbios: Coração tricavitário (com 2 átrios e 1 ventrículo) dividido em duas partes: No lado esquerdo com sangue arterial e o Coração direito com sangue venoso.  Ectotermos (Não produzem calor - adquirem calor do ambiente)
+		- Répteis: Coração tricavitário (Com 2 átrios, 1 ventrículo), com circulação dupla e incompleta. Ectotermos (Não produzem calor - adquirem calor do ambiente).
+		- Aves e Mamíferos: Coração Tetra cavitário (Com 2 átrios e 2 Ventrículos) com circulação completa - alta pressão sanguínea nos tecidos. Endotérmico (produção de calor próprio - metabolismo)
+			- Artérias: vasos eferentes (saem) do coração, associados aos ventrículos. A maioria apresenta sangue arterial, mas artérias pulmonares e umbilicais transportam sangue venosos
+			- Veias: vasos sanguíneos aferentes (chegam no coração), associados aos átrios. A maioria apresenta sangue venoso, mas veias pulmonares e umbilicais transportam sangue arterial. 
+			- A crossa/arco da aorta vai para a esquerda.
+- Vasos
+	- Artérias: vasos eferentes (saem) do coração, associados aos ventrículos. Pressão maior, por isso tem uma camada muscular espessa para suportar essa pressão. Pulsam no ritmo cardíaco.
+	- Arteríolas: artérias de calibre menor. Pressão menor
+	- Vênulas: Veias de calibre menor.
+	- Veias: Vasos sanguíneos aferentes (chegam no coração), associados aos átrios. Pressão quase nula. Camada muscular fina.
+		- Devido a baixa pressão, As contrações dos músculos esqueléticos dos membros impulsionam o sangue pelas veias.
+		- Válvulas venosas impedem refluxo de sangue, sempre no sentido unidirecional.
+	- Capilares: compostos com tecido epitelial simples pavimentoso (com 1 camada de células achatadas). Libera oxigênio e recolhe carbono dos músculos
+	- Coração Humano
+		- ![[Pasted image 20260428231245.png]]
+		- Vaso sanguíneo modificado, com 3 camadas.
+			- Pericárdio: camada mais externa, membrana serosa (reveste o órgão por fora) e constituído por tecido epitelial e conjuntivo.
+			- Miocárdio: camada média, mais espessa e tecido muscular estriado cardíaco.
+			- Endocárdio: a camada mais interna, de tecido conjuntivo e tecido epitelial. Impermeável a trocas com o sangue, sendo sua nutrição realizada pelo lado de fora, pela chegada de sangue por artérias coronárias no pericárdio.
+		- Situações
+			- Angina Pectoris: dor no miocárdio por acúmulo de ácido láctico por fermentação láctica devido à falta de O2.
+		- Controle do coração: Controlado pelo nódulo sinoatrial, o marca passo do coração
+			- Nódulo Atrioventricular: atrasa o impulso nervoso entre átrios e ventrículos para que os átrios contraem antes dos ventrículos. 
+- Bomba propulsora.

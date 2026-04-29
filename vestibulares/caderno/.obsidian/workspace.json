@@ -11,10 +11,14 @@
             "id": "831dccf783d57632",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Biologia/Sistema Circulatório.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Sistema Circulatório"
             }
           }
         ]
@@ -180,10 +184,14 @@
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "831dccf783d57632",
+  "active": "84580609061d1f49",
   "lastOpenFiles": [
-    "Geografia Plana.md",
-    "6ea1f070-8ac9-45b3-be68-2e6603d68784-4.-geometria-plana_anotado.pdf",
+    "Arquivos/Pasted image 20260428231245.png",
+    "Arquivos/Pasted image 20260428205241.png",
+    "Arquivos/Pasted image 20260428205228.png",
+    "Biologia/Sistema Circulatório.md",
+    "Matemática/Geografia Plana.md",
+    "Arquivos/6ea1f070-8ac9-45b3-be68-2e6603d68784-4.-geometria-plana_anotado.pdf",
     "Filosofia/Auguste Comte.md",
     "Arquivos/6ce09a68-ab92-493c-9704-1c40fbc93ea5.pdf",
     "Filosofia/Schopenhauer.md",
@@ -219,13 +227,10 @@
     "Química/Unidades de Concentração.md",
     "Idade Média.md",
     "Biologia/Tecido Nervoso.md",
-    "Arquivos/Pasted image 20260413194506.png",
-    "Arquivos/Pasted image 20260413192006.png",
     "História/Brasil Colonial.md",
     "Gramática/Advérbio.md",
     "Física/1. Exercicios.md",
     "Biologia/Bioenergética.md",
-    "Biologia/Tecido ósseo.md",
-    "Biologia/Tecido Cartilaginoso.md"
+    "Biologia/Tecido ósseo.md"
   ]
 }
