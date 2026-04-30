@@ -148,3 +148,44 @@ Revoltas do Período Regencial
 	- Insatisfação contra a escravidão.
 	- Um levante foi planejado porém o plano foi denunciado por escravos libertos.
 	- Governo regencial repreende a revolta com muita violência - penas de chibatadas, deportações e morte.
+
+# Segundo Reinado
+- Golpe da maioridade inicia o segundo reinado - volta do poder moderador.
+- Nomeação do gabinete da Maioridade com os liberais
+	- Convocação das eleições para a câmera dos deputados
+	- Violência e fraudes levam os liberais a vitória
+	- Dom Pedro cria um ministério conservador, que começa a perseguir os liberais.
+
+Revoltas Liberais
+- Tentando pacificar as relações com as elites, o imperador anistiou participantes de revoltas regenciais.
+- Em SP e MG eclodiram revoltas em oposição ao ministério conservador
+- O exército reprime os levantes e prende os manifestantes
+
+Criação do Parlamento às Avessas
+- Liberais (luzias) defendiam a descentralização política
+- Conservadores (saquaremas) defendiam a centralização política.
+	- Ambos defendiam o direito de propriedade, a ordem social vigente e escravidão.
+- Foi criado o Parlamentarismo "Às avessas" (ao contrário)
+- Dom Pedro II elege o primeiro ministro (presidente do conselho de ministro). O primeiro Ministro monta o ministério, realizando revezamento entre os partidos.
+
+Revolução Praieira
+- Última grande rebelião provincial. Realizada em Pernambuco
+- Partido Praieiro conseguiu controlar a política local, desagradando o partido conservador.
+- Queda do líder do partido praieiro Chichorro da Gama. Estopim do movimento
+- Crise política com cinco presidentes nomeados em sete meses
+- Influência do socialismo e liberalismo na revolução Praieira.
+- Repreensão do império, houvendo fuzilamento e prisão dos rebeldes, porém anistiados anos depois.
+- Era das conciliações
+	- Ministério de conciliações, montado pelo primeiro ministro, promovendo uma coalização de conservadores e liberais
+	- Alternância entre liberais e conservadores. 
+
+![[8c6d71bd-d11b-4b54-9f23-6722785ceb77-09.segundo-reinado-revolucao-praieira-e-era-das-conciliacoes.pdf]]
+
+Economia
+- Café
+	- Começa a ser consumida pela elite francesa.
+	- Primeiras mudam chegaram em 1727, pós mineração, com produção voltada ao consumo doméstico.
+	-  O café demora para desenvolver, atingindo o auge no segundo reinado.
+	- Declínio a partir de 1870, com busca de novas áreas.
+	- Início do uso de mão de obra imigrante
+	- Tarifa Alves Branco: protecionismo econômico com aumento das taxas de importados buscando um incentivo maior para produção desses produtos dentro do país. Taxas que variam 30% e 60%.

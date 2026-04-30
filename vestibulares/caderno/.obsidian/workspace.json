@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6aac40f500412f00",
+        "id": "4d5992edecd5dcb2",
         "type": "tabs",
         "children": [
           {
-            "id": "831dccf783d57632",
+            "id": "a88ca75e9ec36b71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Sistema Circulatório.md",
+                "file": "História/Idade Média.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sistema Circulatório"
+              "title": "Idade Média"
             }
           }
         ]
@@ -186,10 +186,15 @@
   },
   "active": "84580609061d1f49",
   "lastOpenFiles": [
+    "Arquivos/29f4c1f3-c121-4fd1-b008-e71ae555c69e-39.-formacao-da-monarquia-espanhola.pdf",
+    "História/Brasil Império.md",
+    "Arquivos/8c6d71bd-d11b-4b54-9f23-6722785ceb77-09.segundo-reinado-revolucao-praieira-e-era-das-conciliacoes.pdf",
+    "Biologia/Sistema Digestório.md",
+    "Arquivos/Pasted image 20260429203812.png",
+    "Biologia/Sistema Circulatório.md",
     "Arquivos/Pasted image 20260428231245.png",
     "Arquivos/Pasted image 20260428205241.png",
     "Arquivos/Pasted image 20260428205228.png",
-    "Biologia/Sistema Circulatório.md",
     "Matemática/Geografia Plana.md",
     "Arquivos/6ea1f070-8ac9-45b3-be68-2e6603d68784-4.-geometria-plana_anotado.pdf",
     "Filosofia/Auguste Comte.md",
@@ -206,12 +211,10 @@
     "Arquivos/c168d0b3-322a-4ef4-9357-d19fe6365fa2-36.-formacao-da-monarquia-francesa.pdf",
     "Arquivos/e61422d2-d544-4263-ae0d-c432e1f46cf3-35.-renascimento-comercial-e-urbano.pdf",
     "Filosofia/Filosofia Medieval.md",
-    "História/Brasil Império.md",
     "Biologia/Sistema Respiratório.md",
     "Arquivos/Pasted image 20260423225104.png",
     "Arquivos/Pasted image 20260421215859.png",
     "Biologia/Sistema Endócrino.md",
-    "Arquivos/Física-Estática-1.pdf",
     "Física/Estatística.md",
     "Filosofia/Iluminismo.md",
     "Arquivos/Pasted image 20260420211039.png",
@@ -222,15 +225,12 @@
     "Biologia/Sistema Nervoso.md",
     "Arquivos/Pasted image 20260416231856.png",
     "Arquivos/Pasted image 20260416231403.png",
-    "Arquivos/Pasted image 20260416211034.png",
-    "Arquivos/Pasted image 20260416205801.png",
     "Química/Unidades de Concentração.md",
     "Idade Média.md",
     "Biologia/Tecido Nervoso.md",
     "História/Brasil Colonial.md",
     "Gramática/Advérbio.md",
     "Física/1. Exercicios.md",
-    "Biologia/Bioenergética.md",
-    "Biologia/Tecido ósseo.md"
+    "Biologia/Bioenergética.md"
   ]
 }

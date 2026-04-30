@@ -286,3 +286,6 @@ Formação das Monarquias nacionais
 ![[c168d0b3-322a-4ef4-9357-d19fe6365fa2-36.-formacao-da-monarquia-francesa.pdf]]
 ![[f6a39e6f-005d-490c-8c54-df4012dc7603-37.-formacao-da-monarquia-inglesa.pdf]]
 ![[6b38e56d-0d8f-4b44-af91-242c6d071c7d-38.-formacao-da-monarquia-portuguesa.pdf]]
+
+![[29f4c1f3-c121-4fd1-b008-e71ae555c69e-39.-formacao-da-monarquia-espanhola.pdf]]
+
