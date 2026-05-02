@@ -289,3 +289,33 @@ Formação das Monarquias nacionais
 
 ![[29f4c1f3-c121-4fd1-b008-e71ae555c69e-39.-formacao-da-monarquia-espanhola.pdf]]
 
+![[39a1e966-26a8-48ec-8fd2-0d5d3b695216-40.-sacro-imperio-romano-germanico.pdf]]
+
+# Crise no Século XIX - Baixa Idade Média
+Após crescimento das cidades e ampliação da agricultura.
+
+Início da Crise
+- Fome e da Peste Negra
+- Diminuição brusca da produção das agriculturas
+- Falta de planejamento no crescimento das cidades
+- Estiagens, alteração climática, aumento dos preços dos alimentos.
+
+Consequências
+- Perca de prestígio da Igreja Católica, com questionamentos e início de movimentos heréticos.
+- Culpava a corrupção da igreja pela fome
+- Aumento da violência e criminalidade.
+- Questionamentos nos governos medievais.
+- Muitos mortos pela peste negra. Os que sobreviveram estavam fracos.
+- Revoltas camponesas (camponeses matam os nobres do campo).
+
+Guerra dos Cem Anos
+- Conflito armado entre França e Inglaterra.
+- Motivado por
+	- Posse da região produtora de Lã - Flandres
+	- Questão sucessória após a morte do rei Frances - lei sálica.
+	- Relação de desconfiança entre os monarcas dos dois reinos
+	- Presença de Joana D'Arc.
+- Consequências
+	- Formação dos estados Nacionais da Inglaterra e da França
+	- Governos centralizados
+	- Atrasou a expansão marítmo comercial francesa e inglesa. 

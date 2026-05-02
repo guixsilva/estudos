@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a88ca75e9ec36b71",
+            "id": "6fdcfa5487c7d0f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "História/Idade Média.md",
+                "file": "Filosofia/John Stuart Mill.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Idade Média"
+              "title": "John Stuart Mill"
             }
           }
         ]
@@ -186,6 +186,12 @@
   },
   "active": "84580609061d1f49",
   "lastOpenFiles": [
+    "Arquivos/e771a6e8-4fe0-4c1f-bcee-84740d8fca14.pdf",
+    "Filosofia/Utilitarismo.md",
+    "Filosofia/John Stuart Mill.md",
+    "Arquivos/b6c72956-86e3-439d-a0bc-349112c1bf6e.pdf",
+    "História/Idade Média.md",
+    "Arquivos/39a1e966-26a8-48ec-8fd2-0d5d3b695216-40.-sacro-imperio-romano-germanico.pdf",
     "Arquivos/29f4c1f3-c121-4fd1-b008-e71ae555c69e-39.-formacao-da-monarquia-espanhola.pdf",
     "História/Brasil Império.md",
     "Arquivos/8c6d71bd-d11b-4b54-9f23-6722785ceb77-09.segundo-reinado-revolucao-praieira-e-era-das-conciliacoes.pdf",
@@ -205,11 +211,7 @@
     "Arquivos/0365024b-c75e-4278-aa9c-5311ab14a203.pdf",
     "Filosofia/Hegel.md",
     "Arquivos/24488b19-353d-403b-8516-7a037fef368f.pdf",
-    "História/Idade Média.md",
     "Arquivos/6b38e56d-0d8f-4b44-af91-242c6d071c7d-38.-formacao-da-monarquia-portuguesa.pdf",
-    "Arquivos/f6a39e6f-005d-490c-8c54-df4012dc7603-37.-formacao-da-monarquia-inglesa.pdf",
-    "Arquivos/c168d0b3-322a-4ef4-9357-d19fe6365fa2-36.-formacao-da-monarquia-francesa.pdf",
-    "Arquivos/e61422d2-d544-4263-ae0d-c432e1f46cf3-35.-renascimento-comercial-e-urbano.pdf",
     "Filosofia/Filosofia Medieval.md",
     "Biologia/Sistema Respiratório.md",
     "Arquivos/Pasted image 20260423225104.png",
@@ -229,8 +231,6 @@
     "Idade Média.md",
     "Biologia/Tecido Nervoso.md",
     "História/Brasil Colonial.md",
-    "Gramática/Advérbio.md",
-    "Física/1. Exercicios.md",
-    "Biologia/Bioenergética.md"
+    "Gramática/Advérbio.md"
   ]
 }
