@@ -37,4 +37,18 @@ Regiões
 				- Suco Entérico
 					- Produzido no duodeno
 					- finalizar a digestão química dos alimentos, quebrando proteínas, carboidratos e lipídeos em moléculas menores para absorção.
+				- Veia Porta-Hepática
+					- Liga o intestino a fígado, que destrói substância tóxicas (destoxificação) para a veia Hepática, chegando na circulação sistêmica, transferindo nutrientes para o corpo.
+		- Intestino Grosso
+			- Absorção de substância inorgânicas (águas e sais)
+			- Para a formação de fezes.
+		- Ânus
+			- Com esfíncteres para regular a defecação.
 - Órgãos anexos: ajudam no processo de digestão. 
+
+| Hormônio         | Local de Produção | Estímulo para Liberação       | Ação Hormonal                                                        |
+| ---------------- | ----------------- | ----------------------------- | -------------------------------------------------------------------- |
+| Gastrina         | Estômago          | Proteína no estômago          | Secreção de suco gástrico                                            |
+| Enterogastrona   | Duodeno           | Ácido duoduno                 | Desliga a secreção de suco gástrico                                  |
+| Secretina        | Duodeno           | Ácido no Doodeno              | Liberação de Bicarbonato de sódio no suco pancreático                |
+| Colescistocinina | Duodeno           | Proteínas/Lipídios no duodeno | Liberação de enzimas no suco pancrático e bile pela vesícula biliar. |
