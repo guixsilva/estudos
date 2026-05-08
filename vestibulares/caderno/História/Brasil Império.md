@@ -189,3 +189,26 @@ Economia
 	- Declínio a partir de 1870, com busca de novas áreas.
 	- Início do uso de mão de obra imigrante
 	- Tarifa Alves Branco: protecionismo econômico com aumento das taxas de importados buscando um incentivo maior para produção desses produtos dentro do país. Taxas que variam 30% e 60%.
+
+Lei Eusébio de Queirós
+- Pressão inglesa contra a escravidão
+	- Inglaterra já havia acabado com o tráfico de escravizados na suas colônias em 1807.
+- A elite criticou a intervenção inglesa no tráfico de escravos
+- Entre declarar guerra contra a Inglaterra e abolir o tráfico, o ministério conservador aboliu o tráfico de escravos.
+- Africanos traficados se tornaram ilegais após a lei
+- Perca de carga e embarcações dos traficantes.
+
+Lei de Terras
+- Primeira lei que trata da propriedade privada da terra
+- Toda a terra sem escritura passa a ser considerada do estado (terras devolutas)
+- Dificultou acesso a terra (libertos e imigrantes)
+- Concentração fundiárias
+
+Surto Industrial
+- Período com início da industrialização  - período que acaba.
+- Conhecido como Era Mauá
+- Construção de Ferrovias
+- Telégrafo inaugurado
+- Gás canalizado para iluminação pública
+- Incentivo da mão de obra assalariada.
+- Imigração - necessidade de mão de obra para o café

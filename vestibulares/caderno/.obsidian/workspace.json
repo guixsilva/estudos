@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "84d75df5ffe90f0b",
+        "id": "bb89dc8274f90d58",
         "type": "tabs",
         "children": [
           {
-            "id": "1886414b9161e0cb",
+            "id": "19466e2067e05544",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Sistema Digestório.md",
+                "file": "Filosofia/Edmund Husserl.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sistema Digestório"
+              "title": "Edmund Husserl"
             }
           },
           {
-            "id": "a12f629b12b0bf5b",
+            "id": "7a6f9fc3c9591a4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistema Excretório.md",
+                "file": "Merleau-Ponty.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sistema Excretório"
+              "title": "Merleau-Ponty"
             }
           }
         ],
@@ -199,11 +199,20 @@
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "a12f629b12b0bf5b",
+  "active": "7a6f9fc3c9591a4e",
   "lastOpenFiles": [
-    "Pasted image 20260505213830.png",
+    "3a1ee588-f1e2-4754-ab4c-b4c4f6f4c8db.pdf",
+    "Filosofia/Edmund Husserl.md",
+    "Merleau-Ponty.md",
+    "ceb4261b-97fe-4370-8426-c3e2ceba07a1.pdf",
+    "História/França Equinocial.md",
+    "Filosofia/Nietzsche.md",
+    "Arquivos/272872bd-eccf-4c44-8c85-9d758afe013a.pdf",
+    "Arquivos/7460e209-73e9-4f85-acff-4f9f51a239d2.pdf",
+    "História/Brasil Império.md",
+    "Biologia/Sistema Excretório.md",
+    "Arquivos/Pasted image 20260505213830.png",
     "Biologia/Sistema Digestório.md",
-    "Sistema Excretório.md",
     "Arquivos/questions_fisica_hidrostatica_principio-de-arquimedes_availableOnPersonalizedPlan_FULL_COURSE_anotado.pdf",
     "Arquivos/8cdc4162-8bb1-489c-a44f-67521afae84b-01.-vazao_anotado.pdf",
     "Física/Princípio de Pascal e Pressão.md",
@@ -215,12 +224,8 @@
     "Arquivos/1606f451-5fa1-48e5-a2a2-47ec753925aa-03.-equacao-de-bernoulli_anotado.pdf",
     "Arquivos/d818c9ee-e8e6-4288-843a-28041cf39520-02.-equacao-da-continuidade_anotado.pdf",
     "Filosofia/John Stuart Mill.md",
-    "Arquivos/e771a6e8-4fe0-4c1f-bcee-84740d8fca14.pdf",
     "Filosofia/Utilitarismo.md",
-    "Arquivos/b6c72956-86e3-439d-a0bc-349112c1bf6e.pdf",
     "História/Idade Média.md",
-    "Arquivos/39a1e966-26a8-48ec-8fd2-0d5d3b695216-40.-sacro-imperio-romano-germanico.pdf",
-    "História/Brasil Império.md",
     "Arquivos/Pasted image 20260429203812.png",
     "Biologia/Sistema Circulatório.md",
     "Arquivos/Pasted image 20260428231245.png",
@@ -240,12 +245,7 @@
     "Filosofia/Iluminismo.md",
     "Arquivos/Pasted image 20260420211039.png",
     "Filosofia/Montesquieu.md",
-    "Filosofia/Rousseau.md",
-    "Filosofia/Introdução da Filosofia.md",
     "Arquivos/Pasted image 20260416205245.png",
-    "Biologia/Sistema Nervoso.md",
-    "Arquivos/Pasted image 20260416231856.png",
-    "Arquivos/Pasted image 20260416231403.png",
-    "Química/Unidades de Concentração.md"
+    "Arquivos/Pasted image 20260416231856.png"
   ]
 }
