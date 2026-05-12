@@ -25,7 +25,6 @@
 ![[cc9c957b-d086-4010-be55-d7f074634b13-11.-dilatacao-dos-liquidos_anotado.pdf]]
 
 
+![[questions_fisica_termologia_dilatacao_availableOnPersonalizedPlan_FULL_COURSE_anotado.pdf]]
 
-
-
-
+![[questions_fisica_termologia_escalas-termometricas_availableOnPersonalizedPlan_FULL_COURSE_anotado.pdf]]

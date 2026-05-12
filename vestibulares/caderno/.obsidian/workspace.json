@@ -11,10 +11,14 @@
             "id": "335d1d1e0b0321a8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Física/Dilatação.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Dilatação"
             }
           }
         ]
@@ -180,8 +184,10 @@
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "84580609061d1f49",
+  "active": "335d1d1e0b0321a8",
   "lastOpenFiles": [
+    "questions_fisica_termologia_escalas-termometricas_availableOnPersonalizedPlan_FULL_COURSE_anotado.pdf",
+    "questions_fisica_termologia_dilatacao_availableOnPersonalizedPlan_FULL_COURSE_anotado.pdf",
     "Física/Dilatação.md",
     "Arquivos/cc9c957b-d086-4010-be55-d7f074634b13-11.-dilatacao-dos-liquidos_anotado.pdf",
     "Arquivos/5d922477-8a23-424d-900d-524c24fe054e-10.-dilatacao-anomala-da-agua_anotado.pdf",
@@ -192,7 +198,6 @@
     "Arquivos/ba1dc4f5-acde-4db0-ae16-6e13c346271b-05.-dilatacao-linear_anotado.pdf",
     "Arquivos/1f716198-a91c-4cce-b07f-220febbe165f-04.-escalas-termometricas-parte-03_anotado.pdf",
     "Arquivos/ba1dc4f5-acde-4db0-ae16-6e13c346271b-05.-dilatacao-linear.pdf",
-    "Arquivos/dd0b0eaf-8e1d-49ab-ba7f-8f32d0ed435a-03.-escalas-termometricas-parte-02_anotado.pdf",
     "Filosofia/Merleau-Ponty.md",
     "Filosofia/Edmund Husserl.md",
     "História/França Equinocial.md",
