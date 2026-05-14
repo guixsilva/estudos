@@ -149,4 +149,5 @@ Conjunto de Órgãos dos sentidos, com receptores sensoriais (neurônios modific
 			- Papilas Fungiformes: percebe os demais sabores, menos amargo (doce, salgado, ácido e umami - sabor de carne)
 			- Papilas foliáceas: percebem todos os sabores.
 			- Algumas áreas da língua são mais sensíveis a determinado sabor.
-			- 
+
+![[deed9460-36cd-4ea5-8ef8-6604997a753e-playlist-11-fisiologia-animal-sistemas-integradores.pdf]]

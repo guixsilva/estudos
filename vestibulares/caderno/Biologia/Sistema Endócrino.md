@@ -72,3 +72,4 @@ Glândulas Endócrina
 			- Androgênios: hormônios sexuais masculinos (Testosteronas)
 		- Medula Adrenal: mais interna, produz hormônio adrenalina. 
 			- Produz hormônio adrenalina, liberado em estresse agudo.
+![[deed9460-36cd-4ea5-8ef8-6604997a753e-playlist-11-fisiologia-animal-sistemas-integradores 1.pdf]]

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "481fcbf0d55f3582",
+        "id": "50c10576feff2842",
         "type": "tabs",
         "children": [
           {
-            "id": "335d1d1e0b0321a8",
+            "id": "314da0adfe9c7650",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Física/Dilatação.md",
+                "file": "História/Idade Média.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dilatação"
+              "title": "Idade Média"
             }
           }
         ]
@@ -184,28 +184,33 @@
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "335d1d1e0b0321a8",
+  "active": "314da0adfe9c7650",
   "lastOpenFiles": [
-    "questions_fisica_termologia_escalas-termometricas_availableOnPersonalizedPlan_FULL_COURSE_anotado.pdf",
-    "questions_fisica_termologia_dilatacao_availableOnPersonalizedPlan_FULL_COURSE_anotado.pdf",
+    "fe28865e-e6a9-418e-8be7-404d3c2ec930-02.-rp-historia-geral-02 (1)_anotado.pdf",
+    "Arquivos/deed9460-36cd-4ea5-8ef8-6604997a753e-playlist-11-fisiologia-animal-sistemas-integradores.pdf",
+    "Biologia/Sistema Respiratório.md",
+    "Arquivos/pdfs_1624eaad-b498-42dc-9e31-de7f98349ed4-sistemas-executores-corrigido 3.pdf",
+    "Biologia/Sistema Excretório.md",
+    "Arquivos/pdfs_1624eaad-b498-42dc-9e31-de7f98349ed4-sistemas-executores-corrigido 2.pdf",
+    "Biologia/Sistema Endócrino.md",
+    "Biologia/Sistema Digestório.md",
+    "Arquivos/pdfs_1624eaad-b498-42dc-9e31-de7f98349ed4-sistemas-executores-corrigido 1.pdf",
+    "Biologia/Sistema Circulatório.md",
+    "Arquivos/pdfs_1624eaad-b498-42dc-9e31-de7f98349ed4-sistemas-executores-corrigido.pdf",
+    "Arquivos/deed9460-36cd-4ea5-8ef8-6604997a753e-playlist-11-fisiologia-animal-sistemas-integradores 1.pdf",
+    "Arquivos/Pasted image 20260513234558.png",
+    "Biologia/Sistema Nervoso.md",
+    "Arquivos/questions_fisica_termologia_escalas-termometricas_availableOnPersonalizedPlan_FULL_COURSE_anotado.pdf",
+    "Arquivos/questions_fisica_termologia_dilatacao_availableOnPersonalizedPlan_FULL_COURSE_anotado.pdf",
     "Física/Dilatação.md",
     "Arquivos/cc9c957b-d086-4010-be55-d7f074634b13-11.-dilatacao-dos-liquidos_anotado.pdf",
     "Arquivos/5d922477-8a23-424d-900d-524c24fe054e-10.-dilatacao-anomala-da-agua_anotado.pdf",
-    "Arquivos/dc71fbac-0beb-45fb-a6fc-4f1c7939213f-09.-dilatacao-volumetrica_anotado.pdf",
-    "Arquivos/9477789c-f264-465a-b678-58356d606773-08.-dilatacao-superficial_anotado.pdf",
-    "Arquivos/63deedb1-823e-4e23-b501-5095caf09b8a-07.-dilatacao-linear-aplicacoes_anotado.pdf",
-    "Arquivos/7bf6d669-fe53-4190-9e0d-0c45518c7f00-06.-lamina-bimetalica_anotado.pdf",
-    "Arquivos/ba1dc4f5-acde-4db0-ae16-6e13c346271b-05.-dilatacao-linear_anotado.pdf",
-    "Arquivos/1f716198-a91c-4cce-b07f-220febbe165f-04.-escalas-termometricas-parte-03_anotado.pdf",
-    "Arquivos/ba1dc4f5-acde-4db0-ae16-6e13c346271b-05.-dilatacao-linear.pdf",
     "Filosofia/Merleau-Ponty.md",
     "Filosofia/Edmund Husserl.md",
     "História/França Equinocial.md",
     "Filosofia/Nietzsche.md",
     "História/Brasil Império.md",
-    "Biologia/Sistema Excretório.md",
     "Arquivos/Pasted image 20260505213830.png",
-    "Biologia/Sistema Digestório.md",
     "Física/Princípio de Pascal e Pressão.md",
     "Física/Vazão.md",
     "Física/Empuxo.md",
@@ -213,7 +218,6 @@
     "Filosofia/Utilitarismo.md",
     "História/Idade Média.md",
     "Arquivos/Pasted image 20260429203812.png",
-    "Biologia/Sistema Circulatório.md",
     "Arquivos/Pasted image 20260428231245.png",
     "Arquivos/Pasted image 20260428205241.png",
     "Arquivos/Pasted image 20260428205228.png",
@@ -223,14 +227,10 @@
     "Filosofia/Marx.md",
     "Filosofia/Hegel.md",
     "Filosofia/Filosofia Medieval.md",
-    "Biologia/Sistema Respiratório.md",
     "Arquivos/Pasted image 20260423225104.png",
     "Arquivos/Pasted image 20260421215859.png",
-    "Biologia/Sistema Endócrino.md",
     "Física/Estatística.md",
-    "Filosofia/Iluminismo.md",
     "Arquivos/Pasted image 20260420211039.png",
-    "Arquivos/Pasted image 20260416205245.png",
-    "Arquivos/Pasted image 20260416231856.png"
+    "Arquivos/Pasted image 20260416205245.png"
   ]
 }

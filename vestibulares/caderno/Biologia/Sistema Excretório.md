@@ -43,4 +43,7 @@ Regulação Hormonal
 - Aldosterona
 	- Produzido no córtex adrenal
 	- Liberado quando a pressão arterial está baixo, aumentando a reabsorção de sódio e cloreto no rim, aumentando a reabsorção de água por osmose.
-	- 
+
+![[pdfs_1624eaad-b498-42dc-9e31-de7f98349ed4-sistemas-executores-corrigido 2.pdf]]
+
+

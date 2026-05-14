@@ -41,3 +41,6 @@ Componentes do sistema Circulatório
 		- Controle do coração: Controlado pelo nódulo sinoatrial, o marca passo do coração
 			- Nódulo Atrioventricular: atrasa o impulso nervoso entre átrios e ventrículos para que os átrios contraem antes dos ventrículos. 
 - Bomba propulsora.
+
+![[pdfs_1624eaad-b498-42dc-9e31-de7f98349ed4-sistemas-executores-corrigido.pdf]]
+

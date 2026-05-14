@@ -56,3 +56,4 @@ Controle da Respiração
 - Controle é feito pelo Bulbo Raquidiano, de controle voluntário mas automatizado.
 - Caso prender a respiração ou fazer atividades físicas, o CO2 acumula no corpo
 	- Pouco CO2 no sangue inibe a ação do bulbo raquidiano. Caso tenha muito CO2 (Caso de afogamento) estimula a ação involuntária do bulbo raquidiano.
+![[pdfs_1624eaad-b498-42dc-9e31-de7f98349ed4-sistemas-executores-corrigido 3.pdf]]

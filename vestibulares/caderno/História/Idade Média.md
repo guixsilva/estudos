@@ -319,3 +319,5 @@ Guerra dos Cem Anos
 	- Formação dos estados Nacionais da Inglaterra e da França
 	- Governos centralizados
 	- Atrasou a expansão marítmo comercial francesa e inglesa. 
+
+![[fe28865e-e6a9-418e-8be7-404d3c2ec930-02.-rp-historia-geral-02 (1)_anotado.pdf]]

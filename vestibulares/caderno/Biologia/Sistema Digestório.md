@@ -52,3 +52,5 @@ Regiões
 | Enterogastrona   | Duodeno           | Ácido duoduno                 | Desliga a secreção de suco gástrico                                  |
 | Secretina        | Duodeno           | Ácido no Doodeno              | Liberação de Bicarbonato de sódio no suco pancreático                |
 | Colescistocinina | Duodeno           | Proteínas/Lipídios no duodeno | Liberação de enzimas no suco pancrático e bile pela vesícula biliar. |
+![[pdfs_1624eaad-b498-42dc-9e31-de7f98349ed4-sistemas-executores-corrigido 1.pdf]]
+
