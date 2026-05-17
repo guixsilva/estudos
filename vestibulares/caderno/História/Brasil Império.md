@@ -212,3 +212,78 @@ Surto Industrial
 - Gás canalizado para iluminação pública
 - Incentivo da mão de obra assalariada.
 - Imigração - necessidade de mão de obra para o café
+
+Política Externa
+- Questão Christie
+	- Desgaste da relação Brasil X Inglaterra
+	- Eventos: Naufrágios do navio Inglês e prisão de três oficiais da Marinha Inglesa
+		- Solicitação de uma indenização para a Inglaterra
+		- Aprisionamento de 5 navios brasileiros pela Inglaterra
+		- O brasil leva o caso para julgamento e ganha o caso.
+		- Rompimento diplomático que durou 2 anos.
+- Questões Platinas
+	- Intervenção brasileira no Uruguai por interesses do Brasil na navegação do Rio da Prata
+	- Guerra civil no Uruguai, Brasil ajuda o os guerrilheiros que apoiam as relações comerciais com o Brasil.
+	- A intervenção Brasileira causa descontentamento de Solano Lopes
+	- Causador da Guerra do Paraguai.
+- Guerra do Paraguai
+	- Formação da Tríplice Aliança: Brasil, Argentina e Uruguai - apoiados pelos Ingleses
+	- Levante contra Solano Lopes.
+	- O início da guerra é favorável ao Paraguai.
+	- A Guerra só termina com a morte de Solano Lopes 
+	- Vitória da Tríplice Aliança.
+	- Início da crise entre o governo imperial e militares.
+
+Crise no Império
+- Questão Militar
+	- Exército sai da guerra do Paraguai prestigiado, porém sem expressão política.
+	- O governo proíbe militares de realizar manifestações políticas.
+	- Militares começam a defender o movimento republicano e que a monarquia é "atraso".
+	- Clube Militar: organização política militar
+		- Liderado por Marechal Deodoro da Fonseca.
+- Questão Religiosa
+	- Imperador indicava Bispos e sustentava financeiramente o clero.
+	- Romanização da igreja - clero mais próximo do papa do que do imperador
+	- Imperador contra decisões do Papa, causando críticas e desrespeitos a normas.
+- Questão republicana
+	- Presença nas cidades com industriais, intelectuais e profissionais liberais
+	- Manifesto Republicano.
+	- Defesa do federalismo, estado laico e voto universal.
+	- Formação do partido Republicano.
+
+Abolicionismo
+- Antecedentes e Fatores
+	- Pressão inglesa pela proibição da escravidão
+	- Participação de escravizados alforriados na guerra do Paraguai
+	- Exército se opondo a escravidão.
+	- Início da imigração.
+- Movimento abolicionista
+	- Movimento Negro
+	- Pessoa notável: Luiz Gama - escravizado que se tornou escritor e intelectual que usou a Lei de 1831 para libertar mais de 500 escravizados. 
+	- Movimento dos Caifazes: isentivo para a fuga dos escravizados para quilombos
+	- Greve dos Jangadeiros no Ceará: navegantes impedem o embarque de escravizados para comércio. 
+- Leis
+	- Lei do Ventre Livre
+		- Filhos de escravos nascem livres.
+		- Os senhores podiam liberar a criança aos 8 anos ou usar do trabalho até os 21 anos.
+		- As crianças escolhiam o trabalho.
+	- Lei do Sexagenário
+		- Escravos com idade superior a 60 anos seriam considerados livres.
+		- Indenização paga pelo próprio escravizado para seu senhor - 3 anos de trabalho como pagamento.
+	- Lei Áurea
+		- Assinada pela Princesa Isabel
+		- Sem indenizações ou reparação
+		- Rompimento das elites escravocratas com o governo
+		- Brasil é o último a abolir a escravidão.
+
+Proclamação da República
+- Império sobre perigo devido aos últimos acontecimentos
+- Articulação Militar
+	- Reunião do Clube Militar
+	- Articular com lideranças civis a derrubada da monarquia
+	- Marechal Deodoro participou como chefe da conspiração
+- Quartelada
+	- O golpe foi feito numa quarta feira
+	- A monarquia não resiste ao golpe
+	- A família real foge em exílio para a Europa.
+	- Sem participação popular.
