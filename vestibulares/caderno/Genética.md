@@ -54,3 +54,5 @@ Termos Utilizados em Genética
 - Expressividade: intensidade de manifestação de um fenótipo de acordo com a influência ambiental.
 - Penetrância: porcentagem de indivíduos de um genótipo específico e que apresentam um fenótipo correspondente. 
 - Cruzamento-Teste: cruzamento com o recessivo para identificar o genótipo do dominante (homozigoto ou heterozigoto).
+- Genealogia: representação gráfica de um histórico genético de uma família. Ex: Árvore genealógicas.
+	- Cruzamentos consanguíneos: cruzamento entre parentes próximos - aumentam o risco de doenças genéticas nos descendentes. Alelos recessivos de doenças podem se juntar no cruzamento, fazendo com que apareçam doenças nos descendentes. 
