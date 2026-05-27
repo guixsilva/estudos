@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c625808225992d42",
+        "id": "1145242dc59e58a7",
         "type": "tabs",
         "children": [
           {
-            "id": "11269bb4a9a4a75c",
+            "id": "983626b8038c6121",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Biologia/Genealogias.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Genealogias"
             }
           }
         ]
@@ -182,6 +186,12 @@
   },
   "active": "84580609061d1f49",
   "lastOpenFiles": [
+    "Arquivos/Pasted image 20260526221921.png",
+    "Arquivos/Pasted image 20260526212819.png",
+    "Biologia/Introdução a Biologia.md",
+    "Biologia/Embriologia Humana.md",
+    "Biologia/Características Gerais dos Seres Vivos.md",
+    "Biologia/Bioenergética.md",
     "Arquivos/9a5cf75e-ead4-4715-bcaf-8e27b635fdb1_anotado.pdf",
     "Química/Equilíbrio Químico.md",
     "Arquivos/ab8b8db5-88b7-4023-b4f3-f241aea2efab.pdf",
@@ -218,14 +228,9 @@
     "Biologia/Sistema Circulatório.md",
     "Arquivos/Pasted image 20260513234558.png",
     "Biologia/Sistema Nervoso.md",
-    "Física/Dilatação.md",
-    "Filosofia/Merleau-Ponty.md",
-    "Filosofia/Edmund Husserl.md",
-    "História/França Equinocial.md",
     "Arquivos/Pasted image 20260505213830.png",
     "Arquivos/Pasted image 20260429203812.png",
     "Arquivos/Pasted image 20260428231245.png",
-    "Arquivos/Pasted image 20260428205241.png",
-    "Arquivos/Pasted image 20260428205228.png"
+    "Arquivos/Pasted image 20260428205241.png"
   ]
 }

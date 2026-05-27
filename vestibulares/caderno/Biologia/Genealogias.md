@@ -1,5 +1,6 @@
 ![[Pasted image 20260520212605.png]]
 
+# Primeira Lei de Mendel
 - Características Dominantes x Características Recessivas
 ![[Pasted image 20260520213923.png]]
 
@@ -37,3 +38,35 @@ Polialelismo ou Alelos Múltiplos
 	- Sangue AB - sangue universal para transfusão de sangue
 	- Na transfusão, a preocupação é transfusão de alta quantidade para sobrepor os anticorpos. 
 	- Caso a transfusão de sangue é feita com uma quantidade de sangue menor que de anticorpos, o sangue aglutina e pode tampar vasos sanguíneos, causando trombose.  
+- Sistema RH
+	- Fator inicialmente identificado em macacos.
+	- Fator Rh: glicoproteína no glicolálix das hemácias.
+		- Alelo R: dominante, produz fator Rh+
+		- Alelo r: recessivo: não produz fator Rh-
+	- Sem anticorpos previamente formados, necessitando da transfusão para produzir os anticorpos.
+		- De Rh- para Rh+: sem nenhum problema
+		- De Rh+ para Rh-: não é aceito
+			- Resposta imune primária: anticorpos anti-Rh em pequena quantidade e no longo prazo, a transfusão não terá mais problema.
+			- Resposta imune secundária: produção anti-Rh em grande quantidade e de imediato. 
+	- Eritroblastose fetal - Doença hemolítica do recém nascido.
+		- Afeta a partir do segundo filho Rh+ de mãe Rh-.
+		- Provocada a partir do contato do filho Rh+ com a mãe Rh- devido a pequenas rupturas da placenta, fazendo com que a mãe gere anti corpos com o filho (danoso somente na segunda gravidez).
+		- Sintomas: hemólise (destruição de hemácias), anemia, má formação, eritroblastos (presença de hemácias imaturas no sangue), lesões neurológicas
+		- Tratamento: banhos de raios UV, transfusão total de sangue de Rh+ por Rh-
+
+# Segunda Lei de Mendel
+Na análise de mais de um par de genes (mais de uma característica genética), os genes se segregam de forma independente, podendo-se obter todas as possíveis combinações de alelos nos gametas.
+
+- Para descobrir a quantidade de tipos de gameta, somente multiplicar as possibilidades.
+	- Ex: VVRR - 2 x 2 = 4 tipos de gameta.
+![[Pasted image 20260526212819.png]]
+
+Linkage
+- Pares A/a e B/b estão no mesmo par de cromossomos.
+- Não se aplica a segunda lei de Mendel.
+	- Linkage Cris: cromossomos simples com duas cromátides dominantes, só produzindo 2 tipos de gametas. Ex: AB
+	- Linkage Trans: cromossomos simples com duas cromátides recessiva, só produzindo 2 tipos de gametas. Ex: Ab ou bA 
+	- Linkage Incompleto: com crossing-over - produz 4 tipos de gametas.
+	- Linkage Completo: sem crossing-over - produz 2 tipos de gametas.
+
+![[Pasted image 20260526221921.png]]
