@@ -70,3 +70,21 @@ Linkage
 	- Linkage Completo: sem crossing-over - produz 2 tipos de gametas.
 
 ![[Pasted image 20260526221921.png]]
+
+# Genética do Sexo
+O par 23 dos cromossomos é o que determina o sexo.
+- XY: Homem - heterogamético
+- XX: Mulher - Homogamético
+
+![[Pasted image 20260528195328.png]]
+Herança restrita ao sexo
+- Com genes na Região Y - só nó cromossomo Y (Só homens)
+- Nesse caso, o filho homem sempre vai ter a mesma característica que o pai
+- Ex: hipertricose Auricular (grande quantidade de pelos na orelha)
+
+Herança Parcialmente Ligada ao Sexo
+- Condicionada por 2 alelos, com o mesmo comportamento da herança autossômica, mas nos cromossomos sexuais.
+
+Herança Ligada ao Sexo
+- Com genes na região X - só no cromossomo X, que ocorre no sexo masculino e feminino. 
+- Ex: Hemofilia e Daltonismo

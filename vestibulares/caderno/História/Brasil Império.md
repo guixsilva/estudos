@@ -287,3 +287,4 @@ Proclamação da República
 	- A monarquia não resiste ao golpe
 	- A família real foge em exílio para a Europa.
 	- Sem participação popular.
+![[f7154f72-3045-4805-b430-4b05896284c5-03.-rp-historia-do-brasil-03_anotado.pdf]]
