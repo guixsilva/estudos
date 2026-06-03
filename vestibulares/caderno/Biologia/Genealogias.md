@@ -88,3 +88,26 @@ Herança Parcialmente Ligada ao Sexo
 Herança Ligada ao Sexo
 - Com genes na região X - só no cromossomo X, que ocorre no sexo masculino e feminino. 
 - Ex: Hemofilia e Daltonismo
+
+Pleiotropia
+- 1 par de genes determina MAIS de uma característica
+	- Ex: todo rato preto também tem um comportamento agressivo - o mesmo par de genes que decodifica a cor preta, também decodifica a agressividade do rato.
+	- Toda doença é pleiotrópico.
+
+Epistasia
+- Um par de genes "inibe" outro par de genes.
+	- O que inibe: epistático
+	- O que é inibido: Hipostático
+	- Tipos de Epistasia
+		- Epistasia dominante: par epistático só inibe com alelo dominante
+			- Ex: cor de cebolas. 
+		- Epistasia recessiva: par epistático só inibe com 2 alelos recessivos. 
+			- Ex: cor de cães labradores - dourado
+		- Epistasia duplo-recessiva: Qualquer par é epistático com 2 alelos recessivos. 
+			- Ex: surdez profunda.
+
+Herança Quantitativa
+- Por mais de 1 par de genes (pelo menos 2 pares de genes) e não há alelos dominantes ou alelos recessivos, tendo alelos aditivos (adicionam intensidade ao fenótipo) e alelos não aditivos (não adicionam intensidade ao fenótipo). Sendo assim, o fenótipo é determinado pelo número de alelos aditivos.
+- Ex: peso, inteligência, cor dos olhos...
+
+![[44feb240-89a0-4476-977e-d374d82f27d2-playlist-13-genetica.pdf]]
