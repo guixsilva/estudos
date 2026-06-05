@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "817f4e1d688ac9e9",
+        "id": "746aab7f7f1a3f29",
         "type": "tabs",
         "children": [
           {
-            "id": "170ead6b16fdd63e",
+            "id": "5125d980054d0ffc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Origem da Vida.md",
+                "file": "Brasil República.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Origem da Vida"
+              "title": "Brasil República"
             }
           }
         ]
@@ -184,11 +184,14 @@
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "170ead6b16fdd63e",
+  "active": "5125d980054d0ffc",
   "lastOpenFiles": [
+    "Biologia/Origem da Vida.md",
+    "Arquivos/9dc80674-104e-429f-881c-724688299edc-origem-da-vida.pdf",
+    "Brasil República.md",
+    "História/Idade Média.md",
     "Biologia/Genealogias.md",
-    "Origem da Vida.md",
-    "44feb240-89a0-4476-977e-d374d82f27d2-playlist-13-genetica.pdf",
+    "Arquivos/44feb240-89a0-4476-977e-d374d82f27d2-playlist-13-genetica.pdf",
     "Arquivos/5bd43dee-8acb-4204-9d28-adea8482b0e3-29.-trabalho-termodinamico_anotado.pdf",
     "Física/Cinética dos Gases.md",
     "Arquivos/0458bfed-fa77-42cd-befe-591f533306db-28.-energia-interna_anotado.pdf",
@@ -207,7 +210,6 @@
     "Química/Equilíbrio Químico.md",
     "Arquivos/ab8b8db5-88b7-4023-b4f3-f241aea2efab.pdf",
     "Arquivos/b10d0935-734f-4425-8625-4fc24e6dd808_anotado.pdf",
-    "Arquivos/b10d0935-734f-4425-8625-4fc24e6dd808.pdf",
     "Matemática/Geometria Espacial.md",
     "Matemática/Geografia Plana.md",
     "Matemática/Exercícios - Conjuntos Numéricos.md",
@@ -224,11 +226,8 @@
     "Filosofia/Existencialismo.md",
     "Filosofia/Hanna Arendt.md",
     "História/Brasil Império.md",
-    "História/Idade Média.md",
     "Biologia/Sistema Respiratório.md",
     "Biologia/Sistema Excretório.md",
-    "Biologia/Sistema Endócrino.md",
-    "Biologia/Sistema Digestório.md",
     "Arquivos/Pasted image 20260513234558.png",
     "Arquivos/Pasted image 20260505213830.png",
     "Arquivos/Pasted image 20260429203812.png"
