@@ -1,0 +1,54 @@
+x
+Primeiro Governo pós proclamação
+- Marechal Deodoro da Fonseca
+- Governo Provisório
+	- Anulação da constituição imperial e convocação de uma Constituinte
+	- Naturalização para estrangeiros
+	- Formação dos estados do país
+	- Separação do estado e da igreja.
+	- Política do Encilhamento: objetivo era estimular o crescimento econômico, dando empréstimos e concedendo crédito. Provocou alta inflação e desvalorização da moeda.
+- Governo Constitucional
+	- Promulgada a primeira constituição republicana do Brasil.
+		- Federalismo, presidencialismo, regime representativo, três poderes, voto facultativo e estado laico.
+	- Eleição indireta de Marechal Deodoro da Fonseca.
+	- Crise na relação Deodoro e congresso
+	- Deodoro queria limitar o federalismo
+	- Deodoro fecha o congresso, causando revolta generalizada.
+	- Deodoro renuncia e seu vice Marechal Floriano Peixoto assume o cargo.
+- Governo de Floriano Peixoto
+	- Entra como vice após renúncia de Deodoro
+	- Floriano vai contra a constituição, que dizia que mandatos renunciados com menos de 2 anos deveriam criar novas eleições.
+	- O governo de Floriano é apoiado pelos partidos paulistas e mineiros - cafeicultores.
+	- Governo sofreu certas instabilidades na relação com os militares, porém ocorreu a consolidação da república
+	- Reabriu o congresso, estimulou a industrialização e com protecionismo econômico.
+- República Oligárquica
+	- Primeiro presidente eleito diretamente: Prudente Moraes.
+	- Um período dominado pelas oligarquias da agricultura, principalmente eixo Minas - São Paulo
+	- Conhecido como Política Café com Leite.
+	- Coronelismo: domínio político das oligarquias sobre o executivo e legislativo - voto de cabresto. 
+	- Prudente de Morais
+		- Primeiro presidente civil
+		- Guerra de Canudos
+		- Eleito até 1898 - não se podia reeleger
+	- Campos Sales
+		- Acordo Funding Loan: acordo com países estrangeiros para penhorar obras públicas em troca de renegociações e maiores prazos de dívidas.
+		- Fortalecimento da política dos governadores e a política do Café com Leite.
+		- Diminuição do poder dos Militares. 
+	- Rodrigues Alves
+		- Convênio de Taubaté: Empréstimo de dinheiro para os estados comprar café excedente e evitar desvalorização do preço.
+		- Revolta da Vacina
+		- Aquisição do Acre.
+	- Afonso Pena
+		- Estabilidade da Economia Cafeeira
+		- Imigração japonesa: mão de obra para o café e o crescente processo de crescimento da atividade industrial.][
+		- Tornou o serviço militar obrigatório
+		- Morrer no cargo
+	- Nilo Peçanha
+		- Considerado o único presidente negro
+		- Aumento da atividade industrial de SP
+	- Campanha civilista: campanha eleitoral de Rui Barbosa para se tornar presidente. Civilista por ser uma oposição aos militares. Estopim da briga política do café com leite, entre SP e MG. Essa campanha eleitoral é considerada a primeira campanha eleitoral do Brasil, porém não ganhou e Hermes da Fonseca é eleito.
+	- Hermes da Fonseca
+		- Revolta da Chibata
+		- Guerra do Contestado
+		- Combater a campanha civilista
+		- Promoção de intervenções militares para derrubar as oligarquias regionais (combater as fraudes eleitorais).
