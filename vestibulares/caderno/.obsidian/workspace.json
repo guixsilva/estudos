@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "650117e1f4621873",
+        "id": "01cd29a1af695c4d",
         "type": "tabs",
         "children": [
           {
-            "id": "8d5d7a6ce7b57735",
+            "id": "8bccc8680c3357fc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biologia/Origem da Vida.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Origem da Vida"
-            }
-          },
-          {
-            "id": "6b2a0fdc380cb64d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evolução Biológica.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Evolução Biológica"
+              "title": "Nova aba"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,11 +180,18 @@
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "6b2a0fdc380cb64d",
+  "active": "84580609061d1f49",
   "lastOpenFiles": [
-    "Pasted image 20260609201931.png",
+    "Arquivos/9f38e888-2943-4394-8914-775dc6fdf104_anotado.pdf",
+    "Arquivos/2b0716fd-4e00-4f61-addd-a85821c0854c_anotado.pdf",
+    "Arquivos/08df258d-644e-48c3-ba5e-81bdd63ff5eb_anotado.pdf",
+    "Química/Pilhas e reações de Oxi-Reação.md",
+    "Filosofia/Filosofia Contemporânea.md",
+    "Arquivos/7b66860c-bbed-49ec-990c-ee35476b786e-resumo-grafico-filosofia-contemporanea.pdf",
+    "Filosofia/Filosofia Moderna.md",
     "Biologia/Origem da Vida.md",
-    "Evolução Biológica.md",
+    "Biologia/Evolução Biológica.md",
+    "Arquivos/Pasted image 20260609201931.png",
     "Física/1. Exercicios.md",
     "Arquivos/3e1f10c1-6667-480b-98d0-899438d68c91-fis-revisao-02_anotado.pdf",
     "Física/Calor.md",
@@ -225,18 +213,11 @@
     "Física/Vetores.md",
     "Física/Gravitação.md",
     "Física/Energia Mecânica e Potência.md",
-    "Física/Dilatação.md",
-    "Física/Estática.md",
-    "Física/Vazão.md",
     "Arquivos/b1149cba-0977-499d-b741-30660fc58f06-aula-76-hans-jonas.pdf",
     "Arquivos/9398b2f7-3b49-405d-982f-3e0ed045d185.pdf",
     "Arquivos/cc8586ce-2b4e-4be3-8e5c-ff05eda9df1c.pdf",
     "Arquivos/aa469beb-fdb9-4f28-815a-2275393670f9.pdf",
     "Arquivos/9dc80674-104e-429f-881c-724688299edc-origem-da-vida.pdf",
-    "Arquivos/44feb240-89a0-4476-977e-d374d82f27d2-playlist-13-genetica.pdf",
-    "Arquivos/5bd43dee-8acb-4204-9d28-adea8482b0e3-29.-trabalho-termodinamico_anotado.pdf",
-    "Arquivos/0458bfed-fa77-42cd-befe-591f533306db-28.-energia-interna_anotado.pdf",
-    "Arquivos/6f3f0ec3-695d-42fc-9b76-1b994a3d759e-27.-teoria-cinetica-dos-gases_anotado.pdf",
     "Arquivos/Pasted image 20260528195328.png",
     "Arquivos/Pasted image 20260526221921.png",
     "Arquivos/Pasted image 20260526212819.png",
@@ -245,7 +226,6 @@
     "Arquivos/Pasted image 20260520213923.png",
     "Arquivos/Pasted image 20260519201652.png",
     "Arquivos/Pasted image 20260513234558.png",
-    "Arquivos/Pasted image 20260505213830.png",
-    "Arquivos/Pasted image 20260429203812.png"
+    "Arquivos/Pasted image 20260505213830.png"
   ]
 }
