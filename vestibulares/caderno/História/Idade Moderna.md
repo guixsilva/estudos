@@ -48,3 +48,6 @@ Fases do Renascimento Cultural
 ![[9eaf7ec2-834a-457d-be59-53e6a0a59de9-44.-renascimento-cultural-fases.pdf]]
 ![[0af40a38-94e6-41af-88af-87a0f431ec41-45.-renascimento-cultural-difusao.pdf]]
 
+![[0f3c56ab-01a1-4928-a32a-24e512602356-54.-guerra-das-duas-rosas.pdf]]
+![[0d8c3e21-3ad2-48e5-919a-2afc341b4417-55.-absolutismo-ingles.pdf]]
+![[d20cea4a-ce5c-4f5d-b19c-1e69d5d353bf-56.-revolucoes-inglesas.pdf]]

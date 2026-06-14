@@ -52,3 +52,12 @@ Primeiro Governo pós proclamação
 		- Guerra do Contestado
 		- Combater a campanha civilista
 		- Promoção de intervenções militares para derrubar as oligarquias regionais (combater as fraudes eleitorais).
+	- Economia
+		- Boom da borracha - durante a segunda revolução industrial.
+		- Desenvolvimento da região norte (devido ao boom da borracha)
+			- Crise da borracha - falta de mão de obra e queda no preço da borracha
+			- Segundo ciclo da borracha - durante governo Getúlio Vargas.
+		- Café e indústria
+			- Construção de ferrovias, bancos e portos para a exportação.
+			- Incentivo da indústria com os lucros do café
+			- Máquinas usadas da Inglaterra.

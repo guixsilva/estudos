@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "01cd29a1af695c4d",
+        "id": "97e6bf2823ef5ed2",
         "type": "tabs",
         "children": [
           {
-            "id": "8bccc8680c3357fc",
+            "id": "02ad27d5440de67c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "História/Brasil República.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Brasil República"
             }
           }
         ]
@@ -180,12 +184,17 @@
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "84580609061d1f49",
+  "active": "02ad27d5440de67c",
   "lastOpenFiles": [
+    "Arquivos/0d8c3e21-3ad2-48e5-919a-2afc341b4417-55.-absolutismo-ingles.pdf",
+    "História/Idade Moderna.md",
+    "Arquivos/d20cea4a-ce5c-4f5d-b19c-1e69d5d353bf-56.-revolucoes-inglesas.pdf",
+    "Arquivos/0f3c56ab-01a1-4928-a32a-24e512602356-54.-guerra-das-duas-rosas.pdf",
+    "Química/Pilhas e reações de Oxi-Reação.md",
+    "Arquivos/6328d45a-1b65-49c0-99e9-e92463dfa8f7_anotado.pdf",
     "Arquivos/9f38e888-2943-4394-8914-775dc6fdf104_anotado.pdf",
     "Arquivos/2b0716fd-4e00-4f61-addd-a85821c0854c_anotado.pdf",
     "Arquivos/08df258d-644e-48c3-ba5e-81bdd63ff5eb_anotado.pdf",
-    "Química/Pilhas e reações de Oxi-Reação.md",
     "Filosofia/Filosofia Contemporânea.md",
     "Arquivos/7b66860c-bbed-49ec-990c-ee35476b786e-resumo-grafico-filosofia-contemporanea.pdf",
     "Filosofia/Filosofia Moderna.md",
@@ -212,12 +221,7 @@
     "Física/Triângulo Retângulo.md",
     "Física/Vetores.md",
     "Física/Gravitação.md",
-    "Física/Energia Mecânica e Potência.md",
     "Arquivos/b1149cba-0977-499d-b741-30660fc58f06-aula-76-hans-jonas.pdf",
-    "Arquivos/9398b2f7-3b49-405d-982f-3e0ed045d185.pdf",
-    "Arquivos/cc8586ce-2b4e-4be3-8e5c-ff05eda9df1c.pdf",
-    "Arquivos/aa469beb-fdb9-4f28-815a-2275393670f9.pdf",
-    "Arquivos/9dc80674-104e-429f-881c-724688299edc-origem-da-vida.pdf",
     "Arquivos/Pasted image 20260528195328.png",
     "Arquivos/Pasted image 20260526221921.png",
     "Arquivos/Pasted image 20260526212819.png",
