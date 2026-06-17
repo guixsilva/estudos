@@ -26,3 +26,34 @@ Teorias Evolucionistas
 - Teoria do Equilíbrio Pontuado
 	- Refuta o gradualismo de Darwin: por que não encontramos fósseis das mudanças evolutivas
 	- Na maior parte do tempo, as mudanças evolutivas são lentas, porém catástrofes ambientais podem haver saltos evolutivos com muitas mudanças em pouco tempo.
+
+Agentes Promotores da Evolução
+- Mutações
+	- Alterações acidentais na sequência de bases nitrogenadas do Material Genético.
+		- Espontâneas: sem causa conhecida - normalmente por erros na reaplicação do DNA.
+		- Induzidas: fatores mutagênicos - raios UV e radicais livres.
+		- Somáticas: mutações em células que formam o corpo, sem ação direta na reprodução e nos descendentes.
+		- Sexuais: em células sexuais - com ação direta na reprodução e descendentes
+		- Cromossômicas: não alteram a sequência de bases nitrogenadas no Gene - alteram posição, o número de cópias ou o número de cromossomos.
+		- Gênicas: alteram a sequência de bases nitrogenadas no Gene - criam novos alelos, sendo o único fator capaz de criar novas características. 
+- Recombinações Gênicas
+	- Alterações programadas no material genético
+	- Não cria novos alelos - cria novas combinações de alelos
+	- Não cria novas características - cria novas combinações de características
+		- Meiose: separação dos cromossomos homólogos e crossing over.
+		- Fecundação: cria novas combinações / características nos descendentes. 
+- Camuflagem: Imitação de objeto inanimado.
+- Mimetismo: Imitação de Outro ser vivo.
+
+Seleção Natural
+- Reprodução diferencial dos mais aptos.
+- Tipos
+	- Estabilizadora: favorece o fenótipo médio - mais comum em meios estáveis.
+	- Direcional: favorece um dos fenótipos extremos.
+	- Disruptiva: favorece os 2 fenótipos extremos e prejudica o fenótipo médio.
+- Exemplos
+	- Resistência a drogas
+		- Surgem por mutações espontâneas, raras e de efeito aleatório.
+		- O homem facilita a seleção de bactérias resistentes (automedicação).
+
+![[Biologia-Evolução.pdf]]

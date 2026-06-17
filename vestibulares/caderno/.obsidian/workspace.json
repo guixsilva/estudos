@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0f1758d6490fb947",
+        "id": "f1e9be349bd325de",
         "type": "tabs",
         "children": [
           {
-            "id": "0cb4ee687c99edfc",
+            "id": "a0bf6bf413db8fe2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Física/Onda.md",
+                "file": "Biologia/Evolução Biológica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Onda"
-            }
-          },
-          {
-            "id": "fdc961939ef4298f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Análise combinatória.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Análise combinatória"
+              "title": "Evolução Biológica"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,12 +184,14 @@
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "fdc961939ef4298f",
+  "active": "84580609061d1f49",
   "lastOpenFiles": [
-    "a508b6c1-f3f5-4a9e-a9b1-4d3269af8f9a-14.-analise-combinatoria_anotado.pdf",
-    "cda41ad1-570b-45da-b1bd-4b11a33a5fcc-analise-combinatoria.pdf",
+    "Arquivos/Biologia-Evolução.pdf",
+    "Biologia/Origem da Vida.md",
+    "Arquivos/a508b6c1-f3f5-4a9e-a9b1-4d3269af8f9a-14.-analise-combinatoria_anotado.pdf",
     "Física/Onda.md",
-    "Análise combinatória.md",
+    "Matemática/Análise combinatória.md",
+    "Arquivos/cda41ad1-570b-45da-b1bd-4b11a33a5fcc-analise-combinatoria.pdf",
     "Arquivos/96f9d7e4-552e-452f-a810-ac163bdfcd1b-02.-reflexao_anotado.pdf",
     "História/Brasil República.md",
     "Arquivos/12366d03-1250-43bf-b199-6d828e5af444-05.-interferencia_anotado.pdf",
@@ -216,10 +203,8 @@
     "Arquivos/d20cea4a-ce5c-4f5d-b19c-1e69d5d353bf-56.-revolucoes-inglesas.pdf",
     "Arquivos/0f3c56ab-01a1-4928-a32a-24e512602356-54.-guerra-das-duas-rosas.pdf",
     "Química/Pilhas e reações de Oxi-Reação.md",
-    "Arquivos/6328d45a-1b65-49c0-99e9-e92463dfa8f7_anotado.pdf",
     "Filosofia/Filosofia Contemporânea.md",
     "Filosofia/Filosofia Moderna.md",
-    "Biologia/Origem da Vida.md",
     "Biologia/Evolução Biológica.md",
     "Arquivos/Pasted image 20260609201931.png",
     "Física/1. Exercicios.md",
