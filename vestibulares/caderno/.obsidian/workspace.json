@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Evolução Biológica"
             }
+          },
+          {
+            "id": "232ccf15c772f11a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eletrólise.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Eletrólise"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,8 +199,13 @@
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "84580609061d1f49",
+  "active": "232ccf15c772f11a",
   "lastOpenFiles": [
+    "b5859271-3b9d-4d28-bee7-e675e48649d1_anotado.pdf",
+    "18248028-c118-4496-995d-b860628dd688_anotado.pdf",
+    "38144127-d057-4602-9cac-1420fde0e4f6_anotado.pdf",
+    "Biologia/Evolução Biológica.md",
+    "Eletrólise.md",
     "Arquivos/Biologia-Evolução.pdf",
     "Biologia/Origem da Vida.md",
     "Arquivos/a508b6c1-f3f5-4a9e-a9b1-4d3269af8f9a-14.-analise-combinatoria_anotado.pdf",
@@ -198,14 +218,10 @@
     "Arquivos/772f020c-16b2-4909-9ad2-97d6ec846660-04.-difracao_anotado.pdf",
     "Arquivos/2446c72f-2f71-448d-aa19-97dcef1b1862-03.-refracao_anotado.pdf",
     "Arquivos/ed7bdafb-d145-447b-a48c-afa995ee9616-01.-fundamentos-da-ondulatoria_anotado.pdf",
-    "Arquivos/0d8c3e21-3ad2-48e5-919a-2afc341b4417-55.-absolutismo-ingles.pdf",
     "História/Idade Moderna.md",
-    "Arquivos/d20cea4a-ce5c-4f5d-b19c-1e69d5d353bf-56.-revolucoes-inglesas.pdf",
-    "Arquivos/0f3c56ab-01a1-4928-a32a-24e512602356-54.-guerra-das-duas-rosas.pdf",
     "Química/Pilhas e reações de Oxi-Reação.md",
     "Filosofia/Filosofia Contemporânea.md",
     "Filosofia/Filosofia Moderna.md",
-    "Biologia/Evolução Biológica.md",
     "Arquivos/Pasted image 20260609201931.png",
     "Física/1. Exercicios.md",
     "Física/Calor.md",
@@ -222,7 +238,6 @@
     "Física/Sequência de Galileu.md",
     "Física/Sistema de Blocos.md",
     "Física/Sistemas Isolados.md",
-    "Física/Trabalho Mecânico.md",
     "Arquivos/Pasted image 20260528195328.png",
     "Arquivos/Pasted image 20260526221921.png",
     "Arquivos/Pasted image 20260526212819.png",
