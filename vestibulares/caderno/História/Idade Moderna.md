@@ -44,6 +44,8 @@ Fases do Renascimento Cultural
 	- Deslocamento do eixo comercial do mediterrâneo para o Atlântico
 	- Decadência das cidades Italianas.
 
+[[Idade Moderna Part. 2]]
+
 ![[f281f3a5-5f95-4adc-a34c-9d1eb81fc0f4-43.-renascimento-cultural-caracteristicas.pdf]]
 ![[9eaf7ec2-834a-457d-be59-53e6a0a59de9-44.-renascimento-cultural-fases.pdf]]
 ![[0af40a38-94e6-41af-88af-87a0f431ec41-45.-renascimento-cultural-difusao.pdf]]
