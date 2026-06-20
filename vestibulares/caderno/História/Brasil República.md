@@ -61,3 +61,30 @@ Primeiro Governo pós proclamação
 			- Construção de ferrovias, bancos e portos para a exportação.
 			- Incentivo da indústria com os lucros do café
 			- Máquinas usadas da Inglaterra.
+	- Movimentos Sociais
+		- Canudos
+			- Sertão nordestino dominado por oligarquias e com as classes populares na pobreza
+			- Líder: Antônio Conselheiro - Beato e líder religioso.
+			- Criou um território autônomo com pessoas pobres.
+			- Desagradou as oligarquias, os coronéis e a igreja católica.  
+			- Guerra de Canudos: oligarquias começam a fazer expedições contra Canudos.
+			- Canudos foi dizimada e Antônio Conselheiro é morto. 
+		- Contestado
+			- Contexto: Disputa territorial jurídica entre SC e PR. 
+			- A guerra do Contestado ocorre nessa região. 
+			- Governo planeja fazer ferrovia que cruzaria o território do Contestado
+				- Expulsão dos caboclos da região, que dependiam da exploração do território.
+				- Região dos monges - o mesmo que Beato, líder religiosos.
+			- Caboclos criam comunidades independentes. 
+				- Polícia Paranaense mata um dos monges líderes.
+			- Conflito com tropas de brasileiras, que ganham e derrotam os caboclos.
+		- Cangaço e Revolta de Juazeiro.
+			- Cangaço
+				- Sertanejos pobres que se contrapunham ao poder exercito pelos coronéis
+				- Vários grupos independentes - não é um movimento unificado
+				- banditismo social
+				- Lampião - cangaço mais famoso.
+			- Revolta de Juazeiro
+				- Um milagre ocorre durante uma missa de Padre Cícero.
+				- Padre Cícero ganha apoio popular.
+				- Padre Cícero se torna um coronel - defensor da família Acioly (pacto dos Coronéis)
