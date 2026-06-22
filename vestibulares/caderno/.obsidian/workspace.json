@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "afc92ac54661673a",
+        "id": "01c193965c5d0c4a",
         "type": "tabs",
         "children": [
           {
-            "id": "26c03e87f6388c27",
+            "id": "5b1a4b8887706b61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "História/Brasil República.md",
+                "file": "Física/Onda.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brasil República"
+              "title": "Onda"
             }
           }
         ]
@@ -184,26 +184,28 @@
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "26c03e87f6388c27",
+  "active": "5b1a4b8887706b61",
   "lastOpenFiles": [
+    "questions_fisica_ondulatoria_cordas-e-tubos-sonoros_availableOnPersonalizedPlan_FULL_COURSE_anotado.pdf",
+    "questions_fisica_ondulatoria_fenomenos-sonoros_availableOnPersonalizedPlan_FULL_COURSE_anotado.pdf",
+    "questions_fisica_ondulatoria_propriedades-fisiologicas-do-som_availableOnPersonalizedPlan_FULL_COURSE_anotado.pdf",
+    "Arquivos/2bd37400-fad5-4fce-bbb1-30c946fdf3c5-09.-fenomenos-sonoros_anotado.pdf",
+    "Química/Alotropia.md",
+    "Física/Onda.md",
+    "Arquivos/546b4987-0d17-418a-8baa-c0953a25f1f2-ondulatoria.pdf",
+    "Arquivos/48b5c0b2-f856-46f2-a004-2da8b942373d-12.-tubos-sonoros-e-tubos-de-kundt_anotado.pdf",
+    "Arquivos/8ddda424-2dec-4996-85f5-adf746f899a8-11.-ondas-estacionarias-e-cordas-sonoras_anotado.pdf",
+    "Arquivos/70de8839-d3d5-42ab-bcc8-1245a9e65c70-10.-efeito-doppler_anotado.pdf",
+    "Arquivos/42a6ec81-74d6-4b27-86b4-ae48fdd478c7-08.-propriedades-fisiologicas-do-som_anotado.pdf",
+    "Química/Eletrólise.md",
+    "Arquivos/bbe6f08b-5fd4-42ee-95c5-82bac4c7015a-eletroquimica.pdf",
+    "História/Brasil República.md",
     "História/Idade Moderna Part. 2.md",
     "História/Idade Moderna.md",
-    "Química/Eletrólise.md",
     "Arquivos/2a20e9a8-3151-4b1d-bc60-9073e4d24f74.pdf",
-    "Arquivos/2a20e9a8-3151-4b1d-bc60-9073e4d24f74_anotado.pdf",
-    "Arquivos/34551b41-a6da-441f-a345-fb029af1de77_anotado.pdf",
-    "Arquivos/b5859271-3b9d-4d28-bee7-e675e48649d1_anotado.pdf",
-    "Arquivos/18248028-c118-4496-995d-b860628dd688_anotado.pdf",
-    "Arquivos/38144127-d057-4602-9cac-1420fde0e4f6_anotado.pdf",
     "Biologia/Evolução Biológica.md",
-    "Arquivos/Biologia-Evolução.pdf",
     "Biologia/Origem da Vida.md",
-    "Arquivos/a508b6c1-f3f5-4a9e-a9b1-4d3269af8f9a-14.-analise-combinatoria_anotado.pdf",
-    "Física/Onda.md",
     "Matemática/Análise combinatória.md",
-    "Arquivos/cda41ad1-570b-45da-b1bd-4b11a33a5fcc-analise-combinatoria.pdf",
-    "Arquivos/96f9d7e4-552e-452f-a810-ac163bdfcd1b-02.-reflexao_anotado.pdf",
-    "História/Brasil República.md",
     "Química/Pilhas e reações de Oxi-Reação.md",
     "Filosofia/Filosofia Contemporânea.md",
     "Filosofia/Filosofia Moderna.md",
@@ -221,8 +223,6 @@
     "Física/Proporção entre grandezas físicas.md",
     "Física/Queda Livre e Lançamento Vertical para Baixo.md",
     "Física/Sequência de Galileu.md",
-    "Física/Sistema de Blocos.md",
-    "Física/Sistemas Isolados.md",
     "Arquivos/Pasted image 20260528195328.png",
     "Arquivos/Pasted image 20260526221921.png",
     "Arquivos/Pasted image 20260526212819.png",

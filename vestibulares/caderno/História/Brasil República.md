@@ -1,4 +1,4 @@
-x
+
 Primeiro Governo pós proclamação
 - Marechal Deodoro da Fonseca
 - Governo Provisório
