@@ -11,3 +11,6 @@
 
 - [ ] Função algébrica 1º e  2º grau CONTEXTUALIZADA 
 - [ ] Cálculo de NOX
+
+
+![[Pasted image 20260622195409.png]]
