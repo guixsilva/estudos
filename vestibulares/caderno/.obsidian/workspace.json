@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0acf44cbe86d31a7",
+        "id": "3a84cd3181919d9c",
         "type": "tabs",
         "children": [
           {
-            "id": "85edded7359da417",
+            "id": "c8654395ec80333c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Taxionomia.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Taxionomia"
+              "title": "Nova aba"
             }
           }
         ]
@@ -184,9 +180,14 @@
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "85edded7359da417",
+  "active": "84580609061d1f49",
   "lastOpenFiles": [
-    "Taxionomia.md",
+    "Biologia/Taxionomia.md",
+    "Química/Propriedades Coligativas.md",
+    "Arquivos/0f1cd659-0c92-4d0c-bb44-9c6cda770fb1_anotado.pdf",
+    "Arquivos/9490bde0-c9c9-440e-9d0f-45c89840eec9_anotado.pdf",
+    "Arquivos/d2686405-ac1b-488f-8224-e601abbff95f_anotado.pdf",
+    "Arquivos/3f3c284f-bd9a-46ee-b5a8-42845db0d430_anotado.pdf",
     "Arquivos/Pasted image 20260623212009.png",
     "Arquivos/Pasted image 20260622195409.png",
     "Roteiro.md",
@@ -198,11 +199,7 @@
     "Química/Alotropia.md",
     "Arquivos/546b4987-0d17-418a-8baa-c0953a25f1f2-ondulatoria.pdf",
     "Arquivos/48b5c0b2-f856-46f2-a004-2da8b942373d-12.-tubos-sonoros-e-tubos-de-kundt_anotado.pdf",
-    "Arquivos/8ddda424-2dec-4996-85f5-adf746f899a8-11.-ondas-estacionarias-e-cordas-sonoras_anotado.pdf",
-    "Arquivos/70de8839-d3d5-42ab-bcc8-1245a9e65c70-10.-efeito-doppler_anotado.pdf",
-    "Arquivos/42a6ec81-74d6-4b27-86b4-ae48fdd478c7-08.-propriedades-fisiologicas-do-som_anotado.pdf",
     "Química/Eletrólise.md",
-    "Arquivos/bbe6f08b-5fd4-42ee-95c5-82bac4c7015a-eletroquimica.pdf",
     "História/Brasil República.md",
     "História/Idade Moderna Part. 2.md",
     "História/Idade Moderna.md",
@@ -223,7 +220,6 @@
     "Física/Movimento Circular e Uniforme.md",
     "Física/Movimento Uniforme.md",
     "Física/Princípio de Pascal e Pressão.md",
-    "Física/Proporção entre grandezas físicas.md",
     "Arquivos/Pasted image 20260528195328.png",
     "Arquivos/Pasted image 20260526221921.png",
     "Arquivos/Pasted image 20260526212819.png",
