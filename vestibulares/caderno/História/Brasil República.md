@@ -88,3 +88,7 @@ Primeiro Governo pós proclamação
 				- Um milagre ocorre durante uma missa de Padre Cícero.
 				- Padre Cícero ganha apoio popular.
 				- Padre Cícero se torna um coronel - defensor da família Acioly (pacto dos Coronéis)
+
+![[f9a0dc14-da07-4809-9727-1a3474e66045-13.movimentos-sociais-movimento-operario.pdf]]
+![[8acaa317-11b6-4b96-b6c9-2c2ebef432ad-12.movimentos-sociais-revolta-da-chibata.pdf]]
+![[a8a3a625-cda8-411e-aa8c-3b52a0c5eccd-05.-movimentos-sociais-revolta-da-vacina-copia.pdf]]
