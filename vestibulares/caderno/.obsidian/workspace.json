@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8f1b704baf226464",
+        "id": "3ec1f9286f2c3c02",
         "type": "tabs",
         "children": [
           {
-            "id": "f9838ab86ba83cc7",
+            "id": "e8b12043af697d0c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -182,6 +182,12 @@
   },
   "active": "84580609061d1f49",
   "lastOpenFiles": [
+    "Arquivos/questions_fisica_mhs_availableOnPersonalizedPlan_FULL_COURSE_anotado.pdf",
+    "Arquivos/4bb2fe89-eb0d-4c8a-9d2e-3647871da8b7-02.-dinamica-do-mhs_anotado.pdf",
+    "Física/MHS.md",
+    "Arquivos/Física-Movimento_Harmônico_Simples.pdf",
+    "Arquivos/81f5be78-dce8-4493-917f-d4902b8d5e33-03.-cinematica-do-mhs_anotado.pdf",
+    "Arquivos/77ee4632-695d-4c4a-8478-6d63e7cba76f-01.-fundamentos-do-mhs_anotado.pdf",
     "Química/Propriedades Coligativas.md",
     "Arquivos/0ed7a44a-e789-4afe-862f-3099038d98f3-propriedades_coligativas.pdf",
     "Arquivos/questions_quimica_propriedades-coligativas_availableOnPersonalizedPlan_FULL_COURSE_anotado.pdf",
@@ -193,14 +199,9 @@
     "Arquivos/a8a3a625-cda8-411e-aa8c-3b52a0c5eccd-05.-movimentos-sociais-revolta-da-vacina-copia.pdf",
     "Arquivos/f9a0dc14-da07-4809-9727-1a3474e66045-13.movimentos-sociais-movimento-operario.pdf",
     "Biologia/Taxionomia.md",
-    "Arquivos/0f1cd659-0c92-4d0c-bb44-9c6cda770fb1_anotado.pdf",
-    "Arquivos/9490bde0-c9c9-440e-9d0f-45c89840eec9_anotado.pdf",
-    "Arquivos/d2686405-ac1b-488f-8224-e601abbff95f_anotado.pdf",
-    "Arquivos/3f3c284f-bd9a-46ee-b5a8-42845db0d430_anotado.pdf",
     "Arquivos/Pasted image 20260623212009.png",
     "Arquivos/Pasted image 20260622195409.png",
     "Roteiro.md",
-    "Arquivos/questions_fisica_ondulatoria_cordas-e-tubos-sonoros_availableOnPersonalizedPlan_FULL_COURSE_anotado.pdf",
     "Física/Onda.md",
     "Química/Alotropia.md",
     "Química/Eletrólise.md",
@@ -219,7 +220,6 @@
     "Física/Impulso.md",
     "Física/Lançamento Horizontal.md",
     "Física/Leis de Newton.md",
-    "Física/Lançamento Vertical para Cima.md",
     "Arquivos/Pasted image 20260528195328.png",
     "Arquivos/Pasted image 20260526221921.png",
     "Arquivos/Pasted image 20260526212819.png",
