@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3ec1f9286f2c3c02",
+        "id": "c7a43b6ecb0c36f6",
         "type": "tabs",
         "children": [
           {
-            "id": "e8b12043af697d0c",
+            "id": "6a4e6d75b53f73ba",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -182,6 +182,8 @@
   },
   "active": "84580609061d1f49",
   "lastOpenFiles": [
+    "Arquivos/af4c7be7-1c6c-48bb-9e5e-f0dcebcf4bc3-funcao_afim.pdf",
+    "Matemática/Função Afim.md",
     "Arquivos/questions_fisica_mhs_availableOnPersonalizedPlan_FULL_COURSE_anotado.pdf",
     "Arquivos/4bb2fe89-eb0d-4c8a-9d2e-3647871da8b7-02.-dinamica-do-mhs_anotado.pdf",
     "Física/MHS.md",
@@ -219,7 +221,6 @@
     "Física/Força Normal.md",
     "Física/Impulso.md",
     "Física/Lançamento Horizontal.md",
-    "Física/Leis de Newton.md",
     "Arquivos/Pasted image 20260528195328.png",
     "Arquivos/Pasted image 20260526221921.png",
     "Arquivos/Pasted image 20260526212819.png",

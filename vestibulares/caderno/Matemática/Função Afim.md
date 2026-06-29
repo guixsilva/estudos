@@ -1,0 +1,1 @@
+![[af4c7be7-1c6c-48bb-9e5e-f0dcebcf4bc3-funcao_afim.pdf]]
