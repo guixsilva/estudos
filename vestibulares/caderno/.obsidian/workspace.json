@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c7a43b6ecb0c36f6",
+        "id": "bc032ba8de21d8c2",
         "type": "tabs",
         "children": [
           {
-            "id": "6a4e6d75b53f73ba",
+            "id": "a26bccdde8e34b11",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Biologia/Microbiologia.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Microbiologia"
             }
           }
         ]
@@ -180,8 +184,12 @@
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "84580609061d1f49",
+  "active": "a26bccdde8e34b11",
   "lastOpenFiles": [
+    "Arquivos/Pasted image 20260630220723.png",
+    "Arquivos/0af40a38-94e6-41af-88af-87a0f431ec41-45.-renascimento-cultural-difusao.pdf",
+    "Arquivos/e965b762-957c-483c-b64e-4dae7da4367f-15-microbiologia.pdf",
+    "Biologia/Microbiologia.md",
     "Arquivos/af4c7be7-1c6c-48bb-9e5e-f0dcebcf4bc3-funcao_afim.pdf",
     "Matemática/Função Afim.md",
     "Arquivos/questions_fisica_mhs_availableOnPersonalizedPlan_FULL_COURSE_anotado.pdf",
@@ -196,10 +204,7 @@
     "Química/Forças Intermoleculares.md",
     "Química/Fases de Agregação da Matéria.md",
     "Química/Estequiometria.md",
-    "Arquivos/8acaa317-11b6-4b96-b6c9-2c2ebef432ad-12.movimentos-sociais-revolta-da-chibata.pdf",
     "História/Brasil República.md",
-    "Arquivos/a8a3a625-cda8-411e-aa8c-3b52a0c5eccd-05.-movimentos-sociais-revolta-da-vacina-copia.pdf",
-    "Arquivos/f9a0dc14-da07-4809-9727-1a3474e66045-13.movimentos-sociais-movimento-operario.pdf",
     "Biologia/Taxionomia.md",
     "Arquivos/Pasted image 20260623212009.png",
     "Arquivos/Pasted image 20260622195409.png",
@@ -220,13 +225,11 @@
     "Física/Calor.md",
     "Física/Força Normal.md",
     "Física/Impulso.md",
-    "Física/Lançamento Horizontal.md",
     "Arquivos/Pasted image 20260528195328.png",
     "Arquivos/Pasted image 20260526221921.png",
     "Arquivos/Pasted image 20260526212819.png",
     "Arquivos/Pasted image 20260520212605.png",
     "Arquivos/Pasted image 20260520225937.png",
-    "Arquivos/Pasted image 20260520213923.png",
-    "Arquivos/Pasted image 20260519201652.png"
+    "Arquivos/Pasted image 20260520213923.png"
   ]
 }
