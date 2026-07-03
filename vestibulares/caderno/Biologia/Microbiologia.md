@@ -29,4 +29,39 @@ Vírus
 
 ![[Pasted image 20260630220723.png]]
 
+Procariontes
+- Bactérias, cianobactérias e Arqueas - reino monera. 
+- Tratamento de todas as doenças: antibiótico
+- Bactérias
+	- Unicelulares
+	- Células procarióticas
+	- Podem viver em colônias
+	- Autótrofos (fotossíntese) ou Heterótrofos (decomposição e parasitismo)
+	- Aeróbios (precisam de oxigênio) ou anaeróbicos (oxigênio tóxicos).
+	- Classificação
+		- Formato
+			- Coco - pneumonia
+			- Espirilo - sífilis
+			- Vibrião - cólera
+			- Bacilo - tuberculose.
+		- Classificação nutricional
+			- Heterótrofos - parasitas, simbiontes...
+			- Autotróficas - fotossintetizantes e quimiossintetizantes.
+		- Bizu
+			- Fotoautotrófica: usam a luz como fonte de energia
+			- Fotoheterotróficas: a partir de compostos orgânicos e de luz produzem seus próprio compostos orgânicos
+			- Quimiautotrófica: não usam a luz - usam processos químicos como conte de energia
+			- Quimioheterotróficas: a partir de compostos orgânicos e produzem seus próprio compostos orgânicos
+		- Reprodução
+			- Assexuada - divisão binária ou esporulação.
+			- Sexuada
+				- Troca de material genético
+- Cianobactérias
+	- Todas fazem fotossínteses
+	- Reprodução assexuada
+	- Domínio archea: sobrevivência em ambientes extremos. 
+
+
+![[Pasted image 20260701210644.png]]
+
 ![[e965b762-957c-483c-b64e-4dae7da4367f-15-microbiologia.pdf]]
