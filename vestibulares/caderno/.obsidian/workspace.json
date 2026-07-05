@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e0aa6cde43e1dba0",
+        "id": "3f6691d2a99823e1",
         "type": "tabs",
         "children": [
           {
-            "id": "0e01e17af1564d78",
+            "id": "dd13397d36b47772",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -167,8 +167,8 @@
             "state": {
               "type": "smart-env-status-view",
               "state": {},
-              "icon": "gauge",
-              "title": "Smart Environment Status"
+              "icon": "lucide-ghost",
+              "title": "smart-env-status-view"
             }
           },
           {
@@ -177,8 +177,8 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "smart-connections",
-              "title": "Connections"
+              "icon": "lucide-ghost",
+              "title": "smart-connections-view"
             }
           }
         ],
@@ -198,31 +198,29 @@
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
-      "improved-random-note:Open improved random note": false,
-      "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Toggle Footer Connections": false,
-      "smart-connections:Smart Connections: Open random connection": false
+      "improved-random-note:Open improved random note": false
     }
   },
   "active": "84580609061d1f49",
   "lastOpenFiles": [
+    "Física/Espelhos.md",
+    "Arquivos/5f14804b-ecdf-4b6b-b97e-dc010a6073be-03.-espelhos-planos-parte-01_anotado.pdf",
+    "Arquivos/1ad4de48-7422-4bf4-80ef-eaef59cc8177-04.-espelhos-planos-parte-02_anotado.pdf",
+    "Arquivos/581eaf75-aa93-4036-8cb9-5f572930cbf9-05.-espelhos-esfericos-parte-01_anotado.pdf",
+    "Arquivos/c70e8d6c-c000-41cf-b16a-ba586e10675a-06.-espelhos-esfericos-parte-02_anotado.pdf",
+    "Arquivos/bd94d9a1-4e92-4d52-9501-b1eaef533008-02.-principios-da-optica-geometrica_anotado.pdf",
+    "Arquivos/33c56bc9-7a1a-45d1-896f-27d2e84e538f-01.-fundamentos-da-optica_anotado.pdf",
     "Química/Química Orgânica e Carbono.md",
     "Arquivos/cc6d6eaa-4ace-48e3-ba5e-865edf2383d0-introducao_quimica_organica.pdf",
     "Arquivos/d0c7ab0d-a4de-42eb-a825-4fa00d8b4966_anotado.pdf",
     "Arquivos/6c146d64-6674-432b-b438-09e58878a00b-introducao-as-funcoes-organicas_anotado.pdf",
     "Arquivos/4ffb33c6-7677-40c9-892d-e515e2b20554-04.-classificacao-das-cadeias_anotado.pdf",
-    "Arquivos/3ab9912f-38b6-4efb-8451-1b082f99c32d_anotado.pdf",
-    "Arquivos/27a711c8-cf80-469e-a5ac-67d9a2f9b9ce_anotado.pdf",
     "Química/Ligações Químicas.md",
     "Filosofia/Aristóteles.md",
     "Roteiro.md",
-    "Arquivos/99f214a2-83c9-420f-aa4e-cb6dd6e4e252_anotado.pdf",
     "Biologia/Microbiologia.md",
     "Arquivos/Pasted image 20260701210644.png",
     "Arquivos/Pasted image 20260630220723.png",
-    "Arquivos/0af40a38-94e6-41af-88af-87a0f431ec41-45.-renascimento-cultural-difusao.pdf",
-    "Arquivos/e965b762-957c-483c-b64e-4dae7da4367f-15-microbiologia.pdf",
-    "Arquivos/af4c7be7-1c6c-48bb-9e5e-f0dcebcf4bc3-funcao_afim.pdf",
     "Matemática/Função Afim.md",
     "Física/MHS.md",
     "Química/Propriedades Coligativas.md",
@@ -245,7 +243,6 @@
     "Filosofia/Filosofia Contemporânea.md",
     "Filosofia/Filosofia Moderna.md",
     "Arquivos/Pasted image 20260609201931.png",
-    "Física/1. Exercicios.md",
     "Arquivos/Pasted image 20260528195328.png",
     "Arquivos/Pasted image 20260526221921.png",
     "Arquivos/Pasted image 20260526212819.png",
