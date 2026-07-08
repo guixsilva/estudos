@@ -10,6 +10,25 @@ Conceitos
 - Período de incubação: tempo entre o contágio e os primeiros sintomas.
 - Zoonose: doença comum entre humanos e outros animais.
 
+Classificação dos seres vivos
+- Os cincos reinos
+	- Monera
+		- Bactérias e cianobactérias
+		- Células primitivas: procarióticas - parede celular formada por peptídeoglicano.
+		- Nos ecossistemas: produtores, consumidores ou decompositores. 
+		- [[Microbiologia]]
+	- Protoctista
+		- [[Protozoários]] e [[Algas]]
+		- Células mais complexas: eucariótica - parede celular formada por sílica.
+		- Nos ecossistemas: produtores, consumidores ou decompositores. 
+		- 
+	- Fungi
+		- Leveduras, bolores e cogumelos.
+		- Células eucariótica - parede celular de quitina.
+		- Consumidores ou decompositores.
+		- [[Fungos]]
+
+
 Vírus
 - Não possuem célula - acelulares
 - Nem sempre são considerados seres vivos por não terem célula e metabolismo próprio.
@@ -64,4 +83,5 @@ Procariontes
 
 ![[Pasted image 20260701210644.png]]
 
+![[b278408b-aaa6-40df-9ddb-89e591cc320b-playlist-17-microbiologia.pdf]]
 ![[e965b762-957c-483c-b64e-4dae7da4367f-15-microbiologia.pdf]]

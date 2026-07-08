@@ -32,10 +32,12 @@ Classificação dos seres vivos
 		- Bactérias e cianobactérias
 		- Células primitivas: procarióticas - parede celular formada por peptídeoglicano.
 		- Nos ecossistemas: produtores, consumidores ou decompositores. 
+		- [[Microbiologia]]
 	- Protoctista
-		- Protozoários e algas
+		- Protozoários e Algas
 		- Células mais complexas: eucariótica - parede celular formada por sílica.
 		- Nos ecossistemas: produtores, consumidores ou decompositores. 
+		- 
 	- Fungi
 		- Leveduras, bolores e cogumelos.
 		- Células eucariótica - parede celular de quitina.
@@ -62,3 +64,5 @@ Classificação dos seres vivos
 		- Células eucarióticas
 		- Autótrofos ou heterótrofos
 		- Produtores, consumidores ou decompositores.
+
+

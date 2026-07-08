@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3f6691d2a99823e1",
+        "id": "e0e03712dec6ad6b",
         "type": "tabs",
         "children": [
           {
-            "id": "dd13397d36b47772",
+            "id": "ac904501d83366b9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -203,6 +203,15 @@
   },
   "active": "84580609061d1f49",
   "lastOpenFiles": [
+    "Biologia/Protozoários.md",
+    "Biologia/Fungos.md",
+    "Biologia/Microbiologia.md",
+    "Arquivos/b278408b-aaa6-40df-9ddb-89e591cc320b-playlist-17-microbiologia.pdf",
+    "Biologia/Taxionomia.md",
+    "Biologia/Algas.md",
+    "Biologia/Reprodução.md",
+    "Arquivos/Pasted image 20260707210212.png",
+    "Biologia/Bioenergética.md",
     "Física/Espelhos.md",
     "Arquivos/5f14804b-ecdf-4b6b-b97e-dc010a6073be-03.-espelhos-planos-parte-01_anotado.pdf",
     "Arquivos/1ad4de48-7422-4bf4-80ef-eaef59cc8177-04.-espelhos-planos-parte-02_anotado.pdf",
@@ -214,11 +223,9 @@
     "Arquivos/cc6d6eaa-4ace-48e3-ba5e-865edf2383d0-introducao_quimica_organica.pdf",
     "Arquivos/d0c7ab0d-a4de-42eb-a825-4fa00d8b4966_anotado.pdf",
     "Arquivos/6c146d64-6674-432b-b438-09e58878a00b-introducao-as-funcoes-organicas_anotado.pdf",
-    "Arquivos/4ffb33c6-7677-40c9-892d-e515e2b20554-04.-classificacao-das-cadeias_anotado.pdf",
     "Química/Ligações Químicas.md",
     "Filosofia/Aristóteles.md",
     "Roteiro.md",
-    "Biologia/Microbiologia.md",
     "Arquivos/Pasted image 20260701210644.png",
     "Arquivos/Pasted image 20260630220723.png",
     "Matemática/Função Afim.md",
@@ -228,7 +235,6 @@
     "Química/Fases de Agregação da Matéria.md",
     "Química/Estequiometria.md",
     "História/Brasil República.md",
-    "Biologia/Taxionomia.md",
     "Arquivos/Pasted image 20260623212009.png",
     "Arquivos/Pasted image 20260622195409.png",
     "Física/Onda.md",
@@ -237,16 +243,10 @@
     "História/Idade Moderna Part. 2.md",
     "História/Idade Moderna.md",
     "Biologia/Evolução Biológica.md",
-    "Biologia/Origem da Vida.md",
-    "Matemática/Análise combinatória.md",
-    "Química/Pilhas e reações de Oxi-Reação.md",
-    "Filosofia/Filosofia Contemporânea.md",
-    "Filosofia/Filosofia Moderna.md",
     "Arquivos/Pasted image 20260609201931.png",
     "Arquivos/Pasted image 20260528195328.png",
     "Arquivos/Pasted image 20260526221921.png",
     "Arquivos/Pasted image 20260526212819.png",
-    "Arquivos/Pasted image 20260520212605.png",
-    "Arquivos/Pasted image 20260520225937.png"
+    "Arquivos/Pasted image 20260520212605.png"
   ]
 }
